@@ -1,0 +1,1133 @@
+con_number,con_uuid,title,first_name,middle_name,last_name,name_suffix,dob,gender,address_line_one,address_line_two,city,state,county,postal_code,postal_code_suffix,email,email_status,cell_number,home_number,work_number,spouse_con_number
+1,4ce54c56-0a10-439c-8bb1-5d58bcf2f9de,,Judy,,Ackerman,,,Unknown or N/A,3530 Cline Rd NW,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+2,28261485-d9df-4874-804d-f0e90574586f,,Luke,,Adam,,,Unknown or N/A,5837 S Bloomin,,Underwood,IN,,47177,,,Unknown,,,,1024
+3,20efbcae-3f90-41dd-9880-cd1dcae87f9c,,Dave,,Albert,,,Unknown or N/A,3035 E Lobo Rid,,New Albany,IN,Floyd,47150,,,Unknown,,,,1025
+4,0ab4256c-297b-4ea4-9605-a1d79aff457f,,Dessica,,Albertson,,,Unknown or N/A,,,,,,,,dalbertson328@gmail.com,Unknown,,,,
+5,74985470-90e5-42e9-917b-3bfe8f8b5468,,Scott J.,,Aldridge,,,Unknown or N/A,,,,,,,,scott.j.aldridge@gmail.com,Unknown,,(502) 523-6051,,
+6,cdb6bd9c-83a6-4124-85a6-69d6f92f7727,,Beth,,Alexander,,,Unknown or N/A,,,,,,,,bethmark2003@gmail.com,Unknown,,,,
+7,0d2fc92c-a56a-4d2e-b2f3-6a5d50d7cf4c,,Roger,,Alexander,,,Unknown or N/A,1038 Hwy 337 SE,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+8,10f9527d-8267-4ede-ac29-ef6855e877f2,,Emily,,Allen,,,Unknown or N/A,,,,,,,,adamse1989@yahoo.com,Unknown,,,,
+9,3646da7d-5de2-4b76-a9f6-c92206ccfd67,,Tammy,,Allen,,,Unknown or N/A,906 Walts Rd,,Georgetown,IN,Floyd,47122,9420,a2001sweetheart@yahoo.com,Opt In,,,,
+10,645d43d6-72b4-4e5c-b247-7b6ee89d1a8f,,Tony,,Alstott,,,Unknown or N/A,2212 State St,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+11,f5a716af-57ce-416d-91b3-638e410d4c7a,,Jackie,,Anderson,,,Unknown or N/A,,,,,,,,,Unknown,,(502) 489-0754,,
+12,ae88e570-583a-4391-95e9-ea07bee04d39,,Michele,,Anderson,,,Unknown or N/A,,,,,,,,anderson7378@twc.com,Unknown,,(502) 664-3142,,
+13,c48fa225-0674-4fb9-a01f-27ed7c9d83f4,,Sister Arisha,,Anderson,,,Unknown or N/A,4147 Sierra Deuce,,Boomington,IN,,47403,,,Unknown,,,,
+14,addd16ea-7a64-4cf5-9905-da01f6827368,,Tate,,Anderson,,,Unknown or N/A,6030 May St,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,
+15,ffe81c43-5a6e-4da8-9aa1-3500d6c538cc,,Laurie,,Andry,,,Unknown or N/A,,,,,,,,andrylj@paoli.k12.in.us,Unknown,,(812) 653-1586,,
+16,9f97f45e-87e1-4899-b0ee-ed69a9216a93,,Adam,,Atwood,,,Unknown or N/A,504 E Main St. #,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+17,7a29ce4d-8d09-4aaa-af59-68c26388f8e5,,Kim,,Auberry,,,Unknown or N/A,1434 Flatwood,,New Salisbury,IN,,47161,,,Unknown,,,,1026
+18,78b243b5-85c3-4d64-b437-15bbb5645339,,Michael W.,,Avery,,,Unknown or N/A,31 Carlotia Drive,,Jeffersonville,IN,,47139,,mikea@twc.com,Unknown,,(502) 396-7582,,
+19,e50258ee-475f-4fb0-98a1-900898e687db,,Jerry,,Ayres,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+20,5f91aac4-34ff-4df2-aa50-6c3ca868dec7,,Kevin,,Bailey,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+21,af66f571-5083-4d40-b7a7-233be3a73908,,Tom,,Bailey,,,Unknown or N/A,102 Benedetti Ct.,,Cary,NC,,27513,,,Unknown,,,,1027
+22,970b5d41-1ab7-4924-a759-340dce54c01e,,Kelli,,Bain,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+23,09c480b4-3b9f-4b2a-b7a8-720b25927b28,,Kyle,,Baird,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+24,3ea6171d-61ed-403e-9cf5-573296014d6b,,Terri,,Baker,,,Unknown or N/A,"One Riverpoint Plaza, #609",,Jeffersonville,IN,Clark,47130,,,Unknown,,,,1028
+25,a66863e5-09a3-4726-a946-ebab8187d74e,,Richard,,Bancroft,,,Unknown or N/A,,,,,,,,rubeautyinspired@gmail.com,Unknown,,(502) 338-8377,,
+26,bacf9a14-c905-496a-8cd0-1123bab38963,,Brenda,,Banet,,,Unknown or N/A,3670 Hwy 62 NE,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+27,3762c1d7-34d9-4fbb-9b63-08e9c3a6a4fa,,Jameson,,Barker,,,Unknown or N/A,3600 Kamer Mil,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+28,0fc67c5d-109d-4d2e-bea2-7c34b8359155,,Laura,,Barkhauer,,,Unknown or N/A,1903 Winged Foot Ct,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+29,9991b39b-1cb0-46a8-aedc-ac1abf7a2254,,Janice,,Barksdale,,,Unknown or N/A,468 N Randolph Ave,,Clarksville,IN,Clark,47129,,,Unknown,,,,
+30,ba685fec-db9a-41d2-b1cb-97dbebaeeee2,,K,,Barley,,,Unknown or N/A,,,,,,,,Kbarley@ius.com,Unknown,,,,
+31,0e546c46-7eca-4c79-8a66-f8b28fd6499e,,Carol D.,,Barnes,,,Unknown or N/A,,,,,,,,carolsecofficer@yahoo.com,Unknown,,(812) 639-8739,,
+32,1d47431d-847c-4b3a-8706-85bf3b706d1f,,Bobby,,Barr,,,Unknown or N/A,1616 Flatwoods,,Ramsey,IN,,47161,,,Unknown,,,,
+33,ace0d56e-64cb-4a85-8884-6944c1b9dfa7,,John,,Barr,,,Unknown or N/A,7560 Kincaid Dr,,New Salisbury,IN,,47161,,,Unknown,,,,
+34,e01c1bd8-07d6-44d2-aae3-9c4a45f0b4a9,,Audrey,,Barrett,,,Unknown or N/A,,,,,,,,chicagobarretts@insightbb.com,Unknown,,(812) 406-5712,,1180
+35,e7fcc9f9-d740-486d-97ae-eec19996202b,,Theresa,,Bauer,,,Unknown or N/A,312 E High St,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+36,ef94ca9a-7476-4411-8152-8bee83c207db,,Mary,,Beach,,,Unknown or N/A,2011 Vienna Rd,,Charlestown,IN,Clark,47111,,,Unknown,,,,
+37,9d1eb1c0-109b-4d3e-b746-5a821a5bc5d1,,Amanda,,Beam,,,Unknown or N/A,,,,,,,,adbeam47@aol.com,Unknown,,(502) 210-1447,,
+38,53f16670-7f24-4296-b326-01bbb0d8fe74,,Kevin,,Becht,,,Unknown or N/A,PO Box 1646,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+39,43a9a5c1-ebda-4641-a1ab-c91158a96e64,,David,,Becker,,,Unknown or N/A,6003 Beechwoo,,Greenville,IN,Floyd,47124,,,Unknown,,,,
+40,758eedb7-d83d-4ba2-ba12-1e7b8de083d2,,David,,Becker,,,Unknown or N/A,5634 E McCarthy Knob Rd,,New Albany,IN,Floyd,47150,,,Unknown,,,,1030
+41,31b0f1bc-8540-4b09-adf1-cfd4a98b22e4,,Dennis,,Belcher,,,Unknown or N/A,7832 Geswein R,,Lanesville,IN,,47136,,,Unknown,,,,
+42,30a5432a-a89b-4418-a352-3e725e77ca49,,Beth,,Bell,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+43,e759392b-bed0-4739-ba62-85a954841920,,E.,,Bell,,,Unknown or N/A,350 Trimmingham Rd,,New Albany,IN,Floyd,47150,,,Unknown,,,,1031
+44,d0bd96d8-1bed-4b66-a3b6-c1bedbf26bd1,,Sabrina R.,,Bell,,,Unknown or N/A,,,,,,,,sabrinar.bell@gmail.com,Unknown,,(812) 788-1145,,
+45,5ad3de61-90c0-449e-a6d2-449eeafcbfdc,,Sherrie,,Bell,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+46,13ada125-1dc7-47d9-aa2d-c2a8edbe87b9,,Grant,,Belles,,,Unknown or N/A,1934 McDonald,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+47,5aaa38e1-a247-428b-a0c9-3c3d9114313f,,Jackie,,Belles,,,Unknown or N/A,11590 S Horners Chapel Rd.,,Fredricksburg,IN,,47120,,,Unknown,,,,
+48,2d75ea63-2c6e-4425-95a5-c5637ce7a543,,Brad,,Belviy,,,Unknown or N/A,13601 Bennettsville Rd,,Memphis,IN,Clark,47143,,,Unknown,,,,1032
+49,f86ee707-aaf0-46c7-bff5-f79c1af7b30a,,Cameo Sia,,Bennett,,,Unknown or N/A,,,,,,,,cameorealtor@gmail.com,Unknown,,(502) 387-0425,,
+50,aa4e83b2-1cd3-4213-b0d1-7b12df35c6f3,,Jim,,Benton,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+51,6f4b67ce-fde6-4469-957f-d7984f9606d4,,Betty,,Bickel,,,Unknown or N/A,1500 Flatwoods Dr,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+52,91caef6d-e86c-4321-ac7c-d53e0129bad2,,John,,Bilbrey,,,Unknown or N/A,1765 Cemetary,,New Salisbury,IN,,47161,,,Unknown,,,,
+53,ece91b17-2caf-44d8-bf42-2adc19c34b0f,,Janet,,Bischoff,,,Unknown or N/A,992 Zoar Church Rd,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+54,b6576ff3-f39c-4b07-921b-a01236b252aa,,Dr.,,Bittenbender,,,Unknown or N/A,2315 Green Valley Rd,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+55,e99c4268-daa5-4f04-8ba0-86efed9c5d6b,,Brad,,Black,,,Unknown or N/A,33 Hilltop Rd,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,1033
+56,bf38167d-2df6-46a5-b128-576779452635,,Butch,,Black,,,Unknown or N/A,6856 Hwy 337,,Depauw,IN,,47115,,,Unknown,,,,1034
+57,dfd6b673-e4d4-4809-9598-d2dadc1547c3,,Mike,,Blackburn,,,Unknown or N/A,5240 Lickford Br,,Mauckport,IN,,47142,,,Unknown,,,,
+58,4a0191d2-778b-40fc-ab59-5425bd7a5daa,,Rob,,Blackwell,,,Unknown or N/A,15117 Hwy 62,,Charlestown,IN,Clark,47111,,,Unknown,,,,
+60,64a9ba5d-d5b2-41f4-ae0c-b64494465659,,Jessica,,Blake,,,Unknown or N/A,,,,,,,,banetjessica@gmail.com,Unknown,,(812) 987-8100,,1192
+61,d833bb1d-1fce-4e82-9c16-e3717f3cf00f,,Stacey,,Blakeman,,,Unknown or N/A,,,,,,,,,Unknown,,(502) 632-5360,,
+62,50348eaa-f453-4608-8a18-b620eb1c2af5,,Irene,,Blank,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+63,9a69107f-c728-4a93-8e1c-e33f65136554,,James A.,,Blanton,,,Unknown or N/A,705 E.Locust St Apt D,,Fort Branch,IN,,47648,,,Unknown,,,,
+64,24733d81-8c88-4398-b1a5-e0b22871244e,,Larry,,Blanton,,,Unknown or N/A,4208 N State Rd 37,,Orleans,FL,,47452,,,Unknown,,,,
+65,e8173362-d3c4-4e6e-9cf6-6a9bc6e443c5,,Cecile,,Blau,,,Unknown or N/A,6418 Conservation Dr,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+66,5694fb55-7f08-444e-bdfb-b7e77e0cc0e5,,Jerry,,Blevins,,,Unknown or N/A,,,,,,,,randy@thinktanklou.com,Unknown,,(502) 897-0649,,
+67,cb99ff54-0aa2-463a-b764-a0c0a524b320,,Eddie,,Bobbitt,,,Unknown or N/A,205 Sloemer Avenue,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+68,307d5df8-93dd-4a9c-abbb-d0da1823ba80,,Mark,,Bobo,,,Unknown or N/A,8508 Plum Valle,,Sellersburg,IN,Floyd,47172,,,Unknown,,,,
+69,79beef7f-442d-4ba4-b0f1-ed7b163ac757,,Andrea,,Bogard,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+70,4954c72e-de6f-48cc-81dd-bb8fac517be8,,Dr. Maria,,Boha,,,Unknown or N/A,4044 Marquette Dr,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,
+71,e8463c2b-a4ad-4b29-90af-009758216743,,Karen,,Boha,,,Unknown or N/A,3602 Eagles Trce,,Floyds Knobs,IN,Floyd,47119,9102,kareneboha@gmail.com,Opt In,,(812) 987-6732,,
+72,2bc5a863-f581-444e-be36-379d5ece42ba,,Dennis,,Bolton,,,Unknown or N/A,,,,,,,,dennis@bjbrestoration.com,Unknown,,(502) 648-7682,,
+73,df39d3a4-b62e-4fb5-b0c6-2af5765fbc84,,Christy,,Boone,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+74,2074a8ff-8289-4e7a-9c10-617e401240e3,,Chad,,Boseker,,,Unknown or N/A,3209 Middle Rd,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+75,fc0ef86e-f8b1-44f6-ba13-dad5caa7c528,,Terri,,Boutin,,,Unknown or N/A,,,,,,,,terriboutin1@gmail.com,Unknown,,(502) 640-5169,,
+76,fcdb135b-b728-4453-8f60-917c23985dc0,,Opal,,Bowles,,,Unknown or N/A,1707 Elmwood Dr,,Clarksville,IN,Clark,47129,1325,opalbowles@gmail.com,Opt In,,(812) 945-6197,,
+77,dbc03728-317d-45b6-bd16-9cc524c6b34b,,Opal,,Bowles,,,Unknown or N/A,1220 Watt St,,Clarksville,IN,Clark,47129,,,Unknown,,,,
+78,702b8eeb-f2ca-4a26-9d4b-a631ec0e6d97,,Tom,,Boyd,,,Unknown or N/A,,,,,,,,tom@boyditservices.com,Unknown,,(502) 558-1165,,
+79,1385499b-f8bd-442c-92be-3d7a23a79f6e,,Burns,,Brady,,,Unknown or N/A,3723 Hillside Rd,,Louisville,KY,,40222,,,Unknown,,,,1037
+80,ff0534ba-6135-4792-8e37-4d896facaea9,,Sheri,,Brangers,,,Unknown or N/A,183 Louis Lane Mt. Washington,,Mt. Washington,KY,,40047,,,Unknown,,,,
+81,4bad28a7-629d-49c7-b265-5aa09fb9610e,,Jackie,,Brannon,,,Unknown or N/A,10335 Bradford Rd,,Greenville,IN,Floyd,47124,,,Unknown,,,,
+82,ae0bb4ed-d67f-408f-befe-14ab9d78dc08,,Jeff,,Branstetter,,,Unknown or N/A,,,,,,,,patricebran@gmail.com,Unknown,,(502) 544-2945,,1197
+83,1a782e23-4020-43e3-baf5-6764ef0270ff,,Jason,,Brewer,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+84,cf89b9d3-4b20-4c3f-aa5b-e123ef7de4db,,Janette,,Bridges,,,Unknown or N/A,,,,,,,,hussung57@frontier.com,Unknown,,(812) 734-6858,,
+85,d22ebb0e-33d0-4988-b873-de136075985f,,Brent,,Brisco,,,Unknown or N/A,,,,,,,,,Unknown,,(502) 931-2639,,
+86,68bbfb31-dd83-4d6b-ba77-7002bba19914,,Sonya I,,Broady,,,Unknown or N/A,,,,,,,,sonya@smithbroady.com,Unknown,,(812) 595-0636,,
+87,761b8a10-72d4-4333-80d2-3f8b986bda81,,Rachel,,Bronsweig,,,Unknown or N/A,,,,,,,,rbronsweig@gmail.com,Unknown,,,,
+88,2566c801-c85a-4938-ab3f-474c21009bd8,,Holly,,Brooks,,,Unknown or N/A,2313 Grant Line,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+89,c772978d-0a4e-4225-a7e8-0f518c43faf5,,Kimberly,,Brower,,,Unknown or N/A,,,,,,,,Kmjbrowerdavis@twc.com,Unknown,,,,
+90,52a9bb59-9620-46aa-9bc6-ddd75305aceb,,Linda,,Brown,,,Unknown or N/A,PO Box 850,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+91,41ecc810-30d9-43d7-8380-b87d28f777f5,,George,,Browning,,,Unknown or N/A,108 S Grade St,,Pekin,IN,,47165,,,Unknown,,,,
+92,8d06b118-4161-45c3-955a-7d99ab59a87d,,Cindy W.,,Brundage,,,Unknown or N/A,,,,,,,,cwbrundage@brundagejewelers.com,Unknown,,(502) 893-8839,,
+93,9b903ad6-afa1-4496-aa49-32d63de0dda2,,Terri,,Bruner,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+94,4f5c535f-6e3d-40be-aece-0eee8b6f24ec,,Tom,,Bruner,,,Unknown or N/A,PO Box 248,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+95,d1c13c11-45f8-4c4d-84d1-f4df0a36e0bd,,Richard,,Buckler,,,Unknown or N/A,,,,,,,,info@detailslouisville.com,Unknown,,(502) 938-8808,,
+96,3c5c6302-5a69-46e5-94fe-e272b7cd03d0,,Deb,,Bulleit,,,Unknown or N/A,,,,,,,,Dbulleit@freedom-101.org,Unknown,,,,
+97,727c395b-ca79-4dca-93e7-e4ea843e6dbd,,Kevin,,Burch,,,Unknown or N/A,860 Country Club Rd,,New Albany,IN,Floyd,47150,,,Unknown,,,,1039
+98,1e2dde9b-f822-4013-98b3-6b608fac5b96,,Aron,,Burchel,,,Unknown or N/A,6 Franklin Ave,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,1040
+99,b04a0ac9-9a89-4d7b-a9db-6b160bec23d9,,Sharon,,Bursby,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+100,c5875ce0-3664-4dec-9c33-32084434baef,,Vicki,,Burton,,,Unknown or N/A,,,,,,,,vicki@sonnelawoffice.com,Unknown,,,,
+101,422b665b-edc1-481f-8d03-d21d2e1b64fb,,Missi,,Bush-Sawtelle,,,Unknown or N/A,2350 Harrison Spring Rd NW,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+102,0aee46b1-29d3-4c58-b8bf-66b7cdf057d9,,Carol,,Byers,,,Unknown or N/A,2340 E Calvertvi,,Bloomfield,IN,,47424,,,Unknown,,,,
+103,12f05c58-30a5-4fd3-aa24-8962378eee71,,Dee Ann,,Byers,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+104,ad3567c7-dfc4-4d4f-94cd-647e99e2e633,,Chris,,Byrd,,,Unknown or N/A,564 Cobblestone Ct NE,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+105,7bb95729-2ef2-40b9-95f5-01449584b7e3,,Edsel,,Byrd,,,Unknown or N/A,1075 Woodland Ave NW,,Corydon,IN,Harrison,47112,,,Unknown,,,,1041
+106,4eb3271e-ef6e-46f5-aa86-9d00394fab3b,,Tricia,,Byrd,,,Unknown or N/A,,,,,,,,Tbyrd@stecharhics.org,Unknown,,,,
+107,d4e4f2bd-b495-48cd-a68d-ea58f3f454a9,,Pat,,Byrne,,,Unknown or N/A,2525 Spickert Knob Rd,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,1042
+108,384e4813-b02c-4a98-beee-4f9bdb0608df,,Kevin,,Callaway,,,Unknown or N/A,823 W 8th St,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+109,53b2d3f1-dcd4-4410-9cbc-f34e72e1d037,,Gina K.,,Calvert,,,Unknown or N/A,,,,,,,,judgeginacalvert@gmail.com,Unknown,,(502) 387-9845,,
+110,711270bf-686e-47aa-af90-1532688d489d,,Bob,,Campbell,,,Unknown or N/A,2122 Ferree Rd,,Lanesville,IN,,47136,,,Unknown,,,,
+111,8506e05f-6185-470b-a0b9-218fa278b56e,,Deb,,Campbell,,,Unknown or N/A,316 Smith Rd,,Underwood,IN,,47177,,,Unknown,,,,
+112,c770880b-c461-4f2a-9c90-473d13941d09,,Dan,,Capelle,,,Unknown or N/A,155 Country Club Estates Dr SE,,Corydon,IN,Harrison,47112,,,Unknown,,,,1043
+113,7c1e85fd-171d-4c93-b8f0-1ce7da6c03b2,,Ruth Ann,,Capelle,,,Unknown or N/A,965 Woodland Ave,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+114,c4c5e883-1597-4471-a9f2-00720bd06d87,,Ed,,Carder,,,Unknown or N/A,8245 SW 106th St,,Ocala,FL,,34481,,,Unknown,,,,1044
+115,58ef2296-9282-4e65-bb50-6da64b358602,,Jerry,,Cardin,,,Unknown or N/A,,,,,,,,txcmbl@gmail.com,Unknown,,,,
+116,93fd736b-c5b4-4bd6-91e6-bfaeb98daf4e,,Honorable Vicki,,Carmichael,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+117,141683fc-ad42-4a2c-89f9-b5a1df10a56c,,Kevin,,Carr,,,Unknown or N/A,8212 E Bethel R,,Pekin,IN,,47165,,,Unknown,,,,
+118,6da68c27-2eb7-413e-9941-4dd34bd076bb,,Darren,,Carrey,,,Unknown or N/A,500 Shiloh Rd S,,Corydon,IN,Harrison,47112,,,Unknown,,,,1045
+119,c215f137-604f-4be7-8401-e2e404dc46b2,,Ann,,Carruthers,,,Unknown or N/A,,,,,,,,acarruthers@clarkfloydcommunities.org,Unknown,,(502) 821-2741,,
+120,eaff4ace-f78f-4dd9-880a-486987648661,,Andy,,Carter,,,Unknown or N/A,7855 Four Leaf Dr,,Greenville,IN,Floyd,47124,,,Unknown,,,,1046
+121,c0ae2bcb-bd19-4507-bb91-0b19ee4b3a96,,Kari,,Carter,,,Unknown or N/A,,,,,,,,Ktcarter@republicbank.com,Unknown,,,,1215
+122,b84d651b-8d0f-46c6-bc9e-2ac29b74692d,,Liz,,Carter,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+123,035de90c-bdfb-4aef-98cf-aec8e37b234c,,Michelle,,Carter,,,Unknown or N/A,PO Box 421,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+124,f3c73ae7-fc28-4e53-82fe-db3ea287c2b1,,Terry Lee,,Casabella,,,Unknown or N/A,,,,,,,,tlc@insightbb.com,Unknown,,(502) 396-7407,,
+125,962b3f1d-f1ac-4808-9038-556edf4b8358,,Mark,,Casper,,,Unknown or N/A,,,,,,,,mcasper@stecharities.org,Unknown,,,,
+126,a8793bce-0925-40a6-9ec3-f06891e3d278,,Mark Casper,,Casper,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+127,b4acd753-249e-4a80-b2ef-cf05a8d272b4,,Perry,,Cassady,,,Unknown or N/A,,,,,,,,,Unknown,,,,1218
+128,fbc7e355-027d-4984-ab57-9d42722957d0,,Laura,,Cates,,,Unknown or N/A,,,,,,,,penelope12692@yahoo.com,Unknown,,,,
+129,518c075c-eb9d-462a-b890-912d7c5ca804,,Laura L.,,Cates,,,Unknown or N/A,,,,,,,,penelope12692@yahoo.com,Unknown,,(502) 216-5367,,
+130,e747f1eb-45d6-41cb-ad6a-3fb94c79c71e,,Paula,,Chandler,,,Unknown or N/A,,,,,,,,pchandler@floydcountyin.gov,Unknown,,,,
+131,c7975221-5458-4389-8375-90fcdd8a9a9c,,Jeff,,Chanley,,,Unknown or N/A,4812 Grant Line,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+132,78f1e897-e8d7-4964-8abc-02acadee4005,,Stephanie,,Chastain,,,Unknown or N/A,239 Josephine St,,Paoli,IN,,47454,,,Unknown,,,,
+133,7c6b726d-38f6-46d3-97dd-2a4bfaa90557,,Pete Kirby,,Cheyenne,,,Unknown or N/A,1220 Veterans Pkwy. Clarksville,,Clarksville,IN,Clark,47129,,,Unknown,,(812) 285-1772,,1049
+134,e100b941-597f-447a-9f87-5aad6eba97cb,,Aaron J.,,Cleek,,,Unknown or N/A,,,,,,,,aaroncleek@outlook.com,Unknown,,(502) 724-7484,,
+135,0f8328dd-de2a-48f6-af3b-d81bc6c224d6,,Rep. Ed,,Clere,,,Unknown or N/A,200 W Washington St,,Indianapolis,IN,,46204,,,Unknown,,,,
+136,b4eedc3d-0acf-41c6-8136-d2c46ba63548,,Karen,,Coates,,,Unknown or N/A,4216 Highland Oaks Dr,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+137,cacaa9bc-695a-4b4d-a4c6-b54e472599cb,,Alyssa,,Cochran,,,Unknown or N/A,,,,,,,,acochran@k-glaw.com,Unknown,,,,
+138,b745fcad-41fa-498a-b7b3-8e287dab7cad,,Cory,,Cochran,,,Unknown or N/A,,,,,,,,ccochran30@ivytech.edu,Unknown,,,,
+139,39353e70-0f17-4b58-ac8a-73e25abbb135,,Jason,,Cochran,,,Unknown or N/A,406 S Poplar St,,New Washington,IN,Clark,47162,9505,mmcochran8599@gmail.com,Opt In,,(502) 664-7987,,1050
+140,fba5b1b5-c35b-4199-a66c-cee4c5e68d7f,,Rex,,Cochran,,,Unknown or N/A,4336 Green Valley Rd,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+141,ca439e6e-4ec9-4466-8206-0aaaab611286,,Jimmy,,Cockerill,,,Unknown or N/A,8299 N Logan D,,Salem,IN,,47167,,,Unknown,,,,
+142,bac4b6e8-b7e8-410a-84ce-7459993903aa,,Shari,,Cockerill,,,Unknown or N/A,1035 Villas Court,,Greenville,IN,Floyd,47124,,,Unknown,,,,
+143,19f3e910-6392-47f1-b413-3b447b211e9e,,Chrystal,,Coddington,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+144,2b753580-73af-4286-a673-06495395a8ed,,Honorable Judge Terrance,,Cody,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+145,dee9053b-0201-4dbe-9cb3-38fee0f62548,,Anthony,,Coffman,,,Unknown or N/A,470 North Ridge,,Mauckport,IN,,47142,,,Unknown,,,,
+146,1d079087-faef-4440-aaee-ac7dae330fc0,,Kimberly,,Collett,,,Unknown or N/A,176-7 Highland Ct,,Shepherdsville,KY,,40165,,,Unknown,,,,
+147,7353c52d-4a4b-490d-92b9-e4de10080c20,,Bill,,Collings,,,Unknown or N/A,6028 Pebble Creek Dr,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,
+148,15f6cbf5-8230-47a1-922f-05b5fc04827b,,Chapin,,Collins,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+149,01a9758f-d885-43a8-95ae-57fd8dcdf722,,Christina,,Collins,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+150,2490c87a-ab5b-4b89-b27c-4c89f351b293,,Susanne,,Combest,,,Unknown or N/A,,,,,,,,susiec2465@gmail.com,Unknown,,(502) 741-2881,,
+151,630e9a12-971b-4253-a075-dcbf0989ff21,,Brian,,Combs,,,Unknown or N/A,1423 East Oak S,,New Albany,IN,Floyd,47150,,,Unknown,,,,1051
+152,a232e4b6-3b8f-4ccc-a0c1-e7df4beca0a9,,Richard M.,,Condra,,,Unknown or N/A,4238 Sunrise Dr,,Sellersburg,IN,Floyd,47172,9254,r.condra@twc.com,Opt In,,(502) 817-2116,,
+153,76758e9f-5b23-4c9c-8fa5-a2b8dafa3041,,Amanda,,Conrad,,,Unknown or N/A,,,,,,,,amanda.mckinney05@gmail.com,Unknown,,(812) 258-7911,,
+154,fba17fa6-a970-45c2-83de-39d8a02752e7,,George,,Constantine,,,Unknown or N/A,11561 S. Voyles Road,,Pekin,IN,,47164,,,Unknown,,,,
+155,b12b4f0e-43a1-43f5-897d-3b0b08db6e82,,Clint,,Cook,,,Unknown or N/A,100 Stinson Driv,,Popular Bluff,MO,,63901,,,Unknown,,,,
+156,09cf14cd-7bca-4c91-b785-73f8df10037c,,Mary Cook,,Cook,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+157,72a8cde7-d15b-49c1-8501-ff6ed9330a18,,Amy,,Corbett,,,Unknown or N/A,,,,,,,,corbettak@yahoo.com,Unknown,,(317) 414-5401,,
+158,2120acfd-9065-409b-941d-3c0fab74bf0a,,Kevin,,Cosby,,,Unknown or N/A,2701 Veterans P,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+159,f4335481-011e-4248-9caa-20c4c4f8cf7d,,Alisa D.,,Courtney,,,Unknown or N/A,,,,,,,,alisa@pro4mance.com,Unknown,,(502) 475-0938,,
+160,d23d2076-c8c9-440d-8186-0acedd2e3c61,,Lacie,,Couzin,,,Unknown or N/A,3214 Rosemont Dr,,Jeffersonville,IN,Clark,47130,8928,lcouzin@ivytech.edu,Opt In,,,,
+161,e4e54ada-7f36-4246-9c80-574a6db8995a,,Nancy,,Cowee,,,Unknown or N/A,12464 E Wesley Ave,,Aurora,CO,,80014,,,Unknown,,,,
+162,19560031-1714-4631-88ec-aa696c1ec5a9,,Brandon,,Cox,,,Unknown or N/A,1994 Paradise Bottom Rd.,,Battletown,KY,,40004,,bcox@hilltopcompanies.com,Unknown,,(513) 315-7341,,
+163,d6b40e8d-2cfb-443a-9fd1-1a5ae4dd7e89,,Erin,,Cox,,,Unknown or N/A,,,,,,,,erincox111@gmail.com,Unknown,,,,
+164,18bb7b65-8bbd-4d0c-adde-03d64a020bb6,,Happy,,Cox,,,Unknown or N/A,1302 E 10th St,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+165,ecd5b976-d36c-4f80-9a2d-bb9c28da163d,,Larry,,Cox,,,Unknown or N/A,,,,,,,,lcox111960@gmail.com,Unknown,,(812) 952-3102,,
+166,6a69166a-cdd9-44a6-9c01-cae4fb19a814,,Larry,,Cozine,,,Unknown or N/A,7760 Windy Hill,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,1052
+167,a126d55e-f525-4710-a65d-f51d09fccd37,,Melissa,,Craig,,,Unknown or N/A,2715 Hampton Ct.,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+168,8fc2ee63-7210-4673-aafd-1da3663fa2c5,,Chris,,Creagh,,,Unknown or N/A,3010 Seminole Dr,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+169,3d0da5ba-9e39-4a53-a2f0-ddb2b1a053b2,,Glenda,,Cromwell,,,Unknown or N/A,604 N Capitol Ave,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+170,62a62124-4a8d-43ad-8afc-cf7ee4d998d0,,Natalie,,Crosier,,,Unknown or N/A,2245 Molly Brown Dr,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+171,fd899c20-9508-4795-a59e-3bf163d09f10,,Geoff A.,,Crowe,,,Unknown or N/A,,,,,,,,crowega@gmail.com,Unknown,,(812) 241-9797,,
+172,6d351861-f8de-4033-b8f2-cfa28a63f009,,Ken,,Crutchfield,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+173,ba62424d-bd04-4023-8bf3-1b25ea42e791,,Jennifer,,Cullotta,,,Unknown or N/A,815 E Market St,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+174,44700a8b-cb8b-47fa-8bed-e2e212a34101,,Donnie,,Cunningham,,,Unknown or N/A,PO Box 326,,Sellersburg,IN,Floyd,47172,326,sales@cis-direct.com,Opt In,,,,
+175,f45bb5ca-c150-4c2f-be78-0de8a9a5098b,,Ken,,Dale,,,Unknown or N/A,3009 Walnut Cove Ct,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,1053
+176,056d5e6e-7e5c-4c57-8ff6-3744cce4915b,,Mark,,Danielson,,,Unknown or N/A,2302 Arthur St,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,1054
+177,7df0c540-98ce-48b7-958e-419d1cb39b06,,Mark,,Darnstaedt,,,Unknown or N/A,5231 State Road,,Georgetown,IN,Floyd,47122,,,Unknown,,,,
+178,ffcec446-8631-4d77-9b62-ab739e06248b,,Lisa,,Lutgring,,,Unknown or N/A,,,,,,,,,Unknown,,,,1207
+179,d20a0153-5c8e-41b9-8fc0-6b2990b05c9c,,Justice Steven,,David,,,Unknown or N/A,"321 Indiana State House, 200 W. Washington Street",,Indianapolis,IN,,46204,,,Unknown,,,,
+180,f9424f74-56db-41a5-bbf9-6936baea467e,,Andie,,Davis,,,Unknown or N/A,,,,,,,,andie6078@gmail.com,Unknown,,,,
+181,80bd58a8-3e21-4ff2-a53f-b046f6d2e790,,Julie,,Davis,,,Unknown or N/A,17665 S. Boone Creek Lane,,Magnet,IN,,47520,,,Unknown,,,,
+182,7704c9b0-cb83-4e79-a19d-b10c08bb0d74,,Levois,,Davis,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+183,4a0345ee-0e53-4afa-931b-4d08dfc69103,,Carol,,Dawson,,,Unknown or N/A,,,,,,,,caroldawsoneeo@aol.com,Unknown,,(812) 284-5826,,
+184,1a8cd34c-9af6-4459-866e-b43c2de858bf,,Lisa,,Day,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+185,f41063ea-a403-4dfa-9055-77d29b280847,,Marc,,Deardorff,,,Unknown or N/A,615 O'bannon Ave,,Corydon,IN,Harrison,47112,,,Unknown,,,,1056
+186,42f4350b-2d93-4013-96ce-145307694d2c,,Mark,,Decker,,,Unknown or N/A,806 Cherry Dr,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+187,408b748a-22ce-4170-8434-2e019f5aef5d,,David,,Delp,,,Unknown or N/A,PO Box 2574,,Clarksville,IN,Clark,47129,,,Unknown,,,,
+188,8782228e-c272-49db-bc33-87d2031779f8,,Kim,,Dennis,,,Unknown or N/A,1895 Big Indian Rd NE,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+189,e948a42a-0889-49d5-9c0a-c4a99aa96b55,,Michael,,Dennis,,,Unknown or N/A,430 Oak St,,Sellersburg,IN,Floyd,47172,,,Unknown,,,,
+190,98047838-b100-49ec-9194-d62094753d44,,Frank,,Denzinger,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+191,fb041308-535a-4e95-852f-25fba2823425,,Kym,,DeRocker,,,Unknown or N/A,,,,,,,,kkderocker@aol.com,Unknown,,(651) 470-5475,,
+192,45c5387d-0883-4407-9200-bd1ea59fdd98,,Shelley,,Dewig,,,Unknown or N/A,835 Poplar Dr,,Sellersburg,IN,Floyd,47172,1134,shelley.dewig@gmail.com,Opt In,,(812) 455-7959,,
+193,92ac8b44-20cb-422b-a543-362264480fbe,,Adam,,Dickey,,,Unknown or N/A,,,,,,,,Atdicky@gmail.com,Unknown,,,,
+194,081c51a8-edc1-40d2-9521-01c6950a0893,,Marlene,,Diebold,,,Unknown or N/A,,,,,,,,lenediebold.md@gmail.com,Unknown,,,,
+195,2b3703d7-dada-4552-9ac8-ce87acf7772f,,Lindon,,Dodd,,,Unknown or N/A,411 E Market St.,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+196,d43a3ffb-3e19-46c0-b90e-9557977cc15b,,Mark,,Dohrman,,,Unknown or N/A,303 Lyndon Woods Circle,,Louisville,KY,,40222,,,Unknown,,,,1057
+197,d9c4a5cd-698f-413f-a447-0e22b6705ab5,,Judy,,O'Bannon,,,Unknown or N/A,5351 Pennsylvania St,,Indianapolis,IN,,46220,,,Unknown,,,,
+198,7d53c1d1-6a47-4620-bfde-21ab07b6234c,,L,,Donahue,,,Unknown or N/A,,,,,,,,ldonahue@naha.in.com,Unknown,,,,
+199,a2d95962-08d8-423b-9ff0-eae116c6a0e0,,Melanie,,Douglas,,,Unknown or N/A,,,,,,,,Melanie_Douglas@donnelly.senate.gov,Unknown,,,,
+200,36595a4f-38ee-4eec-bc77-9f2afa7e31f6,,Charlotte,,Down,,,Unknown or N/A,,,,,,,,Kimdowns@yahoo.com,Unknown,,,,
+201,9432b11d-b334-461d-bb2a-c3c415986862,,Dwayne,,Downing,,,Unknown or N/A,1506 Laib Drive,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+202,2fcea34c-527c-4fc0-b5a4-29d9739b91ad,,Lynn,,Drybrough,,,Unknown or N/A,,,,,,,,lynnmorrow96@gmail.com,Unknown,,(502) 417-1785,,
+203,7674f116-c4c9-4053-bfad-c690a93c550b,,Eileen,,Dudley,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+204,ff5aabdf-6022-4c43-97f5-f7d7d235474d,,David,,Duggins,,,Unknown or N/A,"Economic Development 311 Hauss Square, Room 325",,New Albany,IN,Floyd,47150,,,Unknown,,,,
+205,f88cfa97-88e7-49a0-ab06-2188c29106ea,,Lori,,Dunaway,,,Unknown or N/A,2152 Havenview Dr NW,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+206,17abd12e-d04d-4ff7-bdcd-75aa42ffc499,,Jerrie,,Earls,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+207,10752c7a-575a-4e5c-8066-5a7a97673318,,Danny,,East,,,Unknown or N/A,,,,,,,,,Unknown,,,,1236
+208,85d1c322-890e-44b2-aa9b-cf72c25bf48a,,Becky,,Eckart,,,Unknown or N/A,2111 Charles Ct NE,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+209,3f4e4b12-5ea3-43ab-b307-53aa4839fd54,,Connie,,Eckles,,,Unknown or N/A,923 Captain Fra,,New Albany,IN,,47106,,,Unknown,,,,
+210,52ca2c71-2e44-4462-baad-b44b7ee5e1c4,,Anthony,,Eddy,,,Unknown or N/A,14975 Hwy 135 NE,,Palmyra,IN,,47164,,,Unknown,,,,1059
+211,747ab33d-3b6f-42f8-93a6-b4b2d3ec9d0a,,Rob,,Edelen,,,Unknown or N/A,1517 Culbertson,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+212,faacee91-796d-4ffc-bc62-82f7ce3719e3,,Allen,,Edmonson,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+213,3ad6005f-1d1b-4f89-94d5-11be918910d8,,Ann,,Edwards,,,Unknown or N/A,1729 Corydon Ridge Rd NE,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+214,3c87f199-be01-4cb6-8235-ff0cbf153bf5,,Chris,,Ehalt,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+215,3f8ce426-8d28-4ee2-93f3-63e6c262c4a6,,Leza,,Eldorado,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+216,c12dc5c7-42f3-4a50-8cb7-b594a1708e74,,Jason,,Eldridge,,,Unknown or N/A,310 Kettle Botto,,New Washington,IN,Clark,47162,,,Unknown,,,,
+217,b2e92b40-f9fb-4296-bd44-e3e8d5a86f04,,Stephen,,Elkin Jr.,,,Unknown or N/A,5878 West Willis Rd,,Georgetown,IN,Floyd,47122,,,Unknown,,,,
+218,10ee37be-fae3-43e0-9111-b00eb544c368,,Deborah K.,,Ellis,,,Unknown or N/A,,,,,,,,debbiekellis@hotmail.com,Unknown,,(502) 655-2695,,
+219,34e697ee-b41d-45da-be13-8e794a9ab60e,,Nick,,Ellis,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+220,2beb1189-7979-41aa-a9b2-9fae12f71904,,Cheri,,Elmore,,,Unknown or N/A,2007 Shagbark Ln,,Louisville,KY,,40245,,,Unknown,,,,
+221,d9f0cc36-5b3d-4e7a-a32a-5fb3992fd9d6,,Jennifer,,Embry,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+222,32605283-6c9c-4c0e-b6ad-e87e35867f82,,Stephanie,,Embry,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+223,8ae04519-52e9-4fde-ae4c-2b00e39a4bea,,Craig,,Engleman,,,Unknown or N/A,2260 Corydon New Middletown Rd SE,,Corydon,IN,Harrison,47112,,,Unknown,,,,1060
+224,9ac267d0-c6f8-4ae1-ae61-78d34f67aa7b,,Mary,,Engleman,,,Unknown or N/A,,,,,,,,mary.engleman124@gmail.com,Unknown,,,,
+225,6bc42948-3c4d-4bd5-8f19-d3d7c90da41b,,Mary,,Engleman,,,Unknown or N/A,,,,,,,,,Unknown,,(812) 944-9789,,
+226,74a31b7f-b4fe-40d3-b7c4-d351250d6162,,Michael,,Engleman,,,Unknown or N/A,3400 Grange Ha,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+227,1f7abd4c-ee8b-41fd-9e61-3a3ffd4a08d8,,Seth,,Ernstberger,,,Unknown or N/A,1813 State Stre,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+228,8a067b5c-7187-43db-aef6-02cbc8c1cf38,,Buck,,Eschbacher,,,Unknown or N/A,135 Old Hwy 135 NE,,Corydon,IN,Harrison,47112,,,Unknown,,,,1061
+229,4efafcb7-f439-44e7-a978-b45fda25a614,,Dwayne,,Evanczyk,,,Unknown or N/A,1017 Brookstone Ct,,Georgetown,IN,Floyd,47122,,,Unknown,,,,1062
+230,00a01b1d-e24c-4d03-8d99-b06e5ade3703,,Kathleen,,Exline,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+231,61a8c51e-b057-4df3-a690-e504d2ba98c6,,Emily,,Fackler,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+232,ea0800d4-d511-49c7-8635-e1b90ee71978,,Pamela S.,,Fackler,,,Unknown or N/A,,,,,,,,pamfackler@gmail.com,Unknown,,(502) 718-1897,,
+233,71382835-be00-4597-a29d-bb0b234995e7,,Rob,,Blanton,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+234,64906321-f109-482c-af27-3c640cb2e568,,Gayla,,Fancher,,,Unknown or N/A,1708 Idlewood Ct,,Clarksville,IN,Clark,47129,1330,gaylaf@twc.com,Opt In,,(502) 797-8272,,
+235,6ce53e22-ed83-4290-8386-bd554ddba1be,,Roxann,,Farris,,,Unknown or N/A,,,,,,,,,Unknown,,(812) 948-5448,,
+236,d3f16130-3be0-46f9-aa0a-b5cc35b51fd9,,James,,Fell,,,Unknown or N/A,1202 Knoll Crest Ct.,,Grapevine,TX,,76051,,,Unknown,,,,
+237,735b2f92-7346-474d-b290-9faf078062fd,,Dan,,Ferguson,,,Unknown or N/A,6256 Scottsville Rd,,Floyds Knobs,IN,Floyd,47119,9237,mardanjp12@gmail.com,Opt In,,,,1063
+238,a45fbba4-2f96-4523-9362-b2e41cf3d4e5,,Eric,,Ferree,,,Unknown or N/A,6251 Sarles Creek Rd.,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,
+239,74f97e09-76de-4971-a0b6-236519e41c44,,Matt,,Fetter,,,Unknown or N/A,1000 Auction Ln,,Jeffersonville,IN,Clark,47130,101,matt@clarkcountyaa.com,Opt In,,,,
+240,2d19c792-447e-4b26-b7fd-10ba5de5cf7d,,Kimberly,,Fink,,,Unknown or N/A,,,,,,,,blondejourney@yahoo.com,Unknown,,,,
+241,578dec00-18d1-4ba0-9129-ed8aa293adf8,,Aaron,,Finn,,,Unknown or N/A,2030 Canal Lane,,Georgetown,IN,Floyd,47122,,,Unknown,,,,
+242,f63546f3-c46d-441e-a060-485f2cd0b80b,,Jerome Finn,,Finn,,,Unknown or N/A,,,,,,,,jerrykfinn@aol.com,Unknown,,(812) 923-3266,,
+243,121c5d93-9f04-49ed-ab65-8ca86889523e,,Linda,,Finney,,,Unknown or N/A,3701 Upper River Rd,,Louisville,KY,Jefferson,40207,1066,lindafinney1028@gmail.com,Opt In,,(502) 314-0606,,
+244,cc1dad8e-1819-4ca9-800d-131884d0ee23,,Linda,,Finney,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+245,f51a7588-8db2-45ec-82ed-1e9498247194,,Frank,,Fisher,,,Unknown or N/A,1716 Deepwood Ct,,Clarksville,IN,Clark,47129,,,Unknown,,,,1064
+246,0a6437e3-c951-4122-b5c5-3e9451d5c0cb,,Susan,,Fisher,,,Unknown or N/A,118 Pindo Palm St. W,,Largo,FL,,33770,,,Unknown,,,,1065
+247,81215212-c8ea-4026-b6fa-344d0c5c79a9,,Brent,,Fitzgerald,,,Unknown or N/A,,,,,,,,brent.thomas.fitzgerald@gmail.com,Unknown,,(502) 777-0018,,
+248,d7266e99-7b43-47f1-afa8-c1ecf6ffe96b,,Michele,,Flanagan,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+249,a6c8156b-dd07-4ef7-8c96-ba02bd04f549,,Eddie,,Fleming,,,Unknown or N/A,3085 Manitou R,,Manitou,KY,,42436,,,Unknown,,,,
+250,70b7b16e-0ddf-4d82-9284-21863425fc76,,Joy,,Flynn,,,Unknown or N/A,,,,,,,,joyflynn1@netscape.net,Unknown,,(859) 273-2041,,
+251,2b66a44f-47a5-45d0-94d7-25b23aec8bb9,,Angela,,Ford,,,Unknown or N/A,1200 Bono Road,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+252,379aabc9-c8ee-4293-8039-457c951580dc,,Bill,,Fortner,,,Unknown or N/A,1929 Plum Hill Way,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,1066
+253,a4e53dd6-238f-447e-aff9-10eec77cd6ec,,Ron,,Fortune,,,Unknown or N/A,1894 Gutford Ct,,Clarksville,IN,Clark,47129,,,Unknown,,,,
+254,39ec3282-60f7-479c-bec1-74f9132cfbd5,,Candyce,,Fox,,,Unknown or N/A,,,,,,,,,Unknown,,,,1254
+255,dc813298-b848-4292-b750-49641793bc1c,,Brian,,Frame,,,Unknown or N/A,3234 Autumn R,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+256,a120cb8b-84ff-4ded-8a7d-5b2797b0ab98,,Eileen,,Franks,,,Unknown or N/A,1413 Creekstone Dr NE,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+257,70fb269a-fd21-438f-8219-34e1df550043,,Sharon,,Franks,,,Unknown or N/A,455 Lincoln Hills Rd,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+258,dcefb04e-f62a-4045-a181-2dbef66d6667,,Brent,,Franz,,,Unknown or N/A,PO Box 43,,Henryville,IN,,47126,,,Unknown,,,,
+259,0120e85c-7bd0-4fa0-a22e-36f772f8243f,,Kathy,,Fries,,,Unknown or N/A,,,,,,,,kafries54@gmail.com,Unknown,,(502) 262-5325,,
+260,49139741-d52d-4558-8752-89ddfd406227,,Jeff,,Fuson,,,Unknown or N/A,4200 Centerfiel,,Crestwood,KY,,40014,,,Unknown,,,,
+261,72992f4b-f8a2-4b70-8ad4-8aa7b6158444,,Wes,,Fust,,,Unknown or N/A,6703 Heritage Lane,,Clarksville,IN,Clark,47129,,,Unknown,,,,
+262,8ea6b2de-cb8e-4c15-a8ca-45ce33db5e3b,,Ashley,,Gadlage,,,Unknown or N/A,1708 Washington Blvd,,Louisville,KY,,40242,,,Unknown,,,,
+263,32edc30b-cba0-4452-ae73-1e9a1ee48716,,Bev,,Gadlage,,,Unknown or N/A,,,,,,,,,Unknown,,,,1256
+264,6d2025e5-5e48-465b-a63b-71762b97b14f,,Teresa,,Gahafer,,,Unknown or N/A,800 Mile Lane,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+265,934317c8-618a-47d2-8a7e-b177df786ee1,,Julie,,Gallegos,,,Unknown or N/A,,,,,,,,jgallegos@actorstheatre.org,Unknown,,(502) 751-9663,,
+266,8a3a931f-4971-4756-b46b-dab10450a05a,,Joe,,Galownia,,,Unknown or N/A,,,,,,,,,Unknown,,,,1258
+267,a538161d-4924-4b93-80e7-a927d3ba56a2,,Kelly,,Gannott,,,Unknown or N/A,,,,,,,,kellygannott@gmail.com,Unknown,,(502) 419-9678,,
+268,f71eb6c6-aba8-47c5-8198-6dea39c1703f,,Nancy,,Garner,,,Unknown or N/A,408 W Market S,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+269,558d40a6-4586-4750-a67e-8dfb760d9432,,Stacie,,Garrett,,,Unknown or N/A,,,,,,,,staciegarrett820@gmail.com,Unknown,,(502) 836-0650,,
+270,8188c7c9-85f8-45a1-892e-dc06689dedd8,,Chris,,Garten,,,Unknown or N/A,,,,,,,,chris@signaturecountertops.com,Unknown,,,,
+271,96062d99-9cae-4475-875e-829c76866135,,Katherine M.,,Gatz,,,Unknown or N/A,,,,,,,,kgatz@yahoo.com,Unknown,,(502) 693-8350,,
+272,2bd66c95-7d48-4edf-b3f1-22bbc7c859ff,,Bonnie,,Geary,,,Unknown or N/A,706 Cherokee D,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+273,e95ab4ca-5eba-4464-b0ad-d3725e98973d,,Brian,,Gerard,,,Unknown or N/A,7700 US Highwa,,Louisville,KY,Jefferson,40241,,,Unknown,,,,
+274,48cadc89-ffbc-47cf-8a93-9cbf39feb946,,Susan,,Gerth,,,Unknown or N/A,,,,,,,,susan.gerth@win.net,Unknown,,(502) 644-2361,,
+275,c03f0d60-d566-4c69-bdc4-1a4654932f98,,Jerry,,Gesenhues,,,Unknown or N/A,8019 Old State Road 60,,Sellersburg,IN,Floyd,47172,,,Unknown,,,,1070
+276,3447a261-afe5-4329-b802-632ccba9f144,,Doug,,Gettlefinger,,,Unknown or N/A,505 Lexington Blvd,,Carmel,IN,,46032,,,Unknown,,,,1071
+277,0063f87f-6a5f-4593-a041-f8ad50d877d0,,Becky,,Gibbons,,,Unknown or N/A,5105 Old Georg,,Georgetown,IN,Floyd,47122,,,Unknown,,,,
+278,89a39c74-d286-495b-9985-6298275c5812,,Glenn,,Gibson,,,Unknown or N/A,534 E Court Ave,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+279,cfb34d23-4d98-494a-aa72-86de6144c168,,Tom,,Gibson,,,Unknown or N/A,500 Dillman Spring Way NE,,Corydon,IN,Harrison,47112,,,Unknown,,,,1072
+280,7388679c-7762-4cf9-af4d-651365fc93c5,,Barb,,Gilbert,,,Unknown or N/A,417 Hamlet Dr,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+281,ad25b027-1097-4b7b-a333-7ced6c1580d3,,Pamela A Gill,,Gill,,,Unknown or N/A,,,,,,,,pam.a.gill@icloud.com,Unknown,,(502) 262-7127,,
+282,e7f073a9-497b-4c58-b31b-c27cc93f7417,,Steve,,Gilliland,,,Unknown or N/A,,,,,,,,lindagill2019@gmail.com,Unknown,,,,1266
+283,a92f116e-f2c5-43cb-8b22-3921f2bcb581,,Valerie,,Gilliland,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+284,f71d5f24-2e2b-4e41-bbfb-8b8119b72d99,,Mark,,Glasgow,,,Unknown or N/A,5010 Bent Creek Dr,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,1074
+285,22aea311-4e0e-4cac-8dfb-c899db4d9322,,Sara,,Glass,,,Unknown or N/A,,,,,,,,,Unknown,,(812) 691-1028,,1270
+286,21e204b9-0cdf-4ee4-91ae-595063a4cdb4,,Patricia,,Goldman,,,Unknown or N/A,4870 Loudens Chapel Rd NW,,Depauw,IN,,47115,,,Unknown,,,,
+287,ad14d1af-53e5-42a6-963b-385d639515bd,,Holly,,Goodyear,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+288,b6b7646f-2d27-4d85-83e5-09dc472eeef5,,Holly,,Goodyear,,,Unknown or N/A,,,,,,,,thereikistation@gmail.com,Unknown,,(502) 322-4938,,
+289,52404245-8b03-4d77-b35e-2affad268896,,Bill,,Gordon,,,Unknown or N/A,121 Locust Grov,,Bardstown,KY,,40004,,,Unknown,,,,1076
+290,6f5791e1-0288-4813-b58e-26c9bc163f53,,Carol,,Gowan,,,Unknown or N/A,3704 Utica Pike,,Jeffersonville,IN,Clark,47130,5730,ancg@aol.com,Opt In,,,,
+291,99331d3f-3d61-4302-9792-482f145505fa,,Sharon,,Grabowski,,,Unknown or N/A,,,,,,,,sgrabowski2009@yahoo.com,Unknown,,(812) 207-5779,,
+292,6cdd7da1-9c48-4213-aeb6-839f38371d40,,Angie,,Graff,,,Unknown or N/A,,,,,,,,,Unknown,,(502) 819-5276,,
+293,043eee82-3c42-40c2-b385-f4c45f27ef98,,James,,Grahn,,,Unknown or N/A,,,,,,,,,Unknown,,,,1274
+294,7ea4999a-608b-4bdb-8fef-8e58ef9cdf4f,,Judge Maria,,Granger,,,Unknown or N/A,,,,,,,,MGRANGER@FLOYDCOUNTY.IN.GOV,Unknown,,(812) 948-5257,,
+295,d2eb2899-5e71-49d2-b579-ce0669e89e73,,Jim,,Grant,,,Unknown or N/A,1030 Highway 1,,Palmyra,IN,,47164,,,Unknown,,,,
+296,935d5c8f-c635-4b1b-b893-8cbe6bec9c5e,,Phillip,,Grant,,,Unknown or N/A,,,,,,,,Matt.mccraw@aol.com,Unknown,,(270) 348-2853,,
+297,5cde9059-2350-481a-b8d8-12d18db20cd9,,Vivian,,Gray,,,Unknown or N/A,,,,,,,,vivianmgray7@gmail.com,Unknown,,,,
+298,947d6b8b-3d56-438d-947c-bb4fc4b131d0,,Mike,,Gregg,,,Unknown or N/A,3621 Sundance,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+299,0d95999d-d82d-400a-86ff-52e779406b0c,,LeAnn,,Griffin,,,Unknown or N/A,,,,,,,,leannewgriffin@gmail.com,Unknown,,(859) 468-3185,,
+300,b6800875-1627-4d73-8acd-e7cd9c36362c,,Donna,,Grimes,,,Unknown or N/A,65 Waterford Ct,,Zionsville,IN,Boone,46077,1806,dgrimes32@hotmail.com,Opt In,,(502) 905-9001,,
+301,064c4c6e-a8eb-4389-a133-72ce250a6402,,Alan,,Grosheider,,,Unknown or N/A,,,,,,,,agrosheider@gmail.com,Unknown,,(502) 807-3896,,
+302,b28d0dd9-066f-46a2-8cf3-e8de4f197b9c,,Bridget,,Growe,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+303,1c1a0172-f2f5-4a67-98b6-d8c51f164909,,David M.,,Guffy,,,Unknown or N/A,5341 E 4th St,,Tucson,AZ,Pima,85711,2303,scotclouse@gmail.com,Opt In,,(502) 494-4123,,
+304,2009d512-2e63-4d14-9241-595153014fd7,,John,,Haas,,,Unknown or N/A,5185 American,,Elizabeth,IN,,47117,,,Unknown,,,,
+305,e7a097be-fca9-4c64-85b6-df8341835dd0,,Matt,,Hahn,,,Unknown or N/A,P.O. Box 1043,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+306,120cdd65-3c61-4c35-9507-13bddd22f05b,,Rick,,Haines,,,Unknown or N/A,,,,,,,,,Unknown,,,,1276
+307,332bebea-386f-4157-9d2e-4de7bd871526,,Aaron,,Hale,,,Unknown or N/A,125 E Montgom,,Clarksville,IN,Clark,47129,,,Unknown,,,,1079
+308,672ba9fb-1f27-4352-ae0e-31e5a9f3728f,,Brian,,Hall,,,Unknown or N/A,1209 Redwood,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+309,d4cf3802-3d77-4d4d-b799-ee4e641eb0cb,,Wendy,,Hall,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+310,8ae99752-f7f1-4e68-a135-13ebfbe679fb,,Paula,,Hallquist,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+311,8d241b14-d292-4ec8-b4b4-7597e4a268e4,,Blair,,Halstead,,,Unknown or N/A,390 Hunters Glen Ln,,Hendersonville,NC,Henderson,28739,8757,blair71286@gmail.com,Opt In,,(850) 712-6899,,
+312,d8ae210b-203d-4d44-b6b7-04fdb540e08b,,Scott,,Ham,,,Unknown or N/A,3013 Sycamore Drive,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+313,0ebe0bb0-cf3d-43af-904d-cd4d07be4432,,Amanda,,HAMILTON,,,Unknown or N/A,,,,,,,,amandahamilton4221@gmail.com,Unknown,,(812) 391-1463,,
+314,997be836-05d1-4734-b04d-11ff5fd0f05d,,Mike,,Hammer,,,Unknown or N/A,543 New Middletown Rd SE,,Corydon,IN,Harrison,47112,,,Unknown,,,,1080
+315,6b235d74-eca2-42d1-be97-306214138dc9,,Bruce,,Hampton,,,Unknown or N/A,2409 Lakewood,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+316,a2b90e4d-2f7e-4a1e-80b3-69eb2d86d827,,James,,Hancock,,,Unknown or N/A,311 Hauss Sq,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+317,1c6eb884-20e6-41e6-ac2c-b84ed538ccca,,Kim,,Harbison,,,Unknown or N/A,,,,,,,,k.harbison@twc.com,Unknown,,,,
+318,c2a10ce4-2c89-4f68-bce1-b12acd857ce2,,Ryan,,Hardin,,,Unknown or N/A,5120 Creekwoo,,Greenville,IN,Floyd,47124,,,Unknown,,,,1081
+319,c7517162-d081-4a86-b9dd-dbaf17712970,,Tracy,,Hardin,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+320,9a13843d-22b3-4664-a94c-2d55062e06ca,,Michelle,,Hardy,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+321,a3a1aeb7-408b-4015-98f7-2eada9d5dcf6,,Stephanie,,Hardy,,,Unknown or N/A,,,,,,,,Stephaniehardyacp@gmail.com,Unknown,,(502) 649-1270,,
+322,efd3a75e-7032-4319-a853-bc1fbab3ed45,,Stephanie,,Hardy,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+323,4f00d94c-c721-463f-a98c-f435e74095c6,,Brian,,Harper,,,Unknown or N/A,7482 Saddlebro,,Greenville,IN,Floyd,47124,,,Unknown,,,,
+324,0ffd5add-cd74-4152-9080-fc23153c85b3,,Karen,,Harper,,,Unknown or N/A,7482 Saddlebrook Ct.,,Greenville,IN,Floyd,47124,,,Unknown,,,,
+325,3905cda3-dbba-4099-aa71-3c3413b5b7f0,,Karen,,Harper,,,Unknown or N/A,,,,,,,,Bkksh4@yahoo.com,Unknown,,,,
+326,fe281788-3850-4e67-9e95-44774c550e31,,Nancy,,Harper,,,Unknown or N/A,1604 Nale Dr.,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+327,caa1b81c-4bda-4048-b3ed-db0fa92a5dc7,,Robin,,Harrington,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+328,9569939d-ed11-40f7-afef-258b8c56f75e,,Bertha,,Harris,,,Unknown or N/A,1713 Green St,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+329,ea5a0c4b-9986-42ad-9d31-480159a0a47e,,Craig,,Harris,,,Unknown or N/A,1204 Pebble Cre,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+330,3b16d21f-47f2-4983-b2bd-993254bda037,,Lori,,Hassler,,,Unknown or N/A,,,,,,,,lorih99@bellsouth.net,Unknown,,(502) 491-9390,,1284
+331,d820a020-f672-457a-8915-a4e6f6bf5b39,,Kristin,,Hatten- Howell,,,Unknown or N/A,1029 Mulberry St,,Louisville,KY,Jefferson,40217,1252,kristin.e.hatten@gmail.com,Opt In,,,,
+332,b24c85a1-1ece-41f6-be5e-b38e926e52cf,,Nigel,,Hawman,,,Unknown or N/A,,,,,,,,Nigelhawman@aim.com,Unknown,,(812) 406-7737,,
+333,123ef222-60d3-4466-aea8-af7e4bc7f561,,Kerry,,Haworth,,,Unknown or N/A,1007 Heritage Way,,Greenville,IN,Floyd,47124,,,Unknown,,,,
+334,8876fb85-8831-465c-a42b-c97ea2500025,,Jamie,,Hayden,,,Unknown or N/A,1308 Sandstone,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+335,47808800-270e-4ba5-9b84-7f5082fc59e7,,Brad,,Haynes,,,Unknown or N/A,,,,,,,,,Unknown,,(812) 218-8000,,
+336,b4b4bc3f-74c1-440f-bfcf-62a008722ad2,,Paula,,Haynes,,,Unknown or N/A,1201 Lexington Drive,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+337,ecc6b3c6-f223-4378-bd9f-1084c51f2973,,Kathryn,,Head,,,Unknown or N/A,,,,,,,,kitkat55@twc.com,Unknown,,(502) 419-3187,,
+338,d8436e31-0ea1-42dc-9acb-e89a819854f1,,Kathy,,Hecht,,,Unknown or N/A,,,,,,,,hechtk95@yahoo.com,Unknown,,,,
+339,00e67447-f4b3-4b7a-9b4a-cee46832326b,,Toni,,Hedrick,,,Unknown or N/A,,,,,,,,,Unknown,,,,1286
+340,bbadc89d-aa2f-4ed4-ba65-66127ac95dd6,,Charlie,,Hefley,,,Unknown or N/A,13725 Dogwood Ln NW,,Palmyra,IN,,47164,,,Unknown,,,,1084
+341,1082bc60-5937-4143-b292-9bf4e0afef88,,Adam,,Hehr,,,Unknown or N/A,3709 S State Rd,,Salem,IN,,47167,,,Unknown,,,,
+342,584f3a81-48dd-4108-b71b-44fe2d6bc945,,Teri,,Heimbrock,,,Unknown or N/A,,,,,,,,teri.cleansgreen@gmail.com,Unknown,,(502) 896-0695,,
+343,a67c2bc7-4944-4a78-8b77-6f2833284146,,Abbey,,Helton,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+344,10f6bc7d-0484-428f-a67f-e6755e1ed558,,Michael,,Henderson,,,Unknown or N/A,120 Olive Ave,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+345,ca77c299-8b0d-45fc-86f8-f608ac8f15c6,,Greg,,Henderzah,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+346,b3217e2a-199d-4d83-93a2-5ae3a419bc47,,Greg,,Henderzah,,,Unknown or N/A,213 E Maple St,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+347,32b8f3d4-b60c-492e-b167-2363b2edc8e8,,Brian,,Henson,,,Unknown or N/A,,,,,,,,bhenso7@gmail.com,Unknown,,(502) 298-3900,,
+348,d6b938a3-06ff-45b1-8b24-c8453ca8a64e,,Mary,,Hentz,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+349,afce5701-f7ca-41f4-801f-9c072e50e503,,Tami,,Herrold,,,Unknown or N/A,,,,,,,,tamiherrold@gmail.com,Unknown,,,,
+350,5b82e3b8-af86-459f-97f4-acef2beeba64,,Debra,,Highfill,,,Unknown or N/A,820 St. Louis Ave,,Cannelton,IN,,47520,,,Unknown,,,,
+351,a17c27a4-9eb0-4e3b-874e-0438cd34885d,,Donna,,Hobson,,,Unknown or N/A,,,,,,,,Dhobson1968@gmail.com,Unknown,,(502) 714-1186,,
+352,ee7bf32a-1204-45a2-a08b-e75b543f3cd3,,Clifton M.,,Hocker,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+353,189e4ec1-9a07-46d2-afc9-3f5d52067d1e,,Janna,,Hocker,,,Unknown or N/A,,,,,,,,jannahocker@hotmail.com,Unknown,,(812) 325-1919,,
+354,0caf4a5f-84f8-472b-a00a-69c50a0d5893,,Kara,,Hodges,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+355,ffe47240-8e6b-4148-a043-b99fbe9dd3b8,,Cory,,Hoehn,,,Unknown or N/A,3701 Mirville Ct,,Floyds Knobs,IN,Floyd,47119,9782,cory@csgrealestate.com,Opt In,,(812) 989-9058,,
+356,06b6c839-87e3-487f-9e97-f511ab907185,,Kye,,Hoehn,,,Unknown or N/A,,,,,,,,kye@kye-s.com,Unknown,,(502) 235-7914,,
+357,3196acb0-2e7b-4a84-925e-366573379141,,Shawn,,Hogan,,,Unknown or N/A,,,,,,,,shawnhogan@toplinemh.com,Unknown,,(502) 664-9266,,
+358,0c0ab998-7726-49e0-a0f1-d04e3594c712,,Kenny,,Holderman,,,Unknown or N/A,706 Briscoe Dr,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+359,332ea24f-d78f-4fd8-b759-2155b6cf6b88,,Dave,,Hollander,,,Unknown or N/A,7650 Jersey Park Rd,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,1085
+360,5f4cedcc-f9f1-4d64-b3ce-b2ab0195332a,,Bill,,Hollingsworth,,,Unknown or N/A,3360 Old Forest,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+361,68b1e2bf-a84b-4ff7-b4f4-a830af8d4b38,,Jim,,Homrighausen,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+362,4fbd2845-3943-4763-9fda-80cfa9931c13,,Missing,,Hospital,,,Unknown or N/A,,,,,,,,alicia.rousseau@clarkmemorial.org,Unknown,,(812) 282-2101,,
+363,1a6b77fb-5d8d-4d78-a71a-561a997e5ecd,,Carlen,,House,,,Unknown or N/A,4631 Lakeview,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,
+364,347c1db9-92a4-4223-8e39-c6b2eceb45af,,Derek,,Howard,,,Unknown or N/A,1900 Appleblos,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,1086
+365,e0ac750e-9ca9-433b-a89f-2d81cbae2019,,Amy,,Howell,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+366,940de20a-ddd4-468a-a2b0-702aa7988168,,Ron,,Howell,,,Unknown or N/A,2125 Flatwoods Rd,,New Salisbury,IN,,47161,,,Unknown,,,,1087
+367,19539dfa-2f2a-4784-a524-c9df00eac183,,Christopher,,Howley,,,Unknown or N/A,,,,,,,,cfhowley@gmail.com,Unknown,,(502) 553-7852,,
+368,20d42c7f-a36a-4c04-a166-5e2d3d9e362e,,Holly,,Huarada,,,Unknown or N/A,,,,,,,,Floydcountyatod@gmail.com,Unknown,,,,
+369,2be93e6a-2f18-4db4-b13b-1aa06144f859,,Joe,,Hubbard,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+370,1ce6106a-c13b-4957-9c9e-004d969a2e8d,,Chuck,,Hubbs,,,Unknown or N/A,4036 Viewcrest Loop,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,1088
+371,f39f78fc-0a39-477d-ae1e-350a44bc919d,,Travis,,Huber,,,Unknown or N/A,,,,,,,,hubertravis970@gmail.com,Unknown,,(502) 644-7977,,
+372,8adba28a-f8ae-4701-8458-ef0f5f2b1ea0,,Travis,,Huber,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+373,4b852fa4-e666-4eb1-ae65-71a117d8628f,,Bill,,Hudson,,,Unknown or N/A,,,,,,,,bch@chrbillst.com,Unknown,,,,
+374,35441220-bd49-4eb5-ac0f-73c4b0ba4bf2,,Bill,,Hudson,,,Unknown or N/A,7000 Summer Hill Dr,,Georgetown,IN,Floyd,47122,,,Unknown,,,,1089
+375,efe806d3-6058-44e2-95cc-137d104223b6,,Karen,,Boha,,,Unknown or N/A,3602 Eagles Trace,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,1090
+376,671a6451-1340-4a66-9842-13344093b6a1,,Dannis,,Hughbanks,,,Unknown or N/A,2104 Glencove,,Louisville,KY,Jefferson,40207,,,Unknown,,,,1091
+377,e1aeb75d-3b07-42bf-a220-5e4bdd88fddc,,Emile O.,,Humbert,,,Unknown or N/A,,,,,,,,emilehumbert44@gmail.com,Unknown,,(502) 889-9289,,
+378,6c67fa09-e4d7-40bb-8383-d781f7f74284,,Haley,,Huncilman,,,Unknown or N/A,903 Spring St,,Jeffersonville,IN,Clark,47130,3638,hahuncilman@teg123.com,Opt In,,(812) 282-3700,,
+379,a9503f1b-990c-4767-8b95-bc8363485ace,,Curt,,Hunt,,,Unknown or N/A,1820 E Park Pla,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+380,97d5ff17-3df9-466f-8dfa-457e893769b9,,Dave,,Hurst,,,Unknown or N/A,503 Park Ridge Rd,,Georgetown,IN,Floyd,47122,,,Unknown,,,,
+381,01e75489-50f2-4534-8df3-678cca3b5bea,,Jamie,,Hurt,,,Unknown or N/A,910 Greenwood,,New Albany,IN,Floyd,47150,,,Unknown,,,,1092
+382,b4e206f8-8a2c-4f0e-842c-bdecefd3a427,,Joe,,Hurt,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+383,6ef2774c-186f-4d04-a854-3a6a77021730,,Gordon,,Ingle,,,Unknown or N/A,699 Hillview Dr,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+384,19785eed-ab05-47f1-8c21-0835b86cd3c7,,Amy,,Jackson,,,Unknown or N/A,,,,,,,,ajackson2695@gmail.com,Unknown,,,,
+385,b67505e6-232e-4e75-a7f3-7c96446415b6,,Nelson,,Jackson,,,Unknown or N/A,,,,,,,,nooney06@yahoo.com,Unknown,,,,
+386,399001c2-fa1a-4918-86a5-4f40a16ff283,,Stephanie,,Jackson,,,Unknown or N/A,7703 Edna M Rd,,Louisville,KY,,40258,,,Unknown,,,,
+387,f363787f-5bbc-4423-8fa5-2307d0e59fae,,Brian,,Jacobi,,,Unknown or N/A,,,,,,,,brian@jacobisales.com,Unknown,,(502) 548-2081,,
+388,3ca68eab-cde1-43da-a252-fc20e96b9e46,,Rachel,,Jacobi,,,Unknown or N/A,143 Leonard St Apt 5,,Brooklyn,NY,,11206,,,Unknown,,,,
+389,6eadff89-8880-4942-be4d-f3b50535ad98,,Stephanie,,Jacobi,,,Unknown or N/A,,,,,,,,steff.jacobi@gmail.com,Unknown,,(502) 386-3272,,
+390,f5fd140f-114f-4860-821f-6a60db9df012,,Judge Bradley,,Jacobs,,,Unknown or N/A,,,,,,,,Bjacobs@co.clark.in.us,Unknown,,,,
+391,4a65c57e-af21-4006-9a2d-3121130a9478,,Stacey,,Jacobs,,,Unknown or N/A,,,,,,,,stacey.jacobs3@gmail.com,Unknown,,(502) 727-1263,,
+392,5deb9aa6-61f2-4fcc-b453-1aca8004475d,,Stacey,,Jacobs,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+393,e417fb09-812f-4155-b53e-6980bedc8bdf,,Brandy,,Jeffers,,,Unknown or N/A,,,,,,,,brandyjeffers428@gmail.com,Unknown,,,,
+394,ac0f2328-4c06-4168-b338-014299b9a44d,,Tim,,Jellison,,,Unknown or N/A,1308 W Union C,,Grantsburg,IN,,47123,,,Unknown,,,,
+395,53849455-905d-42d1-8e6e-567351ec5d45,,Deb,,Johannes,,,Unknown or N/A,,,,,,,,deb_johannes@young.sennte.gov,Unknown,,,,
+396,0beca21b-fef9-4fae-a2ae-f6be91c85db1,,Mindy,,Johns,,,Unknown or N/A,,,,,,,,mjohns190@gmail.com,Unknown,,,,
+397,85342a11-ee80-4bea-83e7-2fcfab416eb4,,Mindy,,Johns,,,Unknown or N/A,,,,,,,,,Unknown,,(502) 797-1834,,
+398,a5406c09-504c-4ab9-9e4a-fa862b032f33,,Bob,,Johnson,,,Unknown or N/A,603 Beharrell A,,New Albany,IN,Floyd,47150,,,Unknown,,,,1093
+399,babd6c82-4019-4eb1-87f0-6b7d1f4c6d80,,Brandon,,Johnson,,,Unknown or N/A,,,,,,,,bdjohnson0627@gmail.com,Unknown,,(812) 653-0407,,
+400,639f3b80-9caf-4617-aef8-f310eec054cb,,Eric,,Johnson,,,Unknown or N/A,1800 Dutch Ln #17,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+401,aa04a5fb-9f57-4e7c-b7bd-0543622ec46e,,Jeff,,Johnson,,,Unknown or N/A,4301 Manner G,,Louisville,KY,Jefferson,40220,,,Unknown,,,,
+402,66f7560b-77b5-4fa8-82f1-9c5f63d3c68e,,Kevin,,Johnson,,,Unknown or N/A,PO Box 3,,Henryville,IN,,47143,,,Unknown,,,,1094
+403,28260679-c575-4045-a1ed-1d69c89e3e26,,Phill,,Johnson,,,Unknown or N/A,925 Pennwood Dr,,New Albany,IN,Floyd,47150,,,Unknown,,,,1095
+404,5d56df18-2a8a-443f-b43c-46a91761978d,,Tim,,Johnson,,,Unknown or N/A,505 Pfrimmer's,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+405,e1240057-7a8e-4b50-996d-974f3ea40328,,Bob,,Jones,,,Unknown or N/A,815 E Main St,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+406,32d75053-e4ea-4cd9-8374-fb6c263558eb,,Connie,,Jones,,,Unknown or N/A,31 Lakeshore Dr,,Clarksville,IN,Clark,47129,,,Unknown,,,,
+407,48764378-66fc-40cb-87ca-704e75b10db2,,Jacob,,Jones,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+408,0c5cc0b9-da1d-4373-b018-1f77038f3341,,Jill,,Jones,,,Unknown or N/A,,,,,,,,jilljones7502@gmail.com,Unknown,,(502) 299-7376,,
+409,81265083-ff7a-4ddc-84e5-b29d27341a29,,John,,Jones,,,Unknown or N/A,212 Greenlawn DR,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+410,871c80e0-42eb-437c-8652-82ff37fb2a65,,John E.,,JONES,,,Unknown or N/A,,,,,,,,jjones@gmcity.com,Unknown,,(812) 883-7289,,
+411,ef3f0574-dbf1-4056-b36f-fc2709af37f9,,Quincy,,Jones,,,Unknown or N/A,3923 Dunbar Av,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+412,a138e693-e701-4b92-831b-f9d4aa9fbb40,,Shelly,,Jones,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+413,fdcd39e2-e2b5-4616-b32d-195a7220f0cd,,Andrea,,Jones Russell,,,Unknown or N/A,4902 Rockaway Circle,,Louisville,KY,,40216,,,Unknown,,,,
+414,d276a843-cb63-4296-9fe9-25f7377a6d38,,Debbie s,,Julius McColloch,,,Unknown or N/A,4309 Hillside Ln,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+415,993012df-6750-4d73-8ced-3adba1316327,,Michael,,Junga,,,Unknown or N/A,7892 Tandy Road,,Lanesville,IN,,47136,,,Unknown,,,,
+416,54bfa9c7-1199-4423-9632-e5a10d020821,,Annette,,Justice,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+417,eb682deb-1d14-4368-811b-398997b5fe9f,,Elmer C.,,Kaiser,,,Unknown or N/A,,,,,,,,bud.pat.kaiser@gmail.com,Unknown,,(502) 396-4781,,
+418,2bb3dc98-b175-4bff-a695-e593cb0b3c47,,Suzanne,,Kaiser,,,Unknown or N/A,3397 Pinaire Lane NW,,Ramsey,IN,,47166,,,Unknown,,,,
+419,75bc000c-2b2d-44af-8b85-6c04d26dca49,,Chris,,Kane,,,Unknown or N/A,3003 Lone Wolf Ct,,New Albany,IN,Floyd,47150,,,Unknown,,,,1096
+420,7337854d-071d-4626-9d7f-d950cd099507,,Kim,,Kannapel,,,Unknown or N/A,,,,,,,,kimk0805@twc.com,Unknown,,(502) 541-6577,,
+421,02ed58c9-c2c9-4246-8739-6c5aff711cc6,,Richard A.,,Kautz,,,Unknown or N/A,,,,,,,,rickkautz@gmail.com,Unknown,,(765) 993-5634,,
+422,79cf9230-afdf-40d9-8c0c-4ed852b8777c,,Betty L.,,Kavanaugh,,,Unknown or N/A,,,,,,,,l.kavanaugh@att.net,Unknown,,(502) 376-7431,,
+423,1a002521-43f9-4d30-bedc-bbb56f21859a,,Leslie K,,Kavanaugh,,,Unknown or N/A,,,,,,,,k.kavanaugh@att.net,Unknown,,,,
+424,e0b6b496-bc19-49f3-a4de-1e16b1b3036a,,Beth,,Keeney,,,Unknown or N/A,,,,,,,,a2726@att.net,Unknown,,(502) 445-8674,,
+425,473092eb-f275-435a-98c4-e469d52fdb20,,Kevin,,Kelly,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+426,38b90ef3-a48e-4014-829b-eeff62f7f33c,,Janet M.,,Kennedy,,,Unknown or N/A,,,,,,,,janetknp@gmail.com,Unknown,,(812) 666-4003,,
+427,bf62f5ef-c90f-41db-8c58-af9bf4df27ca,,Frank,,Kerker,,,Unknown or N/A,"2750 S. Walnut St. Bloomington, IN 47401",,Bloomington,IN,,47401,,fpkerker@yahoo.com,Unknown,,(812) 360-9088,,
+428,df5019a1-1425-44ba-a163-8ca39e08baef,,Mary,,Kessans,,,Unknown or N/A,,,,,,,,,Unknown,,(502) 541-4219,,
+429,53183924-a254-43ec-a606-477269f282ef,,Mary,,Kessans,,,Unknown or N/A,,,,,,,,,Unknown,,(502) 541-4219,,
+430,23831b56-3c06-4069-bf33-e6bdb2ba74b8,,Paula,,Key,,,Unknown or N/A,2140 Webster Rd SE,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+431,49918976-9ffb-4615-83db-eb08a47f1d24,,Sara,,Key,,,Unknown or N/A,,,,,,,,,Unknown,,,,1314
+432,5cd87883-db1e-41cf-aaf9-f0f8ea62e81e,,Paul,,Kiger,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+433,7ef17cc3-a5e6-4f7f-81bd-6838d4ec5168,,Paul,,Kiger,,,Unknown or N/A,1304 Dent Ave,,New Albany,IN,Floyd,47150,5219,Paulkigergroup@gmail.com,Opt In,,(502) 314-6748,,
+434,317cbcae-ae2c-4476-864e-f1d5ee220cf4,,Garth,,Kimmel,,,Unknown or N/A,1446 Old State,,New Salisbury,IN,,47161,,,Unknown,,,,
+435,395ba253-3886-4806-be79-cd7e83df74a1,,Aleah,,King,,,Unknown or N/A,,,,,,,,aking370@gmail.com,Unknown,,(502) 762-8341,,
+436,098abce0-811b-46a5-a6cf-5e466f214d0c,,Carolyn A.,,King,,,Unknown or N/A,,,,,,,,callaby@aol.com,Unknown,,(502) 541-9636,,
+437,9e04771c-3839-4b73-a9ce-d8b12e32fc4e,,Eric,,King,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+438,d9237d26-4db2-4744-840c-74fe9482890e,,Leigh Ann,,King,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+439,c42cf8e3-1e41-410e-9a91-e566bd683e7c,,Nina,,King,,,Unknown or N/A,3754 South County Rd 310 West,,Paoli,IN,,47454,,,Unknown,,,,
+440,e8e7511d-ce6a-47b9-8c34-fa6007ecbc4b,,Richard,,King,,,Unknown or N/A,,,,,,,,usmma53@gmail.com,Unknown,,(502) 650-0559,,
+441,3d115dba-a1db-46a6-b9e5-a62c0f6e4b4f,,Kelley,,Kinnaird,,,Unknown or N/A,,,,,,,,kelley.kinnaird@rmrecycling.com,Unknown,,(812) 913-3643,,
+442,1d6e6a6f-60c7-4ac0-ba3e-4feb01b1e2e5,,Paige,,Kissinger,,,Unknown or N/A,336 Villa Drive,,Sellersburg,IN,Floyd,47172,,,Unknown,,,,
+443,b4a6fac1-338e-43cf-bbba-6e9ec86180cb,,Carrie,,Klaus,,,Unknown or N/A,,,,,,,,carrie@isyoga.me,Unknown,,,,
+444,c66f1a04-3dda-4b4c-bf67-6766ff4d875c,,Bob,,Kleehamer,,,Unknown or N/A,1208 Falls Creek Landing,,New Albany,IN,Floyd,47150,,,Unknown,,,,1098
+445,b4eb061d-dd3c-4ad5-ad77-c535b4493e1f,,Al,,Knable,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+446,464fe7bc-1dcc-4569-a8fa-5904bb18056c,,Viv,,Koestel,,,Unknown or N/A,5616 Maguire Run Rd,,Louisville,KY,Jefferson,40291,1795,fruitlady1@aol.com,Opt In,,,,1099
+447,e9cdfb60-8dfe-40e5-b1f1-921d6d73d337,,Ed,,Koffenberger,,,Unknown or N/A,7515 Westport,,Louisville,KY,,40222,,,Unknown,,,,
+448,f7e516f5-5291-4ea9-b198-2490dfb308f2,,John,,Konkler,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+449,b2aa5914-0fe9-4a37-b806-fdb7c4244d26,,Denny,,Kraft,,,Unknown or N/A,8308 Balmer La,,Charlestown,IN,Clark,47111,,,Unknown,,,,
+450,dcd5d6be-3dcf-4da5-aba7-8912b3b3838f,,Carin,,Kraus,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+451,eb7c688c-1a05-4571-a979-3f136783cf40,,Ken,,Kreeder,,,Unknown or N/A,9482 W State R,,Owensville,IN,,47665,,,Unknown,,,,
+452,48d3d311-b217-4dce-9d50-2b2c2819b59a,,Joe,,Kroskey,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+453,9ea692e3-4863-4b48-a900-b52854ae8eb8,,Russell,,Kruer,,,Unknown or N/A,1517 Stone Ridg,,Georgetown,IN,Floyd,47122,,,Unknown,,,,
+454,3ca4900c-0f39-4634-ae3d-f13cad818a1d,,Angie,,Kuerzi,,,Unknown or N/A,175 Aire Road,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+455,5b0621bf-fc48-447d-b6f4-b56d84fb437f,,Ann,,Kulwicki,,,Unknown or N/A,,,,,,,,akulwicki@nafcs.k12.in.us,Unknown,,(502) 552-7454,,
+456,452fe693-a86c-45fd-9ef2-38736bb4adbb,,Ann,,Kulwicki,,,Unknown or N/A,1068 Oakridge Dr,,Lanesville,IN,,47136,,,Unknown,,,,
+457,4f2ba10c-14a9-4aa2-ac5b-9c30e3503ca2,,Don,,Kunz,,,Unknown or N/A,6206 Rachel Tyne Way,,Georgetown,IN,Floyd,47122,,,Unknown,,,,
+458,56db87d0-a2ae-499d-9855-7c929e4c2ca7,,Jim,,LaDuke,,,Unknown or N/A,1480 Hwy 62 NE,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+459,2b454333-971f-403c-a318-5243dc030df1,,Bruce,,Lahue,,,Unknown or N/A,1640 Budd Rd,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+460,4a587d07-6d93-4ba6-b00a-7c539fbbcaf4,,Meredith,,Lambe,,,Unknown or N/A,1850 State St,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+461,0a4b3e33-1809-4f72-840d-e4209fb9fcdc,,Meridith,,Lambe,,,Unknown or N/A,,,,,,,,Meridithlambe@gmail.com,Unknown,,,,
+462,2c068f87-1703-493e-a357-c558461f1e95,,Teresa K.,,Lancaster,,,Unknown or N/A,,,,,,,,teresalancaster@icloud.com,Unknown,,(502) 435-3020,,
+463,1dcefaa9-4acd-439d-84ba-3a74c65b45b8,,Roseanne,,Lane,,,Unknown or N/A,1945 S Unionville Rd,,Paoli,IN,,47454,,,Unknown,,,,
+464,db2a8008-5564-45c2-b9a0-0776a47c57cd,,Carmen,,Lang,,,Unknown or N/A,3007 Ridgewood Dr,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,
+465,cd381c14-191e-4557-969f-d9b0d34cf876,,Michelle,,Langdon,,,Unknown or N/A,1918 Prairie Sky Ln,,Greenwood,IN,,46143,,,Unknown,,,,
+466,cdaf9f37-9717-424e-a062-f7c1742f4d3c,,Charles V.,,Lankford,,,Unknown or N/A,,,,,,,,cvlank6@gmail.com,Unknown,,(812) 653-0766,,
+467,c7398554-decc-4136-848e-d1335ecc3810,,Sue,,LaRue,,,Unknown or N/A,,,,,,,,slarue@bellsouth.net,Unknown,,(502) 439-4852,,
+468,f6d4a80f-8669-4b88-927b-faf11196fe0b,,Carole C.,,Lash,,,Unknown or N/A,4623 Wolfcreek Pkwy,,Louisville,KY,Jefferson,40241,5504,cclash2@aol.com,Opt In,,,,
+469,41f4be6f-7ca6-48ce-98f1-550d00859e4a,,Allan,,Lasky-Headrick,,,Unknown or N/A,,,,,,,,floedhaest@gmail.com,Unknown,,,,
+470,3511e15c-dc54-4263-9110-b0f924be6ecb,,Leslie,,Lathery,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+471,d12b633d-0694-4d1f-a843-dbc23cb47fb6,,Leslie,,Lathery,,,Unknown or N/A,,,,,,,,Sandylathery@gmail.com,Unknown,,(502) 387-6878,,
+472,a980518a-4673-4e4b-8826-c7d191e23860,,Jennifer,,Lattire,,,Unknown or N/A,4100 Buffalo Ln SE,,Elizabeth,IN,,47117,,,Unknown,,,,1100
+473,4faefdda-0e28-47e6-955b-9efb730c382d,,Robert,,Laughead,,,Unknown or N/A,,,,,,,,laugheadbob@aol.com,Unknown,,(502) 718-2148,,
+474,598fff8c-a78c-49d1-8d5f-7e474f794c8f,,Lance,,Lawson,,,Unknown or N/A,11405 Westpor,,Louisville,KY,Jefferson,40241,,,Unknown,,,,
+475,ba886625-bb9f-47a8-91e5-2c2b84323022,,John G.,,Leake Jr.,,,Unknown or N/A,,,,,,,,jleake82@yahoo.com,Unknown,,(502) 548-5038,,
+476,9dec7f07-31fe-43c6-9c09-a543f7bc0be3,,Brittany,,Lee,,,Unknown or N/A,,,,,,,,babybluecko09@gmail.com,Unknown,,,,
+477,f296e732-8438-4e0a-be7e-3ca61b22fe5d,,Linda,,Leist,,,Unknown or N/A,6507 Deerfield,,Charlestown,IN,Clark,47111,,,Unknown,,,,
+478,75b9977e-e870-4185-81ed-a3efbe4175ec,,Laura,,Lete,,,Unknown or N/A,8680 Ranchwood Ln,,Saint Augustine,FL,Saint Johns,32092,1417,letelaura@yahoo.com,Opt In,,(904) 803-0236,,
+479,c264b7b3-264d-4904-8ddb-fb78edd4c5e3,,Luke,,Lete,,,Unknown or N/A,,,,,,,,,Unknown,,(502) 396-9311,,
+480,ea972d02-d8fb-4d6e-8587-955b8f545e0f,,Luke,,Lete,,,Unknown or N/A,1016 Falcon Ct,,New Albany,IN,Floyd,47150,5463,luke@digijump.com,Opt In,,,,
+481,38de2c8f-67e2-4d02-8647-e9c636d5402c,,Zary,,Lete,,,Unknown or N/A,1016 Falcon Ct,,New Albany,IN,Floyd,47150,,,Unknown,,,,1101
+482,4eba2241-5d22-4a3a-b490-2b4fcc129f5c,,Vicki L.,,Lete,,,Unknown or N/A,,,,,,,,luke@digijump.com,Unknown,,,,
+483,ce289aee-8b7e-4540-a9db-4596260b4626,,Brent,,Lewis,,,Unknown or N/A,600 E Chestnut,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+484,2a8bd5ae-9680-49dd-bb93-c0fe22d437de,,Jeremy,,Lewis,,,Unknown or N/A,P.O. Box 333,,Buckner,KY,,40010,,,Unknown,,,,1102
+485,53ef4033-8d37-41e4-b7d4-5f7239da99bc,,Steve,,Lewis,,,Unknown or N/A,9175 Ripperdan,,Mauckport,IN,,47142,,,Unknown,,,,1103
+486,cdef9663-7167-48ec-a2f4-7b7535a8358f,,Vanessa,,Lewis,,,Unknown or N/A,,,,,,,,vforrest06@gmail.com,Unknown,,,,
+487,825ad331-a90b-4fe8-8ed0-698431a63cea,,Heather,,Lisco,,,Unknown or N/A,207 West Dr,,Charlestown,IN,Clark,47111,1740,heather.lisco2@gmail.com,Opt In,,(812) 704-4230,,
+488,7f3fb9d3-33ca-4cb9-aec7-8ef11bff682b,,Lisa,,Livingston,,,Unknown or N/A,1728 E Elm St,,New Albany,IN,Floyd,47150,1638,llivingston862013@gmail.com,Opt In,,,,
+489,a37ffb91-023f-49df-b3e1-018a68c85eea,,Rebecca,,Lockard,,,Unknown or N/A,,,,,,,,rlockardlaw@aol.com,Unknown,,(812) 288-4326,,
+490,8b4ac06f-146a-4bb2-a5d9-24524e6da286,,Bobby,,Long,,,Unknown or N/A,2769 Edwardsvi,,Georgetown,IN,Floyd,47122,,,Unknown,,,,
+491,735a2dd3-1432-4c4a-9281-6c839b9db368,,Lynnette,,Long,,,Unknown or N/A,4018 Summer Place,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+492,5a4cb647-4e70-4ab1-98d6-202b0d124b4a,,Teresa,,Long,,,Unknown or N/A,332 N Harrison Dr,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+493,7356a861-76d3-4d5b-b50d-555694a57c4c,,Tracy,,Long-Jones,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+494,6bf30e2a-30f8-4986-bd9d-e82b8bd5644d,,Nancy,,Lotspeich,,,Unknown or N/A,3403 Hillvale Rd,,Louisville,KY,Jefferson,40241,,,Unknown,,,,
+495,3716c5be-1864-47b4-af12-e5867504ca7e,,Daniel,,Lowe,,,Unknown or N/A,1365 Old Hwy. 1,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+496,ffc9d138-c394-4417-bb61-c9044186f958,,Jan,,Lucas,,,Unknown or N/A,3613 Valehill Rd,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,
+497,87850099-3d46-4c34-aabe-edd1f3ae51e8,,Michael,,Ludlow,,,Unknown or N/A,PO BOX 452,,Santa Claus,IN,,47579,,,Unknown,,,,1104
+498,8ee2a8d2-9940-467c-b4cb-75ce55c9912d,,Michelle,,Ludolph,,,Unknown or N/A,,,,,,,,lovemytea2@hotmail.cpm,Unknown,,,,1331
+499,c5900e1c-61a8-44a5-bd22-1a4e30511516,,Robin,,Lukowski,,,Unknown or N/A,901 East Fourth Street,,NewAlbany,IN,,47150,,,Unknown,,,,
+500,3cc1ed14-eec9-4bd8-a5ff-2879b66cc8c6,,Robin,,Lukowski,,,Unknown or N/A,,,,,,,,Rlukowski@aol.com,Unknown,,(502) 724-9788,,
+501,ed15e835-cdd8-4d0b-821b-921a2a248aeb,,LeaAnn,,Lumpkins,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+502,637b9a76-20db-46fe-aed5-c42b7a6388cc,,Mike,,Lun,,,Unknown or N/A,84 High Park Drive,,New Albany,IN,Floyd,47150,,,Unknown,,,,1106
+503,e7f92a7e-54c6-4c38-b296-9d53ba8c8a48,,Orlin,,Luther,,,Unknown or N/A,2521 Corydon New Middletown Rd,,Corydon,IN,Harrison,47112,,,Unknown,,,,1107
+504,d9d382af-a3f5-4e3c-8fc5-2fe992739419,,Deedee,,Lyons,,,Unknown or N/A,4317 Murphy Rd,,Memphis,IN,Clark,47143,9131,deedee@lyonsroofingco.com,Opt In,,,,
+505,772fb2f4-6030-42e0-9216-3174f122b19b,,Susan,,MacGuire,,,Unknown or N/A,,,,,,,,s.maguire62753@gmail.com,Unknown,,,,
+506,58d20740-c92b-411a-9a03-c850e67da91f,,Dianne,,Maier,,,Unknown or N/A,3805 Leland Rd #6,,Louisville,KY,Jefferson,40207,,,Unknown,,,,
+507,6195a9f2-846a-4fb2-9647-625b78ea69f7,,Malysz,,Norwood,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+508,edf9245a-4d65-4d9d-96a1-4634d60e9689,,Mark,,Mann,,,Unknown or N/A,7031 Plum Creek Dr,,Sellersburg,IN,Floyd,47172,,,Unknown,,,,1108
+509,fd45507b-0438-455d-8068-2804ac6cef82,,Amanda,,Manuel,,,Unknown or N/A,,,,,,,,,Unknown,,(812) 557-9941,,
+510,2faa36a6-a096-4dbe-9897-5279e9769840,,Dan,,Manzano,,,Unknown or N/A,426 E. Maple St,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+511,d4e20b0d-9644-4240-9ead-2db0df7100af,,Theresa,,Marcell,,,Unknown or N/A,,,,,,,,theresamarcell13@gmail.com,Unknown,,(502) 294-8516,,
+512,58e00aa4-05c6-46c0-a414-32295ac13e40,,Mary,,Mathes,,,Unknown or N/A,276 East Ridge Rd SE,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+513,4f5e31c5-68d2-40a6-81da-6a768a8a9dd8,,Shannon,,Matthews,,,Unknown or N/A,1505 Edgewood Dr.,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+514,fd7f4cf2-2257-4a82-8807-64149bd5eea0,,Heather,,Mauney,,,Unknown or N/A,2000 Utica Pike,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+515,a96769aa-abbf-45c2-b289-7dc390b80aba,,Mark,,Maxwell,,,Unknown or N/A,,,,,,,,,Unknown,,,,1340
+516,ba2dddcc-6ab4-45f4-8086-3ccd80e4c5ef,,Bev,,McAdams,,,Unknown or N/A,,,,,,,,bjmc48@yahoo.com,Unknown,,,,
+517,4f96f8d0-be8f-4f60-ac32-a920bfe288c4,,Douglas,,McArthur,,,Unknown or N/A,3347 W Bradfor,,Palmyra,IN,,47164,,,Unknown,,,,
+518,dc29a514-e3b1-4eec-ac3b-597d77a57092,,Andrew,,McCart,,,Unknown or N/A,1922 Depauw Ave,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+519,f7c109c0-b0d4-4b80-b3f3-c72ff8a801e8,,Carie,,McCart,,,Unknown or N/A,,,,,,,,ccm3139@gmail.com,Unknown,,,,
+520,851a51a8-4937-4987-9890-6b4c7ced846c,,Dana,,McCarty,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+521,cc64717f-6dcb-400b-a9bf-4bac50768664,,Mike,,McCarty,,,Unknown or N/A,7115 Highway 1,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,
+522,e051f5fe-7a5c-402f-8260-b5e4abb7fed7,,Paul,,McCauley,,,Unknown or N/A,551 Karlenia Ct,,Edgewood,IN,,41017,,,Unknown,,,,1110
+523,8f97340b-70cc-4439-96b9-807d5d396429,,Phil,,McCauley,,,Unknown or N/A,7813 Creek Bottom Rd,,Louisville,KY,Jefferson,40241,,,Unknown,,,,1111
+524,bf8d18b4-db55-4411-99c7-69a66dbbc551,,Sandy,,McCauley,,,Unknown or N/A,,,,,,,,sandysmccauley@gmail.com,Unknown,,(502) 727-0732,,
+525,bc98bac0-c972-40c1-a8e1-a2f2611f1f09,,Kindra,,McClellan,,,Unknown or N/A,,,,,,,,kmclellan236@gmail.com,Unknown,,,,
+526,ffb2e139-7af5-4085-831c-6454e1011d6f,,Stephen,,McClure,,,Unknown or N/A,321 Norwood A,,Clarksville,IN,Clark,47129,,,Unknown,,,,
+527,5e96bf27-4ad6-4212-bfa0-cd22c3dbf59d,,Lindsey,,McCraw,,,Unknown or N/A,,,,,,,,lindseymccraw03@gmail.com,Unknown,,(270) 348-2853,,
+528,6f5d409a-cfe5-4dfe-ab09-48867604a7c6,,Rebecca,,McCutcheon,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+529,0ea7afbf-1102-4441-9b22-a0ad9e1a4f66,,Megan,,McGinn,,,Unknown or N/A,182 N Ewing Ave,,Louisville,KY,Jefferson,40206,2459,meganmcginn63@gmail.com,Opt In,,(812) 484-4832,,
+530,9f218d37-0fd1-4e10-9a69-5a1c178efb87,,Matthew A.,,McGraw,,,Unknown or N/A,,,,,,,,Matt.mccraw@aol.com,Unknown,,,,
+531,f08c22f9-aac6-45ef-98f1-f583d50e8f26,,Denzil,,McKim,,,Unknown or N/A,3345 Country Ln,,Lanesville,IN,,47136,,,Unknown,,,,
+532,3ef8edeb-c44a-4188-b29a-72c525fd79c5,,Tom,,McMahon,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+533,bed6839b-ef94-492f-b383-0e2da2d91d61,,Pamela,,McManus-Cum,,,Unknown or N/A,4740 Fosskuhl Rd,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,
+534,884c90cd-4587-4115-9679-52f3833e9f62,,Kyle,,Megraw,,,Unknown or N/A,,,,,,,,kamegraw@gmail.com,Unknown,,(812) 697-4779,,
+535,9f4897ea-078c-40db-926a-04b2aa50ba7e,,Laura,,Meier,,,Unknown or N/A,16 Oak Park Blvd,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+536,6963bd54-0a93-4615-aa3b-a31fc5f17589,,CJ,,Meldrum,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+537,de3117b7-ecd2-4267-b2fd-2ea9850775d1,,Keith,,Meriwether,,,Unknown or N/A,12108 Covered Bridge Rd,,Sellersburg,IN,Floyd,47172,,,Unknown,,,,1112
+538,6c1d67c2-10da-4320-80b5-ac4d30de1275,,David,,Mesterharm,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+539,1d4c37fc-02a5-41c0-b832-8fb626aadea4,,Benjamin,,Meyer,,,Unknown or N/A,15004 Beyl Rd,,Borden,IN,Clark,47106,9311,fatboybenjamin@yahoo.com,Opt In,,(812) 704-0425,,
+540,7667190a-4421-437d-837c-48b7d4ef56b5,,Cindy,,Meyer,,,Unknown or N/A,15008 Beyl Rd,,Borden,IN,Clark,47106,9311,cindy.meyer0613@gmail.com,Opt In,,(812) 786-3626,,
+541,4cfa5224-16fd-4d25-9b57-7b9e8de44d47,,John,,Meyer,,,Unknown or N/A,15012 Beyl Rd,,Borden,IN,Clark,47106,9311,jmichael6867@gmail.com,Opt In,,(812) 786-1268,,
+542,84d3250c-8faa-46a3-87fe-f7136dd84287,,John,,Meyer,,,Unknown or N/A,8207 County Line Rd,,Sellersburg,IN,Floyd,47172,,,Unknown,,,,1113
+543,1abf9169-655e-4142-a130-36ac5b2c21fc,,Paula,,Milby,,,Unknown or N/A,,,,,,,,tugpd1@gmail.com,Unknown,,(502) 659-1455,,
+544,ca04e930-24f9-43ee-ba29-81554542d23e,,Blair,,Miller,,,Unknown or N/A,1183 Copperfield Dr.,,Georgetown,IN,Floyd,47122,,,Unknown,,,,
+545,d587aa30-b2b4-46cb-9e57-a0fde152964e,,Jason,,Miller,,,Unknown or N/A,6309 Kenwood Dr NE,,Georgetown,IN,Floyd,47122,,,Unknown,,,,1114
+546,ef1e0152-efe4-4102-933a-47c4229b98a5,,Nathan,,Millican,,,Unknown or N/A,1111 Allison Ln,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+547,da6a35dd-4749-4d43-84f3-ed853beb171d,,Dolly,,Mills,,,Unknown or N/A,500 N Watterso,,Louisville,KY,,40243,,,Unknown,,,,
+548,198c1729-9d5d-410e-9639-72d27622d48a,,Jennifer,,Mills-Knutsen,,,Unknown or N/A,329 Walnut St,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+549,7886d1c6-a48b-4341-ad4c-d59009b85d19,,Dawn,,Millspaugh,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+550,a09027c0-ce5c-4aa3-a415-1e5762021637,,Nick,,Milly,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+551,5bee3aed-e4f2-4f9c-8a44-ff9e737a8aa0,,Jeff,,Minton,,,Unknown or N/A,1965 Old East Road NE,,Palmyra,IN,,47164,,,Unknown,,,,1115
+552,f1af0490-b96f-44fd-b38c-acd35ec2fc0f,,Dr. William,,Mischler,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+553,fffaca12-9934-486b-86d6-3621f0e141e8,,Glenda,,Missi,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+554,e6e46441-1da7-4bd9-9c41-76d635c033b2,,Glenda,,Missi,,,Unknown or N/A,,,,,,,,Glenmissi@gmail.com,Unknown,,,,
+555,89b8bb7c-9101-45c3-a05a-1fe0aa935e9a,,Blanton Family,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+556,4a66de5d-06f7-44a9-9388-f69f8f36accb,,Kenneth,,Riester,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+557,4b6f39ca-478f-4b17-949b-4ffc2e6c4792,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,(812) 282-6993,,
+558,89a8b400-5f8d-4aef-8325-0c3e10e6fb37,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+559,44c943e1-5640-486c-a345-c5f1e412beb8,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+560,aaa38c67-faa9-429f-bc40-849a067bb7f6,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+561,d0d94636-040d-4d46-b241-e3b69ca66a9a,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+562,9a3d0925-49b6-4e01-ae64-f0008af70fe1,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+563,361fc591-b40f-4f51-98e0-36670593cf3f,,Missing,,Missing,,,Unknown or N/A,9414 Hwy 62,,Charlestown,IN,Clark,47111,,,Unknown,,,,
+564,5a7a6475-5f6c-4b24-a017-936d50b607ce,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+565,9e4c160e-b78a-47b8-8808-5682f5cabab6,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+566,30387bf0-0137-4df5-8d95-861b5a383d42,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+567,e44830c5-4824-4f4a-bf76-6e85d1edc620,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+568,f9434236-696a-450b-849b-3623e70dbfc7,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+569,f215488a-5268-4b59-802a-0aadd19650d6,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+570,05d841cf-9547-4f0e-9ccd-ae0628062143,,Missing,,Missing,,,Unknown or N/A,4880 State Rd 62,,Georgetown,IN,Floyd,47122,,,Unknown,,,,
+571,18272f92-c456-4b98-9334-eba7a37fb244,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+572,d78e1a10-b1a7-4d5f-9d2f-f8e9957bd0ef,,Missing,,Missing,,,Unknown or N/A,1858 E 8th St,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+573,91aa883d-a8c5-4f9d-ab3b-35f1c8f9f528,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+574,fa12b661-559e-418d-8846-2f2eda266bee,,Missing,,Missing,,,Unknown or N/A,1309 Charlestown Rd,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+575,0de6a7e1-1023-4f51-9e3b-c5a77037f1c1,,Missing,,Missing,,,Unknown or N/A,1030 Sames Road,,Clarksville,IN,Clark,47129,,,Unknown,,,,
+576,e6fb91ee-98f8-48ef-9291-d041a88a11ca,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+577,a89cbcb1-6e57-49ae-9a54-dca29374451f,,Missing,,Missing,,,Unknown or N/A,1220 Missouri Avenue,,Jeffersonville,IN,Clark,47130,,,Unknown,,(812) 282-6631,,
+578,c3b44bab-1c7f-40cf-9b23-b9ea5553c854,,Missing,,Missing,,,Unknown or N/A,1221 Old Hwy 31E,,Clarksville,IN,,47130,,,Unknown,,(812) 282-9866,,
+579,674ec67b-9bc5-4544-b413-66e157d6fb41,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+580,51a6fe2c-97ff-43ec-9d2d-47e4eb99f172,,Missing,,Missing,,,Unknown or N/A,2011 Garner Lane,,Louisville,KY,Jefferson,40205,,,Unknown,,,,
+581,ad0b17b3-ccf1-4f4c-b3b6-ed4ecea94ad5,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+582,1b4fb766-e3e5-4080-a3e8-d2618cfdb480,,Missing,,Missing,,,Unknown or N/A,2796 Charlestown Rd,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+583,e773bb99-e581-4be5-96dd-f0f33611281d,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+584,d512b196-0d3e-4472-882f-58b3ad518a4a,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+585,864070bf-15a2-4445-a306-d15b1518001a,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+586,b0529e66-8b9b-4a2a-9617-25cfdbfbf03a,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+587,4058eb7c-6c74-46ef-8aa4-24eed53acd17,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+588,f2b3b75c-cfd7-467b-9a48-b2aa14bef352,,Missing,,Missing,,,Unknown or N/A,,,,,,,,rwhoyland@yahoo.com,Unknown,,(812) 924-7707,,
+589,2438746f-c730-4404-9d34-5f64e66e0d59,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+590,b44ebb80-7154-46e8-b025-94f538fa5e4f,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+591,d7dfed71-0ce9-4e44-a115-47f0f4da282b,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+592,3f31c982-5ba3-4578-bdd6-80c8cf96a327,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+593,ff8c5fed-91ef-4422-8801-9a8c8468a1b8,,Missing,,Missing,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+594,e52bbe53-33d4-4bad-9e70-b7c6105b56c0,,Linda,,Mitchell,,,Unknown or N/A,,,,,,,,lmdad_smith@att.net,Unknown,,,,
+595,0f83d020-faf5-431a-bb08-b5e42f9fdf85,,Lora,,Moeller,,,Unknown or N/A,,,,,,,,lmoeller@jacksoncounty.in.gov,Unknown,,,,
+596,3275f414-d3a2-4a57-9a37-74cb0da1b1ea,,Stefanie,,Moffitt,,,Unknown or N/A,1E McClain Ave G20,,Scottsburg,IN,,47170,,,Unknown,,,,
+597,5a63a4ec-bb9b-4c5d-8288-c385a9f090b8,,Brenda,,Money,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+598,597ec63f-8747-425a-990c-88160b3c7ccf,,Brenda,,Money,,,Unknown or N/A,,,,,,,,,Unknown,,(812) 704-3622,,
+599,ac0bac17-8196-45e6-a6e3-75f1b63859c9,,Dale,,Moolhuysen,,,Unknown or N/A,104 Wathins Pr,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+600,1a8a9e72-0b4a-4ddd-be5a-46b5a7672b4a,,Conrad,,Moorer,,,Unknown or N/A,2510 E Highway,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+601,92b7a362-376b-4cbd-b601-42c2b4fa35b7,,Bruce,,Morris,,,Unknown or N/A,4120 Royal Oak,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+602,3f18c38b-edd0-4a97-9db7-007a9a92fa00,,Chris,,Morrison,,,Unknown or N/A,319 Ingram Ave,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+603,d6cdfba3-0e8b-4b71-8718-f57492e19b40,,Nancy,,Morton,,,Unknown or N/A,3221 Slate Creek Ct,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+604,9b274f9f-1cb9-40b8-9023-f1c7f76eb9be,,Hope,,Mott,,,Unknown or N/A,,,,,,,,hmott@techshot.com,Unknown,,(812) 728-8131,,
+605,61157ef8-332d-464a-94b1-e392fa4f8e48,,Hope,,Mott,,,Unknown or N/A,,,,,,,,hmott@live.com,Unknown,,(812) 704-2126,,
+606,237d8a63-fae4-49a3-b792-56ff5af27a1c,,Susan,,Murphy,,,Unknown or N/A,,,,,,,,susan.murphy@ky.org,Unknown,,,,
+607,e8a8592f-c7cc-4ba7-b67a-7fc3e9b47c21,,Anna,,Murray,,,Unknown or N/A,,,,,,,,annamurray.esq@gmail.com,Unknown,,,,
+608,b600293d-7237-423b-a94e-61fb78d02c7e,,Anna,,Murray,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+609,4255242e-dd14-4db4-a82c-4a613f001c46,,Gale,,Murray,,,Unknown or N/A,3865 Rocky Hollow Dr,,Corydon,IN,Harrison,47112,,,Unknown,,,,1116
+610,e0ac02d5-9ca1-47cf-8dcc-a7649c5bb17f,,Valerie D.,,Music,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+611,cfee0d66-f29e-466c-89a9-3c9937b7ccb1,,Anna,,Myers,,,Unknown or N/A,,,,,,,,myers_a@twc.com,Unknown,,(812) 948-0076,,
+612,ed7e1c17-15ae-4be8-bfa7-ec9157a3ef67,,David,,Nally,,,Unknown or N/A,1201 Birchwood Dr.,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+613,f21017fd-7e5c-4faf-90fa-c74e7f4e6c86,,Sandy,,Naville,,,Unknown or N/A,,,,,,,,snaville@twc.com,Unknown,,,,
+614,f3f23f25-89fb-40e3-a289-2e9fc5de61e6,,Sandy,,Naville,,,Unknown or N/A,708 Mure DeRonce Dr,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+615,dd80fc22-f601-4f0d-b5a5-1c851fd98d77,,John,,Neace,,,Unknown or N/A,,,,,,,,,Unknown,,,,1356
+616,92ee3c60-7fb6-41d4-b60a-97e8eae2d83b,,Sara,,Neathamer,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+617,be2803dd-aa80-4937-a870-7cca6530304d,,Sue,,Neathamer,,,Unknown or N/A,3607 Stonecreek Cir,,Jeffersonville,IN,Clark,47130,8051,sueneathamer@sbcglobal.net,Opt In,,(502) 296-1179,,
+618,c56f7bc7-5e3b-4546-881f-40e54a2e6bd1,,Sue,,Neathammer,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+619,85d45d72-a12d-4266-a621-335ad555f717,,Ann,,Neel,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+620,f74c29f8-f853-432f-902c-ebcb3f226e0a,,Doug,,Newland,,,Unknown or N/A,7018 Westridge Forest Ct,,Lanesville,IN,,47136,,,Unknown,,,,1118
+621,3c7fd983-8122-4fdb-b33f-147f9998b6c8,,Lew,,Newton,,,Unknown or N/A,1668 Almara Cir,,Louisville,KY,Jefferson,40205,,,Unknown,,,,
+622,af5df7c5-6332-457d-b0e4-62c802a2a3b5,,Martha,,Nice,,,Unknown or N/A,,,,,,,,mnice@blueriver.net,Unknown,,,,
+623,6c662706-7d9c-4843-aefe-c5f22cf54575,,Brianne,,Nickelsberg,,,Unknown or N/A,,,,,,,,banickels@msn.com,Unknown,,(502) 594-2711,,
+624,c3c24735-b581-4f22-9000-7699e16bc9e6,,Ken,,Nicolas,,,Unknown or N/A,3421 Greenview Dr,,New Albany,IN,Floyd,47150,,,Unknown,,,,1119
+625,07542b96-9446-4f1d-a1e7-81acf4c36c0f,,Janeen,,Niehaus,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+626,ff6a98e2-288f-4568-9130-099ba5c31e68,,Tonya,,Nolot,,,Unknown or N/A,,,,,,,,tonya.fredericks@gmail.com,Unknown,,,,
+627,dc852a5a-2d0b-4e0b-b42a-f1beeb25137a,,Molly,,Noonan,,,Unknown or N/A,1653 Hedden Park,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+628,8c266c82-de70-4703-8716-0402e5d29165,,Judith,,O'Bannon,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+629,1c7d4f3d-54b0-4d9a-808f-f03a474be0c1,,Marie,,O'Neil,,,Unknown or N/A,,,,,,,,rie311@hotmail.com,Unknown,,(502) 905-1714,,
+630,0d312c2d-6f2b-4610-8875-aec0e7a42338,,Leslie,,Oberhausen,,,Unknown or N/A,5944 E Borden Rd,,Borden,IN,Clark,47106,,,Unknown,,,,
+631,3f4d2ccd-85db-4b3e-99b5-1ea835e18b2d,,Wesley,,Odle,,,Unknown or N/A,,,,,,,,realestatewesley@aol.com,Unknown,,,,
+632,01cd1dd9-4286-4edd-a5b3-10d5226f8b27,,NJ,,Olivas,,,Unknown or N/A,,,,,,,,njeanolivas@hotmail.com,Unknown,,(502) 655-2694,,
+633,9753a74b-8fdd-4fd1-8def-18c83856835b,,Larry,,Olliges,,,Unknown or N/A,,,,,,,,lolliges@deescrafts.com,Unknown,,(502) 551-9477,,
+634,329daa9f-59be-4d03-9ee4-d42cbe7cf64e,,David,,Orem,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+635,50cb18ac-b356-428c-b648-6da58f2f181e,,Jenny,,Ostertag,,,Unknown or N/A,,,,,,,,jostertag@ymail.com,Unknown,,(502) 876-8817,,
+636,9a063675-93f0-4682-83f9-35b7e09e9128,,Steve,,Owens,,,Unknown or N/A,One Court St,,Paoli,IN,,47454,,,Unknown,,,,
+637,a1a26d89-ad9f-4665-b7be-7a1d842cf482,,Bob,,Owings,,,Unknown or N/A,,,,,,,,,Unknown,,,,1363
+638,257bad7b-034f-4799-9b1c-6477ad7a31ce,,Olivia,,Pacciano,,,Unknown or N/A,4208 Lakeside Ct,,Sellersburg,IN,Floyd,47172,,,Unknown,,,,
+639,224a3d17-ed6a-4049-890d-df815bfe8254,,Jim,,Padgett,,,Unknown or N/A,901 E 4th St,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+640,79900dad-c89a-400b-8257-89e84bce332e,,Jimmy,,Padgett,,,Unknown or N/A,901 East 4th street New Albany,,NewAlbany,IN,,47150,,,Unknown,,(812) 945-3064,,
+641,e6ea94bb-ec39-4154-bd1c-d757f566f0fe,,Robert J.,,Padgett,,,Unknown or N/A,,,,,,,,rjpadgett@padgett-inc.com,Unknown,,(502) 817-4353,,
+642,7aa3623f-7edd-446a-bd70-33ec2e14c26b,,Lisa,,Page,,,Unknown or N/A,,,,,,,,lpage0825@gmail.com,Unknown,,(812) 557-0714,,
+643,c88f8dad-0131-4ee3-bb9a-8136b9e7cd6a,,David,,Parkerson,,,Unknown or N/A,2319 Charlesto,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,1121
+644,81466a03-3080-435e-96c6-d69d0c220fd0,,Jacqueline D.,,Parks,,,Unknown or N/A,,,,,,,,jdparks1967@yahoo.com,Unknown,,(502) 552-3802,,
+645,62138dc2-5f4b-4792-a982-8b5d2ac54a60,,Jennifer,,Parr,,,Unknown or N/A,8584 Tom Evans Rd,,Greenville,IN,Floyd,47124,,,Unknown,,,,
+646,572aef3a-02f5-4ff2-986f-a60ac9b0596b,,Lou Ann,,Parrino,,,Unknown or N/A,2140 Bonnycastle Ave Apt 11C,,Louisville,KY,Jefferson,40205,1391,laparrin@yahoo.con,Opt In,,,,
+647,4fc1818c-6fa6-41d4-a3f5-f5fb5a1e94c1,,Darrin,,Pascoe,,,Unknown or N/A,PO Box 448,,Irvington,KY,,40146,,,Unknown,,,,
+648,9f084eb3-96a4-4144-a172-997931443bda,,Jan,,Pasiuk,,,Unknown or N/A,PO Box 866,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+649,7f5ed18e-f9b3-4943-bbfe-83fb27ba54a7,,Nathan,,Pate,,,Unknown or N/A,,,,,,,,socomfy@gmail.com,Unknown,,,,
+650,d00eb274-4eb0-4092-ac21-499e817581dd,,Paul,,Pate,,,Unknown or N/A,1160 Savoy st,,San Diego,CA,,92107,,,Unknown,,,,1122
+651,d934c1a1-e010-48a4-bc95-286644084cc3,,Phillip,,Pate,,,Unknown or N/A,,,,,,,,pnkpate@gmail.com,Unknown,,,,1368
+652,38f87cd6-6eec-4afa-9d6d-f0f000c60232,,Sheri,,Payne,,,Unknown or N/A,,,,,,,,billyandsheripayne@gmail.com,Unknown,,(812) 989-5718,,
+653,73517fcb-44c6-4b96-bb37-36a92fc70a84,,Collin,,Payton,,,Unknown or N/A,24 Oxford Dr,,New Albany,IN,Floyd,47150,2419,cpayton5@gmail.com,Opt In,,,,
+654,bdd712cb-b188-4901-8f2f-a49c9ebd684e,,Donnie,,Peacher,,,Unknown or N/A,16 Terrace Heig,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+655,8c2af454-afbb-4b35-b2e7-fa4953f8ecd1,,Ava,,Pendleton,,,Unknown or N/A,2501 Wyckford Way,,Louisville,KY,,40218,,,Unknown,,,,
+656,3280f309-390f-4ffa-9ded-c1be394afde4,,Christine,,Pendleton,,,Unknown or N/A,1020 Country Club Rd NE,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+657,6b6cbc64-3f90-4c12-bd55-ddb735135c54,,Jonathon,,Pendleton,,,Unknown or N/A,12122 Bay Run Dr,,Louisville,KY,,40245,,,Unknown,,,,
+658,5a39199e-f436-418d-9ed2-45873fff21bc,,Larry,,Pendleton,,,Unknown or N/A,30 South Portola,,South Laguna,CA,,92677,,,Unknown,,,,1124
+659,a03ced08-25bb-41ef-847e-dd1039a1cbd7,,Larry,,Pendleton,,,Unknown or N/A,30 S Portola,,Laguna Beach,CA,Orange,92651,6719,lrp22@cox.net,Opt In,,(949) 491-4669,,
+660,83bd4370-def2-4086-8eb0-e729b9310c4a,,Drs. Stephen Pritchard,,Penny Gaither,,,Unknown or N/A,2400 N Dunn St,,Bloomington,IN,,47408,,,Unknown,,,,
+661,8ea74674-2dbe-41b4-92e9-9e1595c4dbc9,,Beverly,,Perry,,,Unknown or N/A,4830 Highway 6,,Georgetown,IN,Floyd,47122,,,Unknown,,,,
+662,df0ad4a0-b178-47fa-a23f-aecaa8c178dd,,Haynes,,Perry IV,,,Unknown or N/A,1700 Cemetary,,New Salisbury,IN,,47161,,,Unknown,,,,
+663,e48e643f-4260-48da-9e03-9c459d31f41c,,Pauline M.,,Peters,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+664,064ce2eb-5da7-48bc-b102-3445a1e37b3d,,Kathleen,,Phelps,,,Unknown or N/A,,,,,,,,fatkat1958@yahoo.com,Unknown,,(502) 819-5541,,
+665,6e432e32-f5cf-4de4-bcdb-8b92c8518de6,,David,,Pickel,,,Unknown or N/A,1910 Poindexte,,Sellersburg,IN,Floyd,47172,,,Unknown,,,,
+666,17cdb0d8-10d3-4730-ac1f-dc8bfe287480,,Kaelin,,Pierce,,,Unknown or N/A,,,,,,,,kaezoe1111@gmail.com,Unknown,,,,
+667,c6b0db4e-fb3e-4be5-ad19-878d7b9fd07c,,Jenny,,Pinaire,,,Unknown or N/A,6100 Corydon Ramsey Rd,,Ramsey,IN,,47166,,,Unknown,,,,
+668,97d6f3b0-d9bc-49e9-b00d-d5cbccb97113,,Alan,,Plappert,,,Unknown or N/A,1431 Goodard Ave,,Louisville,KY,,40204,,,Unknown,,,,1125
+669,57642f3b-1cdb-48be-a1a0-c36a2142142e,,Denise,,Polkish,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+670,3498e617-bfb1-4514-a224-aa04c0399ab7,,John,,Posey,,,Unknown or N/A,2812 Diana Dr,,Sellersburg,IN,Floyd,47172,,,Unknown,,,,
+671,85a8eb06-a9b0-4e60-8f42-ab114805ffb4,,Enos M.,,Pray,,,Unknown or N/A,,,,,,,,annapray76@gmail.com,Unknown,,(502) 419-0511,,
+672,66ecff31-a1a3-47b2-aa49-57f2c64ad722,,Steve,,Prewitt,,,Unknown or N/A,5411 Catalina A,,Louisville,KY,,40272,,,Unknown,,,,1126
+673,603f647c-2bcd-4493-8bb7-ab63e829ee44,,Derek,,Pritchard,,,Unknown or N/A,5207 Feathergill,,Greenville,IN,Floyd,47124,,,Unknown,,,,
+674,2ebfdbdf-1f05-4950-86db-7d806c00ce9f,,Janet,,Privett,,,Unknown or N/A,,,,,,,,,Unknown,,(812) 704-4271,,
+675,c7216904-c3f8-4e5d-b98a-c550a4a5d559,,Fred,,Pruess,,,Unknown or N/A,,,,,,,,,Unknown,,,,1378
+676,e90fe16d-db46-44aa-bf59-235c90a79bd2,,Tina,,Qualkenbush,,,Unknown or N/A,7772 South Old State Rd 145,,French Lick,IN,,47432,,,Unknown,,,,
+677,a33a2dc3-06b4-420c-952d-02f00fae85b0,,Angela,,Rabadue,,,Unknown or N/A,,,,,,,,,Unknown,,(812) 704-2595,,
+678,d747793b-1467-4aa8-9dbc-b04b72dfbfa2,,Dottie,,Rabbeth,,,Unknown or N/A,,,,,,,,Dottielo43@twc.com,Unknown,,(502) 457-2361,,
+679,5ecfa5da-656b-4129-a73c-2c0fe9f5814a,,Phillip,,Racicot,,,Unknown or N/A,4050 Hill Grove Rd SW,,Corydon,IN,Harrison,47112,,,Unknown,,,,1128
+680,8a1584cf-e302-4974-b025-282a6cc966ea,,Chance,,Ragains,,,Unknown or N/A,"825 Northgate Blvd, Suite 203",,New Albany,IN,Floyd,47150,,,Unknown,,,,1129
+681,68b7db85-5b91-4d93-bd39-f547d637116f,,Josh,,Raisor,,,Unknown or N/A,1312 Short St,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+682,f42e16cd-9e1e-4d61-929f-040cc487b1fd,,Daraius,,Randelia,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+683,297e4397-4ca8-475d-b113-51570aac3406,,Daraius,,Randelia,,,Unknown or N/A,,,,,,,,daraiusrandelia@att.net,Unknown,,(812) 923-0104,,
+684,7874cc56-6b18-4599-ae7c-1220b618ced1,,Heather,,Randle,,,Unknown or N/A,6307 Marble Falls Dr,,Killeen,TX,Bell,76542,5876,heather.randle@yahoo.com,Opt In,,(480) 570-8751,,
+685,c7fa88a9-ca60-4457-8877-77094ee8a73a,,Shirley,,Raymond,,,Unknown or N/A,7155 S St Louis Rd NW,,Depauw,IN,,47115,,,Unknown,,,,
+686,9f84d637-4b28-4870-9b1b-d58679f4ea89,,Benjamin,,Read,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+687,6ce31a4c-6f63-42b9-be0e-fc4dda666761,,Matt,,Reagan,,,Unknown or N/A,920 Blankenbak,,Louisville,KY,,40243,,,Unknown,,,,
+688,a6d411d2-5084-479e-b0a3-a18882c769d4,,Amanda,,Redden,,,Unknown or N/A,13640 North Rd NW,,Depauw,IN,,47115,,,Unknown,,,,
+689,4812073c-f63e-4762-b494-dc56599a53cc,,Rose,,Reed,,,Unknown or N/A,,,,,,,,rose.lindsey@yahoo.com,Unknown,,,,
+690,5b109e0f-b06a-40d4-aab5-0b18e724376a,,Terri,,Reed,,,Unknown or N/A,2910 Beth Ln NW,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+691,8fa63566-70cb-423d-baa6-7c51386f232b,,John,,Reese,,,Unknown or N/A,1155 E 54th St,,Indianapolis,IN,,46220,,,Unknown,,,,
+692,98d5504c-0a13-4569-8aa3-37ee3c918c7f,,Becky,,Reeves,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+693,00f193e8-ac57-4c6b-a670-880b4a4dfb98,,Dan,,Reeves,,,Unknown or N/A,,,,,,,,dan@fargohc.com,Unknown,,(502) 292-7444,,
+694,71c1dce4-b54e-4289-ae9c-845eec96d6d5,,Carolyn,,Reisert,,,Unknown or N/A,,,,,,,,,Unknown,,(812) 786-6265,,
+695,8849f19c-503a-4341-aad0-578856a0f8fd,,John,,Rhodes,,,Unknown or N/A,7506 Evergreen,,Georgetown,IN,Floyd,47122,,,Unknown,,,,
+696,45f88132-b7a9-40e1-a052-1f9c200eb03a,,Butch,,Richardson,,,Unknown or N/A,319 Power Hou,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+697,9eb819db-a7af-48cd-b357-cbe7b9e41423,,Jackie,,Richardson,,,Unknown or N/A,10602 128th St E,,Puyallup,WA,Pierce,98374,3046,hunterman923@yahoo.com,Opt In,,(253) 350-6611,,
+698,60d091c4-181f-492d-9fe4-60933562bd9b,,Caitlyn,,Richey,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+699,063b5a8e-801b-47f4-8b4e-611afcb18e1b,,Jill M.,,Riede,,,Unknown or N/A,,,,,,,,jillmriede@gmail.com,Unknown,,(502) 418-0785,,
+700,d3bf4f46-16e2-4edc-92de-7b5b9a1f648f,,Keller,,Riede,,,Unknown or N/A,,,,,,,,kellerriedemd@yahoo.com,Unknown,,(502) 458-2695,,
+701,230fc9bf-53f5-4e65-9218-34da340d142a,,Dave,,Riley,,,Unknown or N/A,6465 South Par,,Georgetown,IN,Floyd,47122,,,Unknown,,,,1130
+702,1d0e7dc2-964b-4aa1-b24d-c64866b6a728,,Ronnie,,Rinehart,,,Unknown or N/A,1514 Culbertson,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+703,0cd620be-a44f-4571-b4c3-b3018bc26a5b,,Sarah,,Ring,,,Unknown or N/A,2015 Silver St,,New Albany,IN,Floyd,47150,3852,sarahringhomes@gmail.com,Opt In,,,,
+704,1d9ad8c0-8168-4f77-b249-9019478482e9,,Gary,,Ritz,,,Unknown or N/A,4303 Powderhorn Ct,,Carmel,IN,,46033,,,Unknown,,,,1131
+705,e3be33d3-78ba-4669-9f3d-ffb98bcac392,,Dan,,Roberts,,,Unknown or N/A,PO Box 14154,,Louisville,KY,,40214,,,Unknown,,,,
+706,8dc3f3bb-e9f9-4131-a997-3afd9b424d0f,,Larry,,Robertson,,,Unknown or N/A,8756 Bird Trail Rd,,Depauw,IN,,47115,,,Unknown,,,,1132
+707,2aadf69c-91a1-4783-a1a2-0df0d2139fae,,Doug,,Robson,,,Unknown or N/A,2141 Charles Ct,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+708,f4c2b238-334c-4886-9ccf-3370adc96ed6,,Greg,,Rockey,,,Unknown or N/A,3018 Clearstream  Way,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+709,ed9cb6e7-d743-43a2-9da1-c8f18185bc68,,Sandra,,Rockey,,,Unknown or N/A,,,,,,,,sanrockey@yahoo.com,Unknown,,(812) 288-5182,,
+710,0f8da398-32ec-4afc-b2e3-79fd0695b5f1,,Alex,,Rodden,,,Unknown or N/A,,,,,,,,Arodden01@yahoo.com,Unknown,,(502) 648-7920,,
+711,9f00a992-a899-42f3-9fa1-7f0b0960366b,,Missy,,Rodden,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+712,37a106b5-69a9-4208-87f3-2aa2b2a83d68,,Ella,,Roehrig,,,Unknown or N/A,,,,,,,,morostar@twc.com,Unknown,,,,
+713,7b55f95c-6b44-49b4-88d5-1802b1752203,,Ben,,Rogers,,,Unknown or N/A,,,,,,,,thehappiestplaces@yahoo.com,Unknown,,(502) 403-0829,,1390
+714,1e36dd5f-7c24-4d1f-bc47-e55184f6ed14,,Josh,,Rogers,,,Unknown or N/A,,,,,,,,joshnrogers@gmail.com,Unknown,,(812) 557-2006,,
+715,ff744059-1de8-4ee7-822a-b243f01f85cc,,Michael,,Rogers,,,Unknown or N/A,PO Box 430,,Greenville,IN,Floyd,47124,,,Unknown,,,,
+716,cde4c19e-bd4d-418d-af30-27609d9740ef,,Mara,,Rohrer,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+717,3057272c-4833-4012-9a27-bf88c0a5a4d0,,Larry,,Rol,,,Unknown or N/A,3600 Amy Ln NE,,Greenville,IN,Floyd,47124,,,Unknown,,,,1135
+718,fa8a7efa-c117-42b4-8057-4a0f7ee5558b,,Amy,,Romines,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+719,52178f09-8839-42aa-ad10-8047a6dd330f,,Denise,,Romy,,,Unknown or N/A,,,,,,,,,Unknown,,(502) 648-8267,,
+720,5e02809e-66de-45e8-b64e-c908004d5b66,,Mike,,Rowe,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+721,231c7627-826d-437b-b95e-00493656fa89,,Becky,,Roy,,,Unknown or N/A,,,,,,,,beckyanddavidroy@gmail.com,Unknown,,,,
+722,8dc720ad-6b3a-47a0-a432-0158fca72605,,Beulah,,Royse,,,Unknown or N/A,80 Yankee Way SW,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+723,8b6bc738-d01b-4426-9f80-1907b086921a,,Iris,,Rubadue,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+724,d9e1531b-69d5-40ed-84f1-ff82e4f79556,,Ron,,Russell,,,Unknown or N/A,8950 S Voyles R,,Pekin,IN,,47165,,,Unknown,,,,
+725,24ac9ff2-9f45-4020-9c38-0588e2331afa,,Delyn,,Rutherford,,,Unknown or N/A,,,,,,,,,Unknown,,(812) 216-0863,,
+726,2ab74101-9d28-4348-a02e-3340d6f1cb9b,,Delynn,,Rutherford,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+727,ad47fd00-af2f-4bdb-8282-740400e39541,,Bill,,Sadler,,,Unknown or N/A,6110 Farnsley Knob,,Elizabeth,IN,,47117,,,Unknown,,,,1136
+728,799dab64-3fd8-4b15-b3cb-79597ed08537,,Guy,,Sallee,,,Unknown or N/A,4383 Highway 6,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+729,f9720bd4-912e-4836-941b-e50b1fcb5754,,Cheryl,,Salvagne,,,Unknown or N/A,,,,,,,,cjsalvagne@yahoo.com,Unknown,,(502) 435-1780,,
+730,1439b67b-cacc-4c92-92e3-afa6707f5eec,,Robin,,Samuel,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+731,76ef6063-445c-49c9-9dad-551e8fe4541d,,Alyssa,,Samuels,,,Unknown or N/A,5176 Georgetown Greenville Rd,,Greenville,IN,Floyd,47124,,,Unknown,,,,
+732,19a9cbd1-8796-4e3d-a1f1-d8f1bec478b1,,Cheryl,,Sanchez,,,Unknown or N/A,,,,,,,,Cheryl.Sanchez@lifespringhealthsystems.org,Unknown,,,,
+733,cc99d760-a032-4dbe-bcda-e9df1e562052,,Maddison,,Sanders,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+734,9f4d322c-b2ba-48ab-8bca-582f18ee9d10,,Alex,,Saulman,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+735,a4ded44b-ea74-4d8e-9791-36ffb5eb2380,,Alex,,Saulman,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+736,71c216ec-4409-422a-9bb6-6f7d3dacf5b2,,Kenny,,Saulman,,,Unknown or N/A,2730 Pleasure Ridge Rd SE,,Corydon,IN,Harrison,47112,,,Unknown,,,,1137
+737,bbcee649-4b78-49cb-bf6a-e0fa2a17fee2,,Barbara,,Saunders,,,Unknown or N/A,104 Orchard Hills Drive Apt 58,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+738,3fb0f3f4-f546-49a3-a4d4-79f788ffcc91,,Denis,,Schad,,,Unknown or N/A,,,,,,,,dschad328@gmail.com,Unknown,,(812) 973-9068,,
+739,05d1eaad-6ecc-4fb6-baba-0efcf4b0f1ea,,Ron,,Schad,,,Unknown or N/A,30 Bellewood C,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+740,e3793141-7fd9-42e0-b22e-c32d74224842,,Randy,,Schaffer,,,Unknown or N/A,8051 E St Joseph Rd,,Milltown,IN,,47145,,,Unknown,,,,1138
+741,212f6f7b-11fb-480f-9f57-883211ca3fd5,,Rita,,Schaffer,,,Unknown or N/A,2375 Corydon New Middletown Rd,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+742,f89c6e21-3d4f-4c0f-b481-0dfd02765b38,,Otto,,Schalk,,,Unknown or N/A,1445 Gardner Ln NW #3101,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+743,08f5f83e-e62f-4d60-b920-b4c75a2b7300,,Angie,,Scheider,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+744,2a8936a5-6dd7-4878-9dad-0181ba071701,,Jaunita,,Schimtt,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+745,67922d2d-5432-4738-be8d-9fa8d9d93da0,,Marty,,Schmidt,,,Unknown or N/A,5003 Cooks Creek Knob Rd,,New Albany,IN,Floyd,47150,,,Unknown,,,,1139
+746,0d58c51e-9c6c-4cee-b19c-a91d7805f4b2,,Jean,,Schrecker,,,Unknown or N/A,,,,,,,,jschrecker@humana.com,Unknown,,(502) 476-4468,,
+747,b93bf8c4-c352-4202-b451-4cbc917d252a,,Cindy,,Senator,,,Unknown or N/A,,,,,,,,Csenter@ius.com,Unknown,,(812) 697-9349,,
+748,eeb6e523-d7c8-4239-88f1-bba6e3487385,,Jacqueline Y.,,Sharp,,,Unknown or N/A,,,,,,,,jaccquieh1980@gmail.com,Unknown,,,,
+749,8adb7787-0dbc-4c6d-8680-648d8ffe359e,,Pat,,Sharp,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+750,b6a87868-2cd0-444b-abf0-84ef72656745,,Kathleen,,Shelton,,,Unknown or N/A,3154 Periwinkle Way,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+751,30815b4e-5e87-493b-834d-f3531aa0dc12,,Brad,,Sherrell,,,Unknown or N/A,5267 St John's R,,Greenville,IN,Floyd,47124,,,Unknown,,,,
+752,c676ab58-28b7-4a88-a19b-7fae8aef5b45,,Cindy,,Shireman,,,Unknown or N/A,788 W Heidelburg Rd SW,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+753,2a7fe006-da03-4d63-aee5-05d57146d62d,,Dennis,,Shireman,,,Unknown or N/A,3407 Ashwood,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+754,5f00efa5-9703-47c9-89de-4707139315db,,Mark,,Shireman,,,Unknown or N/A,3770 Walters Rd NE,,Lanesville,IN,,47136,,,Unknown,,,,
+755,f0b16fc0-0fe2-4202-a83f-66d22fa6bfe1,,Drumondo,,Simpson,,,Unknown or N/A,1501 Thomas V.,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+756,d785dbca-1ef7-4426-8012-fee3a1adeb61,,Anita,,Skinner,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+757,586b931c-2a2f-44cf-98d3-9cf664bc92b0,,Anita C.,,Skinner,,,Unknown or N/A,,,,,,,,askinner@nafcs.k12.in.us,Unknown,,,,
+758,05b56f0f-121f-4c26-9c0e-16a479513e16,,Rob,,Slavens,,,Unknown or N/A,,,,,,,,rlbbbs85@yahoo.com,Unknown,,(502) 727-6814,,
+759,e9f3c1c5-11ba-47a8-9770-eb06fbd3118e,,Aaron,,Smith,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+760,82b63910-1758-4ab8-b10d-ad0b9864316f,,Chris,,Smith,,,Unknown or N/A,121-1/2 E Stans,,Clarksville,IN,Clark,47129,,,Unknown,,,,
+761,a82f1e8a-fc98-4b0f-a6a9-8fea09744eca,,Dawn,,Smith,,,Unknown or N/A,,,,,,,,,Unknown,,,,1402
+762,64d16123-3288-43d7-970e-f3e838d6f842,,Jerry,,Smith,,,Unknown or N/A,664 Hampton C,,Sellersburg,IN,Floyd,47172,,,Unknown,,,,
+763,339634ea-529b-434c-ac71-919808c991d3,,Kimberly,,Smith,,,Unknown or N/A,,,,,,,,kimberlylsmith964@yahoo.com,Unknown,,,,
+764,3caa4712-5921-42d0-9059-400c590a57bc,,Larry,,Smith,,,Unknown or N/A,704 Valley View Trace,,New Albany,IN,Floyd,47150,,,Unknown,,,,1141
+765,8587c581-759c-4036-863b-24efc24b434a,,Larry,,Smith,,,Unknown or N/A,3212 Lakewood,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+766,558c6aa4-6a9b-4c26-97d6-550ac36cf905,,Michael,,Smith,,,Unknown or N/A,,,,,,,,mdsmith58@yahoo.com,Unknown,,(502) 714-4999,,
+767,04166866-0de0-4929-80da-a7eb70841f15,,Patricia,,Smith,,,Unknown or N/A,,,,,,,,pgsmithus@aol.com,Unknown,,(502) 200-4532,,
+768,65fd892f-81d5-4be9-a66a-8a6f811d133c,,Patricia,,Smith,,,Unknown or N/A,1 Riverpointe Plaza # 720,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+769,c5810957-23ec-45b2-b19e-3e3fe5e4277e,,William,,Smith,,,Unknown or N/A,1220 Tecumseh,,Indianapolis,IN,,46201,,,Unknown,,,,1142
+770,721fdf28-6303-4eaf-acda-d7e89253e0ba,,Yvonne,,Smith,,,Unknown or N/A,,,,,,,,yvonne@crisisconsultant.com,Unknown,,,,
+771,5bf386fc-729c-4dc5-8c01-c021bb9f2070,,Ed,,Snelling,,,Unknown or N/A,426 Pearl St,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+772,01ad9f0d-c41d-4f16-b9e4-5642d53a832c,,Bridget,,Snelling-Growe,,,Unknown or N/A,,,,,,,,Bridgetsnelling@gmail.com,Unknown,,,,
+773,cd436804-59f1-47bc-b499-44db1410391e,,Glen,,Snow,,,Unknown or N/A,,,,,,,,j.hanen@att.net,Unknown,,(502) 314-2655,,
+774,3496b90b-c167-4d77-8092-011fea1aef36,,Diane,,Sousan,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+775,b2fe709d-50f0-40ed-bf2b-387e7416be8e,,Pat,,Spainhour,,,Unknown or N/A,PO Box 103,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,1143
+776,e4c76b71-dbe5-49b0-b076-de7bdb035c4e,,Frank,,Spalding,,,Unknown or N/A,1130 Dale Ave,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+777,464ff171-5d99-4d1a-a1df-d8f1d1945723,,Jo Ann,,Speith-Saylor,,,Unknown or N/A,301 N Capitol A,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+778,d85b905b-7868-4511-b582-42f24a3f6454,,Kevin,,Spencer,,,Unknown or N/A,1250 Oakes Rd,,Georgetown,IN,Floyd,47122,,,Unknown,,,,
+779,80e5303f-1bb7-4f50-bbb5-79afd066e776,,Jason,,Sprigler,,,Unknown or N/A,,,,,,,,spriggywayne1979@gmail.com,Unknown,,(812) 850-8301,,
+780,4da2a53d-ff13-4dcf-b6f0-9cef2a19175e,,Janet,,Staley,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+781,a5114967-359e-4c74-8ea1-14f550798253,,Cheryl,,Hillenburg,,,Unknown or N/A,309 Indiana Ave,,Milltown,IN,,47145,,,Unknown,,,,1144
+782,ba01dfd3-8df2-4812-9e9d-ee5ff41be8dd,,Steve,,Stange,,,Unknown or N/A,435 Sky Park Dr NE,,Corydon,IN,Harrison,47112,,,Unknown,,,,1145
+783,2801b8c0-7b1b-4f39-a9e3-7e408ee6715d,,Chris,,Stanton,,,Unknown or N/A,3818 Warner Avvenue,,Louisville,KY,Jefferson,40207,,csosowski@gmail.com,Unknown,,,,
+784,afeb9151-33cf-4104-8012-a67e06d7b679,,Beverly,,Stark,,,Unknown or N/A,,,,,,,,tennisbev@bellsouth.net,Unknown,,(502) 744-4862,,
+785,ee805fa5-7a1b-408d-9cea-26e6c897ac4b,,Mark,,Stauffer,,,Unknown or N/A,4156 Lakeside Dr,,Sellersburg,IN,Floyd,47172,,,Unknown,,,,
+786,fefd9e2d-4ba3-4e58-831c-abd701834ee4,,Sonny A.,,Steier,,,Unknown or N/A,,,,,,,,sonysteier@gmail.com,Unknown,,(561) 319-8625,,
+787,b7a2bc30-2014-4455-a642-e492057b8a48,,Paula,,Stein,,,Unknown or N/A,,,,,,,,Paulastein43@gmail.com,Unknown,,(502) 396-7193,,
+788,b9da2570-4d85-459d-8ac4-d491d8d663ff,,Dan,,Steiner,,,Unknown or N/A,1225 Harrison A,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+789,120741c9-4e64-4ea9-9cc3-78d4248d54d8,,Paul,,Stensrud,,,Unknown or N/A,2237 Birch Drive,,Clarksville,IN,Clark,47129,,,Unknown,,,,1146
+790,f09e8451-1231-441a-a5a1-d03f6631a0fe,,Cindy,,Stephens,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+791,da330c1e-c06a-4043-8f3f-61254006991e,,Jessica,,Stephens,,,Unknown or N/A,5559 W Willis R,,Georgetown,IN,Floyd,47122,,,Unknown,,,,
+792,31e85ff6-9fca-46b9-8c23-69c89518eee6,,Rena,,Stepro,,,Unknown or N/A,2329 Corydon Ridge Rd NE,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+793,8c3504af-3d41-46ab-a350-ccbf7e0668d4,,Deborah,,Stevens,,,Unknown or N/A,,,,,,,,debb627@bellsouth.net,Unknown,,,,
+794,940da953-f7d0-4bea-8166-d07a55e9c1f7,,John,,Stingel,,,Unknown or N/A,2846 Plantation,,Sellersburg,IN,Floyd,47172,,,Unknown,,,,
+795,33abe5a4-fb73-428d-8f15-1770338c0e3f,,Meghan,,Stockdale,,,Unknown or N/A,421 Southern Hills Dr,,Borden,IN,Clark,47106,,,Unknown,,,,
+796,4ade362d-8cfb-4c7a-9446-ef65084e5293,,Sheiler,,Stokes,,,Unknown or N/A,200 W Park Plac,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+797,80a6abc6-bdb9-43a8-b7e1-d11a1a0a31b0,,Pastor Dave,,Stone,,,Unknown or N/A,,,,,,,,,Unknown,,(502) 253-8000,,
+798,3c419c48-7a15-4e8f-94ef-4ea3f4059452,,Volena,,Stoner,,,Unknown or N/A,92 Wynn Gate Court,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+799,5acbce73-9eca-48c7-9f22-b8c01fd92a8c,,Sally,,Stouffer,,,Unknown or N/A,,,,,,,,srstouffer59@gmail.com,Unknown,,(502) 645-3138,,
+800,2b787f03-02e1-4f7e-bda9-45ee7f15a15e,,Gary,,Stout,,,Unknown or N/A,7011 W County Rd 25 S,,French Lick,IN,,47432,,,Unknown,,,,
+801,4805fe9e-a27a-43dd-a202-4cdc6b5689d8,,Maggie,,Stoval,,,Unknown or N/A,315 East Chestn,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+802,0cd2a901-e275-40ce-a570-ab5f5a26331f,,William P.,,Strauss,,,Unknown or N/A,,,,,,,,wpstrauss108@gmail.com,Unknown,,(317) 509-7540,,
+803,d64c4e7c-4a5a-44da-ae1e-b8b895e244ad,,Teia,,Stroud-Young,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+804,ab501174-5137-4c97-bebd-6ff84b219c6b,,Doug,,Stull,,,Unknown or N/A,3110 Brazil Lake Pkwy,,Georgetown,IN,Floyd,47122,,,Unknown,,,,1147
+805,37f7c875-120e-4267-a05b-0a0acddac7a0,,Foster,,Styron,,,Unknown or N/A,1851 Canal Ln,,Georgetown,IN,Floyd,47122,,,Unknown,,,,
+806,abb5ce05-bea8-49fe-a072-8d1096db4f4f,,Don,,Summerfield,,,Unknown or N/A,222 Walnut St,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+807,a9310189-359b-498b-9c35-65b7b185e879,,Tamara,,Swarens,,,Unknown or N/A,,,,,,,,tswarens@nafcs.k12.in.us,Unknown,,(502) 541-7322,,
+808,f3b259bd-c960-4dc7-9695-61b7030eb2ba,,Marti,,Tabereaux,,,Unknown or N/A,6903 Ridge Run Circle,,Prospect,KY,,40059,,,Unknown,,,,
+809,ef6b2259-cb75-42c1-83f2-2deefe33b835,,Alyssa,,Taylor,,,Unknown or N/A,,,,,,,,abt@indiana.edu,Unknown,,,,
+810,bea29ad3-8926-4412-a62c-76b8321d7bd2,,Patrick,,Taylor,,,Unknown or N/A,2655 Knobview Ave,,New Albany,IN,Floyd,47150,,,Unknown,,,,1148
+811,95a16e22-92dd-4aca-a043-c58f9acf4f67,,Lisa,,Taylor Jones,,,Unknown or N/A,14444 North Rd,,Depauw,IN,,47155,,,Unknown,,,,
+812,d0b0eac3-a98d-4e42-860c-fe80beab5c49,,Cheri,,Teives,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+813,e594188a-5fcf-415b-975a-da34e9457460,,Pat,,Teives,,,Unknown or N/A,1117 Doebrook Dr,,New Albany,IN,Floyd,47150,,,Unknown,,,,1149
+814,6e267e93-ee48-4d35-ae44-3b868fc7e663,,Sheila,,Tempel,,,Unknown or N/A,1445 Gardner Ln NW,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+815,212eb134-7649-4e33-b387-d2f953fe052a,,Bill,,Therial,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+816,272e6b21-3be7-4c34-bff8-c8e29c965fd8,,Hilda,,Thieneman,,,Unknown or N/A,137 Sky Park Dr,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+817,72dd98cf-b862-4841-ae33-af7ea1d6ab4a,,Kari,,Thom Carter,,,Unknown or N/A,,,,,,,,Ktcarter@republicbank.com,Unknown,,(502) 296-3972,,
+818,6d338594-9d73-4c91-bc62-d7f0ea3b5cbb,,Becky,,Thomas,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+819,c0e8bf42-0772-4985-b3c1-313676ffca14,,Jackie,,Thomas,,,Unknown or N/A,,,,,,,,mark.e.jackie@gmail.com,Unknown,,,,1420
+820,5e8bf3a5-acf9-415c-bfeb-f98c63eccca5,,Michele,,Thomas,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+821,ed90bf07-4f68-45af-bc8c-a5973ded7177,,Steve,,Thomas,,,Unknown or N/A,2722 Charlestown Rd,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+822,28b60e30-c9a0-45da-87d8-a07b71d0fd6d,,Terri D.,,Thomas,,,Unknown or N/A,,,,,,,,terri.todoroff@gmail.com,Unknown,,(502) 649-3598,,
+823,4e102880-dfb8-4f17-83cf-83394bb6f2b8,,Amanda,,Thompson,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+824,3ea46931-6639-469f-8df8-3aa0956ff723,,Gary,,Tilton,,,Unknown or N/A,12004 Timberfield Ct,,Sellersburg,IN,Floyd,47172,,,Unknown,,,,
+825,f477fc94-676a-4991-9527-49cbc25a2ed5,,Bridget,,Timberlake,,,Unknown or N/A,842 Capitol Blvd,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+826,eb21becb-8442-4e22-bf49-39d3603079b5,,Dode,,Timberlake,,,Unknown or N/A,428 E Chestnut St,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+827,fdccdff5-8f92-46d1-a7bc-6a0af77f7f14,,Gynith,,Timberlake,,,Unknown or N/A,838 Capitol Blvd,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+828,0b6e7aa6-3864-4a54-a7c5-f3cfd9f36622,,Sharon,,Timberlake,,,Unknown or N/A,7410 Zollman Dr,,Lanesville,IN,,47136,,,Unknown,,,,
+829,97c75c15-8811-4a39-af15-967538b57a39,,Sharon,,Timberlake,,,Unknown or N/A,707 County Club Estate,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+830,e66b9418-9aa8-418a-a70f-1017238c382c,,Steve,,Timberlake,,,Unknown or N/A,840 Forest Glen NW,,Corydon,IN,Harrison,47112,,,Unknown,,,,1151
+831,09dcff7e-a3bb-4538-88e7-f78e24552c1e,,Tracy,,Timberlake,,,Unknown or N/A,707 Country Club Estates Dr SE,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+832,9a925ae2-f7a0-4039-b20b-8feb7b5c768a,,Mary,,Todd Nord,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+833,d6cd33e9-c368-4d8a-96b4-cb0f745cf1d8,,Steve,,Tompkins,,,Unknown or N/A,2602 Pinehurst,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+834,0fa40a13-ffd1-4673-ba65-339322fab9c8,,Sara Beth,,Tracy,,,Unknown or N/A,,,,,,,,ukbethie@yahoo.com,Unknown,,,,
+835,4600a818-3103-4d28-bf39-07d4fca07acf,,Steve,,Triplett,,,Unknown or N/A,,,,,,,,,Unknown,,,,1424
+836,386e4c19-8061-485b-8e5a-f17be012e7d1,,William,,Tucker,,,Unknown or N/A,,,,,,,,,Unknown,,,,1426
+837,797cb3c4-d089-408f-82ac-54d62b5f5727,,Toni,,Tuker,,,Unknown or N/A,1220 Veterans Parkway Clarksville,,Clarksville,IN,Clark,47129,,,Unknown,,(812) 225-6929,,
+838,9761a428-d3f0-47bd-b21a-47cde7bf658b,,Krista,,Uhl,,,Unknown or N/A,,,,,,,,kristauhl@ymail.com,Unknown,,(502) 649-5209,,
+839,eaf59626-7bb8-4218-9a20-ee0bd088cf7f,,Susan,,Umpleby,,,Unknown or N/A,,,,,,,,susanump@hotmail.com,Unknown,,(812) 653-0436,,
+840,69a8c171-c17d-4b95-9baa-79781aecf8f9,,Shane,,Uttich,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+841,8b5b90bf-46b2-4f8b-99e6-842877978dce,,Mickey,,Utz,,,Unknown or N/A,5667 Scottsville,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,
+842,1d2b04c4-097b-4eac-88a6-4e3f94160925,,Robbie,,Valentine,,,Unknown or N/A,,,,,,,,rvalentine@kfcyumcenter.com,Unknown,,(502) 690-9015,,
+843,e11d0f53-d7d4-422a-b529-26c30ab5096c,,Robbie,,Valentine,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+844,8bd1a068-655d-49d2-a5ec-ad5b40df5393,,Jerry,,Van Carlisle,,,Unknown or N/A,4208 Aberdeen,,New Albany,IN,Floyd,47150,,,Unknown,,,,1154
+845,5bd12103-9fde-464b-a38f-7cd29a9d765a,,Shannon,,Van Ness,,,Unknown or N/A,104 Franklin Dri,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+846,e3ce6caf-2389-4a5c-8b88-4be123a7ddae,,Robert,,Van Otteren,,,Unknown or N/A,,,,,,,,bvanotteren@wright-k.com,Unknown,,(989) 529-1005,,
+847,6cb83ff4-1a54-46bb-b761-d587e89c214a,,Rozanna,,VanGilder,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+848,0815c909-b8e3-4265-a84d-b444cbe613d7,,Elli,,Vassi,,,Unknown or N/A,3315 Saddlewo,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+849,a8e726b5-61b2-4727-9804-632bccf35152,,Brenda,,Vernia,,,Unknown or N/A,5310 Cedarway Dr NE,,Corydon,IN,Harrison,47112,7012,brenda.vernia@twc.com,Opt In,,(812) 952-8813,,
+850,03a4ee1e-dc50-44b2-8c2c-09e3f7eb8a9c,,Howard,,Vigar,,,Unknown or N/A,,,,,,,,dutchvigar@gmail.com,Unknown,,(812) 786-0972,,
+851,8c9bfb93-06c6-4092-a5cd-0276c67b14c1,,Sheryl,,Voelker,,,Unknown or N/A,1141 Hospital D,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+852,0d604313-85d0-4f79-9669-631971613975,,Sly,,Lawrence,,,Unknown or N/A,,,,,,,,,Unknown,,,,1313
+853,574d27f6-8da0-4bad-ab9d-6cfbac7bb311,,Eric,,Voyles,,,Unknown or N/A,818 Capitol Blvd,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+854,dd102cb9-1a9a-4196-b291-b21455a2e91e,,Michelle,,Waggener,,,Unknown or N/A,,,,,,,,michelleandddurb@gmail.com,Unknown,,,,
+855,e83872b7-625a-4e65-9fdd-6be2f3c4a584,,Steve,,Wagner,,,Unknown or N/A,6818 Grant Line,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+856,71c76907-253d-4993-b85a-bd17f5d97fe7,,Charles,,Waits,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+857,a90f31be-2c72-4579-bd62-e6cbb579df12,,Kelly,,Waits,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+858,1b174ed0-f277-4d07-ba95-f70a787eee72,,Bob,,Walker,,,Unknown or N/A,125 Old Hwy 135 SW,,Corydon,IN,Harrison,47112,,,Unknown,,,,1156
+859,d6eed8a9-ae61-4f78-82dc-7323ad43a5e1,,Fred L.,,Walker,,,Unknown or N/A,,,,,,,,fred.195.walker@gmail.com,Unknown,,(502) 432-6334,,
+860,9291cae5-942a-4719-bc80-504d3122b6b9,,Sarah,,Waller,,,Unknown or N/A,,,,,,,,,Unknown,,(502) 337-4589,,
+861,724d6a82-33aa-4784-877b-1c3fe5dcc3d2,,Tommie,,Wallett,,,Unknown or N/A,6079 E Antioch Rd,,Springville,TN,Henry,38256,4445,tommiewallett@yahoo.com,Opt In,,(812) 557-3633,,
+862,59172ced-e80f-4597-b026-61795e9817e6,,Bill,,Walsh,,,Unknown or N/A,3531 Tee Rd,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+863,ab14cac6-b4fb-48ad-b93d-f20abe910adc,,Jim,,Walter,,,Unknown or N/A,1009 Assembly,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,
+864,3ef8e999-2f26-489a-86ac-57aec2a1fc24,,Maelee,,Walther,,,Unknown or N/A,5891 Woody Ln,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+865,538991d9-aecf-40eb-a638-ebafdcb229a6,,Carol,,Walton,,,Unknown or N/A,,,,,,,,,Unknown,,,,1432
+866,acccb8ae-cd32-4a08-a3fb-f336ef21880b,,Grier ward,,Ward,,,Unknown or N/A,3530 Dunwody Dr,,Pensacola,FL,Escambia,32503,3250,grierdh@gmail.com,Opt In,,(850) 712-4013,,
+867,d6a80c6b-0458-431e-b84c-0195abd8e255,,Patti,,Warren,,,Unknown or N/A,5517 Cambridge Court,,Charlestown,IN,Clark,47111,,,Unknown,,,,1158
+868,344451b5-42cf-4aef-9510-bb6d8aa0d310,,Scott,,Waters,,,Unknown or N/A,1023 Woodmount Dr,,New Albany,IN,Floyd,47150,,,Unknown,,,,1159
+869,03170ab6-007e-4936-b480-5161c097bf90,,Velma,,Watkiins,,,Unknown or N/A,"Burdorf Interiors, 401 N. English S",,Louisville,KY,,40223,,vwatkins@burdorf.com,Unknown,,(502) 719-9700,,
+870,025cd895-4edc-4f55-966c-fb630176073b,,Danny,,Watson,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+871,cffe19d4-9696-4fb3-9ccf-c03d1ec66009,,Darrell,,Weaver,,,Unknown or N/A,11895 Glass Ov,,Elizabeth,IN,,47117,,,Unknown,,,,
+872,137cac0e-7d06-4f5f-b80e-d7880c8eabd7,,Lois,,Weber,,,Unknown or N/A,6102 Magnolia Ln Villa 3,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,
+873,0787366f-35d5-4a3a-91ad-0284a227d293,,Rod,,Wehrli,,,Unknown or N/A,13255 Gettlefin,,Palmyra,IN,,47164,,,Unknown,,,,
+874,42a7f4b5-de65-44df-a407-2175a716abac,,John,,Weil,,,Unknown or N/A,3153 High Ridge Dr NE,,Lanesville,IN,,47136,,,Unknown,,,,1160
+875,389310cd-5464-4f6c-8289-d9bb90150454,,Zalman,,Weinberg,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+876,3c75b903-2f02-41b7-82dc-ed20aa681467,,Brian,,Weir,,,Unknown or N/A,832 Granite Dr,,Louisville,KY,,47111,,,Unknown,,,,1161
+877,0141736e-a703-46e4-97a5-c6fceddc6f64,,Anna,,Weisbach,,,Unknown or N/A,,,,,,,,Aweisbach16@gmail.com,Unknown,,(502) 599-0864,,
+878,77c2df86-7dad-4131-9c57-ca1a4f0a38b0,,Michelle,,Wells,,,Unknown or N/A,,,,,,,,greengirl044@yahoo.com,Unknown,,(502) 415-3822,,
+879,6d2d88aa-9a90-4411-ac83-fdbf40271a58,,Michelle,,Wells,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+880,d0e4f5b9-a990-4a5b-83d9-da1d18a848d7,,Linda,,Wells Freiberger,,,Unknown or N/A,,,,,,,,lwellsfr@ius.edu,Unknown,,,,
+881,fd697db3-e680-4104-9390-29ff3798a29b,,Mark,,West,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+882,78d0f213-97bb-489b-a902-30df6647d01b,,Caden,,Wheat,,,Unknown or N/A,2205 E Arrowhead Dr,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+883,c84c6b29-afbe-481e-9eb0-51d0bdf5b5c5,,Claudia,,Wheatley,,,Unknown or N/A,5347 Cedarway Dr NE,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+884,bb9b3194-e67c-41c4-8204-24de48ce5b80,,Matt,,Wheatley,,,Unknown or N/A,3100 Twin Circle Dr,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,1162
+885,f880a813-7d36-4eec-a1e8-322a006cc80a,,Paul,,Wheatley,,,Unknown or N/A,4811 Plum Woods,,Sellersburg,IN,Floyd,47172,,,Unknown,,,,1163
+886,eba8155b-1571-447f-bf20-5cd2d3d442dd,,Steven,,Wheatley,,,Unknown or N/A,7985 Tandy Road,,Lanesville,IN,,47136,,,Unknown,,,,1164
+887,1161c330-c7a7-4dc1-bbae-cd1097132967,,Charles,,White,,,Unknown or N/A,,,,,,,,c.trentconstruction@gmail.com,Unknown,,(502) 974-2109,,
+888,7b3726c1-98f2-4405-a2fd-635692afecf4,,Donnie,,Whitlow,,,Unknown or N/A,2208 W State R,,Scottsburg,IN,,47170,,,Unknown,,,,
+889,79c918cd-a8bf-4456-809d-331a6bec37b6,,Ed,,Wiley,,,Unknown or N/A,3127 Pine Trace,,Louisville,KY,,40272,,,Unknown,,,,
+890,b8aa714c-36bd-4285-9452-7bdebb270454,,Charles,,Wilfong,,,Unknown or N/A,1618 Canal Ln,,Georgetown,IN,Floyd,47122,,,Unknown,,,,
+891,b59ad713-656b-4355-943b-6abb78e6f186,,Sean,,Wilkin,,,Unknown or N/A,1810 Gletz Blan,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+892,320948d3-bab3-4ee2-9c75-559a6858de32,,Jack,,Williams,,,Unknown or N/A,1730 Lynnwood,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+893,fb9d79a4-f358-4043-a8fb-e8c15d14bd89,,Sarah,,Williams,,,Unknown or N/A,,,,,,,,crzy826@gmail.com,Unknown,,,,
+894,ceaff73e-10f2-4b8c-bd1a-d8905dc78f37,,Teah,,Williams-Hampton,,,Unknown or N/A,,,,,,,,teahmik@hotmail.com,Unknown,,,,
+895,faadde95-ad06-46a0-941f-526e9f105852,,Tony,,Willoughby,,,Unknown or N/A,,,,,,,,Cotton@otherside.com,Unknown,,(812) 738-9478,,
+896,34ac2ad3-9297-42f2-92eb-27e50fa4d0d7,,Tony,,Willoughby,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+897,0be78c91-8e65-40f4-bdd0-4021ed549104,,Allen,,Wilson,,,Unknown or N/A,1419 McTavish Dr,,Clarksville,IN,Clark,47129,,,Unknown,,,,
+898,24e0e373-c379-44f7-8092-fd5157f5ef8f,,Dee,,Windell,,,Unknown or N/A,101 S Capitol Av,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+899,ac54d5f2-da87-4d33-b89f-75c66ebff24e,,Anita,,Wise,,,Unknown or N/A,,,,,,,,awise@hearst.com,Unknown,,,,
+900,2ff1556b-6949-49c0-84f5-d50a114abee6,,Melissa,,Wolf,,,Unknown or N/A,,,,,,,,,Unknown,,(812) 258-7836,,
+901,0117b9ab-7e73-47a9-92db-e6422987cd92,,Rhonda,,Wolfe,,,Unknown or N/A,,,,,,,,barckhoffwolfe2@gmail.com,Unknown,,(812) 951-2124,,
+902,8d0f4eed-4e9d-4f7f-bad0-737682bb3e18,,Ben,,Woods,,,Unknown or N/A,4407 Charlesto,,New Albany,IN,Floyd,47150,,,Unknown,,,,1165
+903,37542036-ad04-4a32-853d-8ecd57b9c5ba,,Brandy,,Woods,,,Unknown or N/A,,,,,,,,Brandy@haynesma.com,Unknown,,(812) 218-8000,,
+904,552bb867-be21-4f14-a576-e07935122970,,Reed,,Wrege,,,Unknown or N/A,372 Baylor Wiss,,Georgetown,IN,Floyd,47122,,,Unknown,,,,
+905,a2f435fe-a85b-4804-a72f-99dc00c43bd9,,Jeanne,,Wright,,,Unknown or N/A,2600 Drayton Dr,,Louisville,KY,Jefferson,40205,2332,jwnotquite9@gmail.com,Opt In,,(502) 459-1006,,
+906,00ff4b3c-da51-4155-8755-0297640ecbe2,,Jonathan,,Wright,,,Unknown or N/A,9609 Harrison St,,Greenville,IN,Floyd,47124,,,Unknown,,,,
+907,457c9af0-333b-4c85-861d-e453eac37095,,Mary,,Wright,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+908,d765d520-3117-43e7-ad7e-1265586b4e46,,Matt,,Wright,,,Unknown or N/A,10916 Sunset Dr,,Evansville,IN,,47712,,,Unknown,,,,1166
+909,6284538a-6351-49e6-95d6-ca4d4bfa91e6,,Michael,,Wright,,,Unknown or N/A,2600 Drayton Dr,,Louisville,KY,Jefferson,40205,2332,mike@dreisbachs.com,Opt In,,,,
+910,cb16db2b-d3d9-4408-8235-f75ba3ba426b,,Mike,,Wright,,,Unknown or N/A,1225 Beechwoo,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+911,14ba8655-c6f9-485e-b64f-c6b375a561b9,,Phyllis,,Wright,,,Unknown or N/A,,,,,,,,phyllisw43@twc.com,Unknown,,,,
+912,00484817-4507-4e28-8bdd-54c2bb6b2d10,,Mark,,Wyatt,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+913,ce76d851-7136-43e8-9911-8487fe1cdff3,,Tyler,,Yamaguchi,,,Unknown or N/A,2834 Charlesto,,New Albany,IN,Floyd,47150,,,Unknown,,,,
+914,d2f64dc8-735e-4edf-9632-9c8bf64805dd,,Christy,,Yates,,,Unknown or N/A,,,,,,,,chrisarnp@bellsouth.net,Unknown,,(502) 718-0574,,
+915,45eddea5-d57d-488b-8a5d-ccae667495b6,,Eric Yazel,,Yazel,,,Unknown or N/A,22902 Marrs Ln,,Borden,IN,Clark,47106,7904,eyazel@co.clark.in.us,Opt In,,(812) 725-5927,,
+916,a84f0e16-f2cb-4ea8-950a-000e3249a44f,,Heather,,Yenawine,,,Unknown or N/A,,,,,,,,haydjlouisville@yahoo.com,Unknown,,(502) 558-2621,,
+917,1ff2864a-96ee-490a-86f0-173625a777eb,,Andrew,,Yermian,,,Unknown or N/A,,,,,,,,Andrew.yermian@gmail.com,Unknown,,(310) 463-2033,,
+918,beca0881-9d02-41a4-ab28-4e57c300fc6d,,Andrew,,Yermian,,,Unknown or N/A,550 S Barrington Ave,,Los Angeles,CA,,90049,,,Unknown,,,,
+919,0b9e12d6-c11e-433c-a6db-c98b4b37d4dd,,Curtis,,Yoder,,,Unknown or N/A,,,,,,,,,Unknown,,,,1452
+921,46e480f5-8e7b-4263-930a-6f61fa4b15fe,,Nancy,,Younkin,,,Unknown or N/A,,,,,,,,ncy45@aol.com,Unknown,,(502) 384-2404,,
+922,945eb0a2-a065-4267-bca8-577d5cc41841,,Joni,,Zabel,,,Unknown or N/A,,,,,,,,,Unknown,,,,
+923,419c16fb-64da-4dd8-9711-8970c3c8c744,,Phyllis,,Zaepfel,,,Unknown or N/A,,,,,,,,zaepfel8@aol.com,Unknown,,(812) 987-3764,,
+924,76edb304-fcd0-4e22-b4d9-fb45152881c0,,Marcy,,Ziegler,,,Unknown or N/A,337 Arlington,,Clarksville,IN,Clark,47129,,,Unknown,,,,
+925,4b2b8c16-702f-43c7-a2c1-8031fbc6e082,,Brad,,Zimmerman,,,Unknown or N/A,401 E Chestnut,,Corydon,IN,Harrison,47112,,,Unknown,,,,
+926,2794c777-2ddc-4856-b9c7-8b99b01538b5,,Cindy,,Zimmerman,,,Unknown or N/A,8102 Edgeware Ln,,Louisville,KY,Jefferson,40220,3800,cindy@vojy.com,Opt In,,,,
+927,74c2b0a4-da05-4533-9fdd-b9dc39e3060e,,Ron,,Zink,,,Unknown or N/A,1975 Banner Ave NW,,Corydon,IN,Harrison,47112,,,Unknown,,,,1169
+1024,6a53a722-5fed-4a32-bb69-a43fbafe0b42,,Heath,,Adam,,,Unknown or N/A,5837 S Bloomin,,Underwood,IN,,47177,,,Unknown,,,,2
+1025,27581760-87f5-452a-838b-25880d003c9b,,Susan,,Albert,,,Unknown or N/A,3035 E Lobo Rid,,New Albany,IN,Floyd,47150,,,Unknown,,,,3
+1026,c57dd4ec-ea64-4e74-9617-06df75b6ca9d,,Brooke,,Auberry,,,Unknown or N/A,1434 Flatwood,,New Salisbury,IN,,47161,,,Unknown,,,,17
+1027,ac3af936-0bdd-4ede-94b1-319d134a65e2,,Molly,,Bailey,,,Unknown or N/A,102 Benedetti Ct.,,Cary,NC,,27513,,,Unknown,,,,21
+1028,07cc720a-fd5a-4200-916a-218aa716c270,,Glen,,Baker,,,Unknown or N/A,"One Riverpoint Plaza, #609",,Jeffersonville,IN,Clark,47130,,,Unknown,,,,24
+1029,daae47fa-1cf0-44e2-aeb7-6cf89a092664,,Joe,,Barrett,,,Unknown or N/A,,,,,,,,chicagobarretts@insightbb.com,Unknown,,(812) 406-5712,,1181
+1030,f05758b7-5767-4978-87e8-6215973571ce,,Cindy,,Becker,,,Unknown or N/A,5634 E McCarthy Knob Rd,,New Albany,IN,Floyd,47150,,,Unknown,,,,40
+1031,17bd6722-338f-45fc-8d1e-6f1a48264f22,,Barb,,Bell,,,Unknown or N/A,350 Trimmingham Rd,,New Albany,IN,Floyd,47150,,,Unknown,,,,43
+1032,85a97f53-d590-4793-b0ac-dd5d9dcf9714,,Emily,,Belviy,,,Unknown or N/A,13601 Bennettsville Rd,,Memphis,IN,Clark,47143,,,Unknown,,,,48
+1033,d03657f8-6029-43c9-ab5a-0373ea1e60ad,,Tami,,Black,,,Unknown or N/A,33 Hilltop Rd,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,55
+1034,8d2d475e-95fd-46c7-8520-9d7d96d0e866,,Donna,,Black,,,Unknown or N/A,6856 Hwy 337,,Depauw,IN,,47115,,,Unknown,,,,56
+1035,3798da36-028d-4c6b-bc83-5d4ccf35f1b8,,Brandon,,Blake,,,Unknown or N/A,6072 Buttontown Rd,,Greenville,IN,Floyd,47124,9710,blake1981@outlook.com,Opt In,,(502) 931-8224,,1193
+1037,a1cde0f6-c2aa-48f9-8ce4-2e6152ff4a4b,,Kasey,,Brady,,,Unknown or N/A,3723 Hillside Rd,,Louisville,KY,,40222,,,Unknown,,,,79
+1038,88f8f5f2-90d8-487f-89b9-b02c3431f240,,Patrice,,Branstetter,,,Unknown or N/A,,,,,,,,patricebran@gmail.com,Unknown,,(502) 544-2945,,1198
+1039,ca88200f-cbc9-4918-8ef5-26c238ee089d,,Alisa,,Burch,,,Unknown or N/A,860 Country Club Rd,,New Albany,IN,Floyd,47150,,,Unknown,,,,97
+1040,a8a431b5-21b2-465b-b1e2-7ab574e0ce3c,,Misty,,Burchel,,,Unknown or N/A,6 Franklin Ave,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,98
+1041,9334efb8-7dbc-4102-bad7-da07c4c687f3,,Betty,,Byrd,,,Unknown or N/A,1075 Woodland Ave NW,,Corydon,IN,Harrison,47112,,,Unknown,,,,105
+1042,b297667e-d582-4468-9bb3-d2af505d8382,,Brenda,,Byrne,,,Unknown or N/A,2525 Spickert Knob Rd,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,107
+1043,ff0a3c50-fe6b-413e-a5ae-62f12cea38cb,,Jennie,,Capelle,,,Unknown or N/A,155 Country Club Estates Dr SE,,Corydon,IN,Harrison,47112,,,Unknown,,,,112
+1044,bec30862-bf61-4681-aefd-f5779e00ef9e,,Anita,,Carder,,,Unknown or N/A,8245 SW 106th St,,Ocala,FL,,34481,,,Unknown,,,,114
+1045,89729cc5-8246-4109-83ef-b986e2d20025,,Rebecca,,Carrey,,,Unknown or N/A,500 Shiloh Rd S,,Corydon,IN,Harrison,47112,,,Unknown,,,,118
+1046,266dd73f-60e8-4805-aede-3e04cdc7c57f,,Lindsey,,Carter,,,Unknown or N/A,7855 Four Leaf Dr,,Greenville,IN,Floyd,47124,,,Unknown,,,,120
+1047,afa68238-5ce5-423e-9fb5-5c4862fce3b2,,Thom,,Carter,,,Unknown or N/A,,,,,,,,Ktcarter@republicbank.com,Unknown,,,,1217
+1048,14e110af-af42-4d68-8776-ff75ed1106f3,,Bessie,,Cassady,,,Unknown or N/A,,,,,,,,,Unknown,,,,1219
+1049,39836fac-a322-4f88-a128-43a4fd61ee51,,Cheyenne,,Cheyenne,,,Unknown or N/A,1220 Veterans Pkwy. Clarksville,,Clarksville,IN,Clark,47129,,,Unknown,,(812) 285-1772,,133
+1050,9a878bbd-8ca5-4b5a-b5e6-12c4f46a9148,,Michelle,,Cochran,,,Unknown or N/A,406 S Poplar St,,New Washington,IN,Clark,47162,9505,mmcochran8599@gmail.com,Opt In,,(502) 664-7987,,139
+1051,6c791b64-9f88-4e54-83c5-4e721a3373ab,,Gina,,Combs,,,Unknown or N/A,1423 East Oak S,,New Albany,IN,Floyd,47150,,,Unknown,,,,151
+1052,90023c9a-8ee2-4714-a534-6cdc26bf18a2,,Geri,,Cozine,,,Unknown or N/A,7760 Windy Hill,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,166
+1053,015e016c-f565-44ba-a8bd-43a216f58571,,Theresa,,Dale,,,Unknown or N/A,3009 Walnut Cove Ct,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,175
+1054,d549c8c3-3c26-4dc8-895e-6f630fe661f2,,Phyllis,,Danielson,,,Unknown or N/A,2302 Arthur St,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,176
+1055,051ef486-897e-4238-b346-52707fdfd05b,,Dave,,Campbell,,,Unknown or N/A,,,,,,,,,Unknown,,,,1335
+1056,34be8e4e-c437-4559-8ede-a0616d60893b,,Tammye,,Deardorff,,,Unknown or N/A,615 O'bannon Ave,,Corydon,IN,Harrison,47112,,,Unknown,,,,185
+1057,fb0e7519-e506-4590-bd9b-87538343e4ac,,Michelle,,Dohrman,,,Unknown or N/A,303 Lyndon Woods Circle,,Louisville,KY,,40222,,,Unknown,,,,196
+1058,8c96da65-2d0c-4cb5-af07-1b7e97e144ae,,Debbie,,East,,,Unknown or N/A,,,,,,,,,Unknown,,,,1237
+1059,2ec8e232-f5c8-4e17-baf0-9361733b1298,,Melissa,,Eddy,,,Unknown or N/A,14975 Hwy 135 NE,,Palmyra,IN,,47164,,,Unknown,,,,210
+1060,839d74ae-8372-4ebb-b013-6e89cc413ceb,,Melissa,,Engleman,,,Unknown or N/A,2260 Corydon New Middletown Rd SE,,Corydon,IN,Harrison,47112,,,Unknown,,,,223
+1061,e398c9e3-e69a-4a2b-b5d0-83b7cf3832e8,,Irma,,Eschbacher,,,Unknown or N/A,135 Old Hwy 135 NE,,Corydon,IN,Harrison,47112,,,Unknown,,,,228
+1062,f8e1afb6-613a-417c-b7de-0910afa76f13,,Indie,,Evanczyk,,,Unknown or N/A,1017 Brookstone Ct,,Georgetown,IN,Floyd,47122,,,Unknown,,,,229
+1063,8fddf5bd-3192-4fa8-a182-0e8cb42a21b5,,Mary,,Ferguson,,,Unknown or N/A,6256 Scottsville Rd,,Floyds Knobs,IN,Floyd,47119,9237,mardanjp12@gmail.com,Opt In,,,,237
+1064,c656d1c6-909a-42b3-bb63-b67ae2979724,,Irene,,Fisher,,,Unknown or N/A,1716 Deepwood Ct,,Clarksville,IN,Clark,47129,,,Unknown,,,,245
+1065,e9db91fe-c02a-4f93-afb7-6122cb5ee1e8,,Steve,,Fisher,,,Unknown or N/A,118 Pindo Palm St. W,,Largo,FL,,33770,,,Unknown,,,,246
+1066,76fd3ee6-a78a-416d-9e02-c9c6b21bd744,,Brenda,,Fortner,,,Unknown or N/A,1929 Plum Hill Way,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,252
+1067,b41520ec-988c-4372-9ac0-cace650d7c1e,,Thomas,,Fox,,,Unknown or N/A,,,,,,,,,Unknown,,,,1255
+1068,1d64f163-c4dd-45f0-92f0-9c4d18e18aa9,,Craig,,Gadlage,,,Unknown or N/A,,,,,,,,,Unknown,,,,1257
+1069,d800af2b-9866-4872-8764-928957741b2c,,Jane,,Galownia,,,Unknown or N/A,,,,,,,,,Unknown,,,,1259
+1070,1fac1635-24a1-4d99-9fc3-2eb53f9401ce,,Pam,,Gesenhues,,,Unknown or N/A,8019 Old State Road 60,,Sellersburg,IN,Floyd,47172,,,Unknown,,,,275
+1071,c1596549-7db5-4928-9497-494272d27e46,,Cheryl,,Gettlefinger,,,Unknown or N/A,505 Lexington Blvd,,Carmel,IN,,46032,,,Unknown,,,,276
+1072,0909cfaa-72b5-4a4a-b2cd-c11815f5486f,,Marilyn,,Gibson,,,Unknown or N/A,500 Dillman Spring Way NE,,Corydon,IN,Harrison,47112,,,Unknown,,,,279
+1073,106ecbf9-19af-485a-9d41-192826fcd5d9,,Linda,,Gilliland,,,Unknown or N/A,,,,,,,,lindagill2019@gmail.com,Unknown,,,,1267
+1074,655b9f3e-d2a2-4d1f-a0f9-c2a3618c212d,,Gail,,Glasgow,,,Unknown or N/A,5010 Bent Creek Dr,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,284
+1075,45a3f5aa-4c4b-4cfe-9e1d-65e8af70d977,,Bob,,Glass,,,Unknown or N/A,,,,,,,,,Unknown,,(812) 989-1030,,1271
+1076,8fe5151e-6510-4aef-8a5b-646ca64c05dc,,Vicky,,Gordon,,,Unknown or N/A,121 Locust Grov,,Bardstown,KY,,40004,,,Unknown,,,,289
+1077,7ff7af0b-1fc6-4500-941b-5ee339dd4dd0,,Shay,,Grahn,,,Unknown or N/A,,,,,,,,,Unknown,,,,1275
+1078,477a934e-5bb9-4b24-9337-d0383b12dbe8,,Trish,,Haines,,,Unknown or N/A,,,,,,,,,Unknown,,,,1277
+1079,fd67b58a-5d2b-4d6c-bfeb-13e668c52264,,Theresa,,Hale,,,Unknown or N/A,125 E Montgom,,Clarksville,IN,Clark,47129,,,Unknown,,,,307
+1080,ef9f4c45-2487-4120-baa0-8c46abb7c9e1,,Sharon,,Hammer,,,Unknown or N/A,543 New Middletown Rd SE,,Corydon,IN,Harrison,47112,,,Unknown,,,,314
+1081,941d4fe1-0c87-45bb-bac7-92c0ba74e816,,Amy,,Hardin,,,Unknown or N/A,5120 Creekwoo,,Greenville,IN,Floyd,47124,,,Unknown,,,,318
+1082,2ddf0f6a-6e74-40d6-8c3a-81c9c19dcf60,,Miker,,Hassler,,,Unknown or N/A,,,,,,,,lorih99@bellsouth.net,Unknown,,(502) 491-9390,,1285
+1083,2d22ff97-eced-45fa-a941-f7fb457bf294,,Eric,,Hedrick,,,Unknown or N/A,,,,,,,,,Unknown,,,,1287
+1084,6a898d75-cbe2-4b14-aa1d-cdd614bd7f25,,Nancy,,Hefley,,,Unknown or N/A,13725 Dogwood Ln NW,,Palmyra,IN,,47164,,,Unknown,,,,340
+1085,627e281f-e1cd-4ce2-b357-d71ed3f0a775,,Joyce,,Hollander,,,Unknown or N/A,7650 Jersey Park Rd,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,359
+1086,346c7388-38a2-40f1-b3c6-810c0269c55a,,Jen,,Howard,,,Unknown or N/A,1900 Appleblos,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,364
+1087,40d45c51-d134-4b3f-be55-8a32a356a600,,Kathy,,Howell,,,Unknown or N/A,2125 Flatwoods Rd,,New Salisbury,IN,,47161,,,Unknown,,,,366
+1088,3ee1ea47-333c-48b7-81e3-b7e7ba44cc3b,,Wen,,Hubbs,,,Unknown or N/A,4036 Viewcrest Loop,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,370
+1089,7c9b319b-9880-4863-a613-e5d67f18e176,,Susan,,Hudson,,,Unknown or N/A,7000 Summer Hill Dr,,Georgetown,IN,Floyd,47122,,,Unknown,,,,374
+1090,5bb967b7-6bc4-4494-9b96-3efc1fdf04d8,,Huey,,Nguyen,,,Unknown or N/A,3602 Eagles Trace,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,375
+1091,c72e785e-7791-4361-aea9-a1237d7ab041,,Stacey,,Hughbanks,,,Unknown or N/A,2104 Glencove,,Louisville,KY,Jefferson,40207,,,Unknown,,,,376
+1092,108b8335-492f-4485-9b95-889898df2ebb,,Dee De,,Hurt,,,Unknown or N/A,910 Greenwood,,New Albany,IN,Floyd,47150,,,Unknown,,,,381
+1093,b70409a3-0202-4ab9-928f-e5d4e5b206bd,,Suzanne,,Johnson,,,Unknown or N/A,603 Beharrell A,,New Albany,IN,Floyd,47150,,,Unknown,,,,398
+1094,d83a8c59-7aa2-40d1-853c-ab8115a36f85,,Kim,,Johnson,,,Unknown or N/A,PO Box 3,,Henryville,IN,,47143,,,Unknown,,,,402
+1095,b9b4c645-2708-43bd-8638-5b2607a18e8e,,Theresa,,Johnson,,,Unknown or N/A,925 Pennwood Dr,,New Albany,IN,Floyd,47150,,,Unknown,,,,403
+1096,2405c100-12d3-4cb1-9d03-be4e896cdd28,,Laura,,Kane,,,Unknown or N/A,3003 Lone Wolf Ct,,New Albany,IN,Floyd,47150,,,Unknown,,,,419
+1097,c7341376-c82c-45e2-bb88-689b7b230f30,,Adyson,,Key,,,Unknown or N/A,,,,,,,,,Unknown,,,,1315
+1098,a5dffe76-6332-46c3-a02f-67f58d2be596,,Deena,,Kleehamer,,,Unknown or N/A,1208 Falls Creek Landing,,New Albany,IN,Floyd,47150,,,Unknown,,,,444
+1099,aaa54084-4a91-4148-9543-ead50deebe91,,Lynda,,Koestel,,,Unknown or N/A,5616 Maguire Run Rd,,Louisville,KY,Jefferson,40291,1795,fruitlady1@aol.com,Opt In,,,,446
+1100,e86003ad-0b09-44ea-981d-3cddd3f936b8,,Tim,,Lattire,,,Unknown or N/A,4100 Buffalo Ln SE,,Elizabeth,IN,,47117,,,Unknown,,,,472
+1101,0a0d9c83-8dc3-4cc8-9c64-1c26bc5ec3b5,,Vicki,,Lete,,,Unknown or N/A,1016 Falcon Ct,,New Albany,IN,Floyd,47150,,,Unknown,,,,481
+1102,09d591c9-0247-47a0-a878-ec7a6581d0f9,,Mer,,Lewis,,,Unknown or N/A,P.O. Box 333,,Buckner,KY,,40010,,,Unknown,,,,484
+1103,f0eac448-c089-4243-a6a7-2008faa5218b,,Cheryl,,Lewis,,,Unknown or N/A,9175 Ripperdan,,Mauckport,IN,,47142,,,Unknown,,,,485
+1104,5bc098f4-731c-48d2-aaa8-531775066ba0,,Aund,,Ludlow,,,Unknown or N/A,PO BOX 452,,Santa Claus,IN,,47579,,,Unknown,,,,497
+1105,1656054e-2bc0-4855-aec1-efe65f2d977a,,Bobby,,Ludolph,,,Unknown or N/A,,,,,,,,lovemytea2@hotmail.cpm,Unknown,,,,1332
+1106,5ffb6acf-64a6-488a-b4fb-1737970ab182,,Monic,,Lun,,,Unknown or N/A,84 High Park Drive,,New Albany,IN,Floyd,47150,,,Unknown,,,,502
+1107,52e2b76e-271f-4054-a189-94af3b1a1bdd,,Mary,,Luther,,,Unknown or N/A,2521 Corydon New Middletown Rd,,Corydon,IN,Harrison,47112,,,Unknown,,,,503
+1108,968d6bad-8419-41cd-9a1e-f56d5c1c25d5,,Nate,,Mann,,,Unknown or N/A,7031 Plum Creek Dr,,Sellersburg,IN,Floyd,47172,,,Unknown,,,,508
+1109,f3dbdc9d-2e1c-4aae-a404-c27a31a2e54a,,Angie,,Maxwell,,,Unknown or N/A,,,,,,,,,Unknown,,,,1341
+1110,ac1d5d33-e4ef-4206-8c4d-ed171ffeb753,,Julie,,McCauley,,,Unknown or N/A,551 Karlenia Ct,,Edgewood,IN,,41017,,,Unknown,,,,522
+1111,46578b9d-eb4c-4ee7-b39a-28a02aac213b,,Marie,,McCauley,,,Unknown or N/A,7813 Creek Bottom Rd,,Louisville,KY,Jefferson,40241,,,Unknown,,,,523
+1112,29afe7b3-a8ed-4a75-b0a2-d6f1be457aec,,Nick,,Meriwether,,,Unknown or N/A,12108 Covered Bridge Rd,,Sellersburg,IN,Floyd,47172,,,Unknown,,,,537
+1113,1db69a05-ceaf-4e8a-9150-a0057af136b0,,Kathy,,Meyer,,,Unknown or N/A,8207 County Line Rd,,Sellersburg,IN,Floyd,47172,,,Unknown,,,,542
+1114,61d2c4ef-d6ae-480d-94b5-651ccfd4f5bb,,Lora,,Miller,,,Unknown or N/A,6309 Kenwood Dr NE,,Georgetown,IN,Floyd,47122,,,Unknown,,,,545
+1115,8dd7cfbe-fc2d-4e10-ae84-5c1ca9bfab53,,Michelle,,Minton,,,Unknown or N/A,1965 Old East Road NE,,Palmyra,IN,,47164,,,Unknown,,,,551
+1116,8a3e1099-38dc-4b42-8163-4f051e06926e,,Thomas,,Murray,,,Unknown or N/A,3865 Rocky Hollow Dr,,Corydon,IN,Harrison,47112,,,Unknown,,,,609
+1117,8aa97c39-9e8a-41fb-894c-202da6d6cad7,,Penny,,Neace,,,Unknown or N/A,,,,,,,,,Unknown,,,,1357
+1118,e7e78bf3-6a82-492d-bf2a-5e4205bec1fa,,Kerry,,Newland,,,Unknown or N/A,7018 Westridge Forest Ct,,Lanesville,IN,,47136,,,Unknown,,,,620
+1119,e57933d4-6b01-4051-89a6-2ef0475c7c1a,,Keryy,,Nicolas,,,Unknown or N/A,3421 Greenview Dr,,New Albany,IN,Floyd,47150,,,Unknown,,,,624
+1120,c0f6cb39-7ba7-484e-b589-a4aa0dd499c5,,Michelle,,Owings,,,Unknown or N/A,,,,,,,,,Unknown,,,,1364
+1121,29f042ce-4852-4853-9d47-db87411c85fd,,Mich,,Parkerson,,,Unknown or N/A,2319 Charlesto,,Jeffersonville,IN,Clark,47130,,,Unknown,,,,643
+1122,880e89f8-c0fc-4b16-bc64-68f3a26bfa51,,Charlene,,Pate,,,Unknown or N/A,1160 Savoy st,,San Diego,CA,,92107,,,Unknown,,,,650
+1123,ef50cf04-a876-4b17-9245-1282e757cc97,,Kathy,,Pate,,,Unknown or N/A,,,,,,,,pnkpate@gmail.com,Unknown,,,,1370
+1124,6c21b08a-faf1-4627-9e55-e79b2b0f55ad,,Julie,,Pendleton,,,Unknown or N/A,30 South Portola,,South Laguna,CA,,92677,,,Unknown,,,,658
+1125,6bf37218-5a01-43b6-80f5-461707bc63f0,,Cindy,,Plappert,,,Unknown or N/A,1431 Goodard Ave,,Louisville,KY,,40204,,,Unknown,,,,668
+1126,1ac16063-2665-44bb-a566-c5ccbb79e8a9,,Becky,,Prewitt,,,Unknown or N/A,5411 Catalina A,,Louisville,KY,,40272,,,Unknown,,,,672
+1127,aa56da41-87d0-43c6-a2b1-3531b73c3d56,,Janis,,Pruess,,,Unknown or N/A,,,,,,,,,Unknown,,,,1379
+1128,3e35de26-2aed-40e3-a6bc-1d1d14d14621,,Cathy,,Racicot,,,Unknown or N/A,4050 Hill Grove Rd SW,,Corydon,IN,Harrison,47112,,,Unknown,,,,679
+1129,bd15e502-12d9-4413-84b0-9a75db372500,,Crystal,,Ragains,,,Unknown or N/A,"825 Northgate Blvd, Suite 203",,New Albany,IN,Floyd,47150,,,Unknown,,,,680
+1130,a0613f56-ffe7-47c6-9be4-005674f868ad,,Nancy,,Riley,,,Unknown or N/A,6465 South Par,,Georgetown,IN,Floyd,47122,,,Unknown,,,,701
+1131,664bf712-019c-4a76-bc4c-a5c5cb8f627a,,Glenda,,Ritz,,,Unknown or N/A,4303 Powderhorn Ct,,Carmel,IN,,46033,,,Unknown,,,,704
+1132,2878e4e1-1ed6-446a-ae5a-779560858670,,Leslie,,Robertson,,,Unknown or N/A,8756 Bird Trail Rd,,Depauw,IN,,47115,,,Unknown,,,,706
+1134,01014322-8edc-4943-9b45-55839a9be22c,,Sonny,,Rogers,,,Unknown or N/A,,,,,,,,thehappiestplaces@yahoo.com,Unknown,,(502) 403-0829,,1391
+1135,882ab591-3312-42d5-b890-56fa8a093793,,Cheryl,,Rol,,,Unknown or N/A,3600 Amy Ln NE,,Greenville,IN,Floyd,47124,,,Unknown,,,,717
+1136,8a218d2f-2e3b-49de-aab7-14ec2421a607,,Katharine,,Sadler,,,Unknown or N/A,6110 Farnsley Knob,,Elizabeth,IN,,47117,,,Unknown,,,,727
+1137,d1138000-a0b1-4d7e-9417-21f435fad8a3,,Naomi,,Saulman,,,Unknown or N/A,2730 Pleasure Ridge Rd SE,,Corydon,IN,Harrison,47112,,,Unknown,,,,736
+1138,43ad18c9-a610-40b7-a628-a8d87d5a9e26,,Peggy,,Schaffer,,,Unknown or N/A,8051 E St Joseph Rd,,Milltown,IN,,47145,,,Unknown,,,,740
+1139,da117435-4804-4c57-bc9a-5ca2fe1b042e,,Jeannie,,Schmidt,,,Unknown or N/A,5003 Cooks Creek Knob Rd,,New Albany,IN,Floyd,47150,,,Unknown,,,,745
+1140,024fdc86-8325-47aa-9026-9611d648fba0,,Glenn,,Smith,,,Unknown or N/A,,,,,,,,,Unknown,,,,1405
+1141,7602a266-64c9-4def-a3ce-12293fb09491,,Yvonne,,Smith,,,Unknown or N/A,704 Valley View Trace,,New Albany,IN,Floyd,47150,,,Unknown,,,,764
+1142,fca846dc-e2d8-4b90-b424-f17864dc3f93,,Dorothy,,Smith,,,Unknown or N/A,1220 Tecumseh,,Indianapolis,IN,,46201,,,Unknown,,,,769
+1143,ce0db21f-0aaa-4590-adba-6206ef0dc29d,,Cindy,,Spainhour,,,Unknown or N/A,PO Box 103,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,775
+1144,babf7e69-dc83-4014-aac3-3fb718ab9c81,,Stan,,Pennington,,,Unknown or N/A,309 Indiana Ave,,Milltown,IN,,47145,,,Unknown,,,,781
+1145,7174e11d-6148-4e94-8f28-94b1312d22cf,,Mary,,Stange,,,Unknown or N/A,435 Sky Park Dr NE,,Corydon,IN,Harrison,47112,,,Unknown,,,,782
+1146,a648a5cf-a436-4626-9e60-569ac3fba5c7,,Michele,,Stensrud,,,Unknown or N/A,2237 Birch Drive,,Clarksville,IN,Clark,47129,,,Unknown,,,,789
+1147,767fcf40-4bec-4bd0-b690-19c7261d3b7e,,Miriam,,Stull,,,Unknown or N/A,3110 Brazil Lake Pkwy,,Georgetown,IN,Floyd,47122,,,Unknown,,,,804
+1148,1859506d-6ba0-4763-b39d-5fc0e93d9a87,,Jessica,,Taylor,,,Unknown or N/A,2655 Knobview Ave,,New Albany,IN,Floyd,47150,,,Unknown,,,,810
+1149,1ce8e8d1-1442-4313-a929-5d9ff3d66bae,,Cheryl,,Teives,,,Unknown or N/A,1117 Doebrook Dr,,New Albany,IN,Floyd,47150,,,Unknown,,,,813
+1150,d6f4c46f-22f9-42f5-8483-039a14eb03ae,,Mark,,Thomas,,,Unknown or N/A,,,,,,,,mark.e.jackie@gmail.com,Unknown,,,,1421
+1151,cbbe4995-8038-40ca-9249-66ec26cbb433,,Jeanie,,Timberlake,,,Unknown or N/A,840 Forest Glen NW,,Corydon,IN,Harrison,47112,,,Unknown,,,,830
+1152,0e2ea517-ceb2-482f-8770-ca3cfa9709a0,,Maria,,Triplett,,,Unknown or N/A,,,,,,,,,Unknown,,,,1425
+1153,9e9e8e37-b321-4102-954f-66d3fc6a9c13,,MaryAnn,,Tucker,,,Unknown or N/A,,,,,,,,,Unknown,,,,1427
+1154,fbfeda62-67d9-4b82-942d-30dd75a41366,,Eloise,,Van Carlisle,,,Unknown or N/A,4208 Aberdeen,,New Albany,IN,Floyd,47150,,,Unknown,,,,844
+1155,91f37523-3431-4a75-b986-a5dfde3a13e6,,Von,,Kannel,,,Unknown or N/A,,,,,,,,,Unknown,,,,1322
+1156,deeff203-d8da-405f-a662-99e3f96aaeae,,Margaret,,Walker,,,Unknown or N/A,125 Old Hwy 135 SW,,Corydon,IN,Harrison,47112,,,Unknown,,,,858
+1157,a6563e5b-66bc-423e-88a1-2a6faa335e2d,,Dan,,Walton,,,Unknown or N/A,,,,,,,,,Unknown,,,,1433
+1158,172e46ac-f660-4fde-9482-fc2ba9be9cec,,Kevin,,Warren,,,Unknown or N/A,5517 Cambridge Court,,Charlestown,IN,Clark,47111,,,Unknown,,,,867
+1159,7b1a4117-7d8b-4a4a-9f89-c8bc0493ea80,,Anne,,Waters,,,Unknown or N/A,1023 Woodmount Dr,,New Albany,IN,Floyd,47150,,,Unknown,,,,868
+1160,43f758d9-5e60-4222-869c-e9592395f0a2,,Jean,,Weil,,,Unknown or N/A,3153 High Ridge Dr NE,,Lanesville,IN,,47136,,,Unknown,,,,874
+1161,eac3920d-dc82-4590-9b1f-5b351f81bf3c,,Tammy,,Weir,,,Unknown or N/A,832 Granite Dr,,Louisville,KY,,47111,,,Unknown,,,,876
+1162,687e8bfa-0683-4f42-922b-3a2e1d3a00c9,,Maria,,Wheatley,,,Unknown or N/A,3100 Twin Circle Dr,,Floyds Knobs,IN,Floyd,47119,,,Unknown,,,,884
+1163,a99ddd9d-5801-40b8-b9dc-eab23c5a5c37,,Amy,,Wheatley,,,Unknown or N/A,4811 Plum Woods,,Sellersburg,IN,Floyd,47172,,,Unknown,,,,885
+1164,66855360-9479-40be-9a00-076e7bf0b953,,Kris,,Wheatley,,,Unknown or N/A,7985 Tandy Road,,Lanesville,IN,,47136,,,Unknown,,,,886
+1165,e6cfd437-2abe-4f14-aef6-707442876784,,Crystal,,Woods,,,Unknown or N/A,4407 Charlesto,,New Albany,IN,Floyd,47150,,,Unknown,,,,902
+1166,db263586-b97b-419e-a26d-fbb74d3d2b0f,,Kelsie,,Wright,,,Unknown or N/A,10916 Sunset Dr,,Evansville,IN,,47712,,,Unknown,,,,908
+1167,64f515a2-0e08-40bc-a1e6-b33ab539ea45,,Yolanda,,Yoder,,,Unknown or N/A,,,,,,,,,Unknown,,,,1453
+1169,0d44586c-6f8b-456a-bb32-63524430a1e2,,Jennifer,,Zink,,,Unknown or N/A,1975 Banner Ave NW,,Corydon,IN,Harrison,47112,,,Unknown,,,,927
+1180,19f72e84-298b-4b61-86ba-19b9d82d5403,,Joe,,Barrett,,,Unknown or N/A,,,,,,,,,Unknown,,,,34
+1181,2c3ef8a3-3ff5-4c90-baaf-46b5493d83c7,,Audrey,,Barrett,,,Unknown or N/A,,,,,,,,,Unknown,,,,1029
+1192,d74176c3-46f8-438b-bc0f-c5ecec9d7348,,Brandon,,Blake,,,Unknown or N/A,,,,,,,,,Unknown,,,,60
+1193,6dbd92ea-d6fc-4601-b8bf-922f06ed553f,,Jessica,,Blake,,,Unknown or N/A,6072 Buttontown Rd,,Greenville,IN,Floyd,47124,,,Unknown,,,,1035
+1197,2ecda9e4-b3f5-48b0-b32a-612bf76a0dfa,,Patrice,,Branstetter,,,Unknown or N/A,,,,,,,,,Unknown,,,,82
+1198,187998f6-3bd0-4d64-94d9-eca85d8f22a0,,Jeff,,Branstetter,,,Unknown or N/A,,,,,,,,,Unknown,,,,1038
+1207,42cc89ba-b03e-4757-ad7b-c35da96a2fdc,,Dave,,Campbell,,,Unknown or N/A,,,,,,,,,Unknown,,,,178
+1215,3a029bd2-d099-4455-8ff6-2fbac01a9f6e,,Thom,,Carter,,,Unknown or N/A,,,,,,,,,Unknown,,,,121
+1217,156b485f-e4eb-45e4-afe6-f3cbbac28500,,Kari,,Carter,,,Unknown or N/A,,,,,,,,,Unknown,,,,1047
+1218,c5687450-cf96-454a-9687-1b56928b58a9,,Bessie,,Cassady,,,Unknown or N/A,,,,,,,,,Unknown,,,,127
+1219,9385e9c7-f9ce-47be-b19b-3568a34562f8,,Perry,,Cassady,,,Unknown or N/A,,,,,,,,,Unknown,,,,1048
+1236,00e408d8-b1d8-470e-a8b8-eb090ba44217,,Debbie,,East,,,Unknown or N/A,,,,,,,,,Unknown,,,,207
+1237,ead16a8c-f6fa-45ee-bd99-7dd13836e905,,Danny,,East,,,Unknown or N/A,,,,,,,,,Unknown,,,,1058
+1254,3076417e-1cba-4f0a-b39d-c9c6790186a3,,Thomas,,Fox,,,Unknown or N/A,,,,,,,,,Unknown,,,,254
+1255,1d1e5671-17ec-40a3-ae61-cb721acf82fe,,Candyce,,Fox,,,Unknown or N/A,,,,,,,,,Unknown,,,,1067
+1256,adf1dee7-8e4b-431c-b272-9d7bb21a8f1c,,Craig,,Gadlage,,,Unknown or N/A,,,,,,,,,Unknown,,,,263
+1257,2d5e44bf-03b9-491f-9876-ff58141aac16,,Bev,,Gadlage,,,Unknown or N/A,,,,,,,,,Unknown,,,,1068
+1258,7307bd73-c4c1-4611-a6d9-827dfb146c2e,,Jane,,Galownia,,,Unknown or N/A,,,,,,,,,Unknown,,,,266
+1259,428fc143-cf3f-470b-862b-6d3482db29cc,,Joe,,Galownia,,,Unknown or N/A,,,,,,,,,Unknown,,,,1069
+1266,c7dc82a1-c40d-4f28-ba58-ff488a0a21e5,,Linda,,Gilliland,,,Unknown or N/A,,,,,,,,,Unknown,,,,282
+1267,af830e83-e539-4c7a-9cc2-b5fd8daf63ef,,Steve,,Gilliland,,,Unknown or N/A,,,,,,,,,Unknown,,,,1073
+1270,d20b3006-b378-4b31-8e45-0233034b47b5,,Bob,,Glass,,,Unknown or N/A,,,,,,,,,Unknown,,,,285
+1271,0f1cb811-59d4-4e39-9f0e-b66edbe7d981,,Sara,,Glass,,,Unknown or N/A,,,,,,,,,Unknown,,,,1075
+1274,332dbd88-970c-42f8-b786-76a2aaab2bef,,Shay,,Grahn,,,Unknown or N/A,,,,,,,,,Unknown,,,,293
+1275,fdaf3df0-d1f1-49c7-8738-cd8e657c0b01,,James,,Grahn,,,Unknown or N/A,,,,,,,,,Unknown,,,,1077
+1276,09ff6125-7a74-4d06-8ed8-58a3bd0820af,,Trish,,Haines,,,Unknown or N/A,,,,,,,,,Unknown,,,,306
+1277,8f0ddab1-b7e6-4203-9556-e6510887216a,,Rick,,Haines,,,Unknown or N/A,,,,,,,,,Unknown,,,,1078
+1284,751bb3f3-872a-4c3d-9d2b-5ec01c57f07d,,Miker,,Hassler,,,Unknown or N/A,,,,,,,,,Unknown,,,,330
+1285,f69f8c21-d498-4405-9094-7b597147a3ac,,Lori,,Hassler,,,Unknown or N/A,,,,,,,,,Unknown,,,,1082
+1286,7099db6d-4b3c-4b2f-ae8a-1b88080c8144,,Eric,,Hedrick,,,Unknown or N/A,,,,,,,,,Unknown,,,,339
+1287,8539a3ac-d555-4920-b1ad-fd76eb182644,,Toni,,Hedrick,,,Unknown or N/A,,,,,,,,,Unknown,,,,1083
+1313,2e6b3766-4fe5-4675-aad6-37e2b91ff192,,Von,,Kannel,,,Unknown or N/A,,,,,,,,,Unknown,,,,852
+1314,a496e329-8cb9-437b-89c2-4ff776a3ff5e,,Adyson,,Key,,,Unknown or N/A,,,,,,,,,Unknown,,,,431
+1315,451597fc-b2e1-48e5-b95a-91497fa7379a,,Sara,,Key,,,Unknown or N/A,,,,,,,,,Unknown,,,,1097
+1322,e5c65581-369f-4706-ac8b-1dc613bb2f7b,,Sly,,Lawrence,,,Unknown or N/A,,,,,,,,,Unknown,,,,1155
+1331,b486fd27-572c-4377-8b17-7248e8a44654,,Bobby,,Ludolph,,,Unknown or N/A,,,,,,,,,Unknown,,,,498
+1332,3c6259af-8b0c-4aea-99c1-5c3a98767843,,Michelle,,Ludolph,,,Unknown or N/A,,,,,,,,,Unknown,,,,1105
+1335,fbabd507-ae20-48f1-b06c-c813fdc5c89e,,Lisa,,Lutgring,,,Unknown or N/A,,,,,,,,,Unknown,,,,1055
+1340,258982b0-4105-4dd1-b174-aab4c10e7b1a,,Angie,,Maxwell,,,Unknown or N/A,,,,,,,,,Unknown,,,,515
+1341,21c746b7-1820-4f55-85b6-c3ca24bf0e71,,Mark,,Maxwell,,,Unknown or N/A,,,,,,,,,Unknown,,,,1109
+1356,6213303b-1c15-4868-afc9-cbc45088741f,,Penny,,Neace,,,Unknown or N/A,,,,,,,,,Unknown,,,,615
+1357,bdf3d7ba-acf1-4a65-9f76-b32b2a3c90db,,John,,Neace,,,Unknown or N/A,,,,,,,,,Unknown,,,,1117
+1363,d39180c0-8178-43b7-b9ae-f96203d59a00,,Michelle,,Owings,,,Unknown or N/A,,,,,,,,,Unknown,,,,637
+1364,b9357adf-627f-423c-ab3b-9e60d1d1e376,,Bob,,Owings,,,Unknown or N/A,,,,,,,,,Unknown,,,,1120
+1368,a122304c-cbad-4efc-a036-14924ed130bd,,Kathy,,Pate,,,Unknown or N/A,,,,,,,,,Unknown,,,,651
+1370,525ccf2d-56d0-4980-9996-9394cbe837b3,,Phillip,,Pate,,,Unknown or N/A,,,,,,,,,Unknown,,,,1123
+1378,de1e3ae4-9732-4475-8410-32dff3c16ddd,,Janis,,Pruess,,,Unknown or N/A,,,,,,,,,Unknown,,,,675
+1379,0d920a65-62fc-49b8-9b47-c2fc858d3b48,,Fred,,Pruess,,,Unknown or N/A,,,,,,,,,Unknown,,,,1127
+1390,89adf358-8cc3-4704-a93e-ab00fcd36805,,Sonny,,Rogers,,,Unknown or N/A,,,,,,,,,Unknown,,,,713
+1391,6463b33e-5f0f-487b-9848-8bc156267f0c,,Ben,,Rogers,,,Unknown or N/A,,,,,,,,,Unknown,,,,1134
+1402,bd4df1a0-1b60-472b-b4a1-4a4d754ca1d5,,Glenn,,Smith,,,Unknown or N/A,,,,,,,,,Unknown,,,,761
+1405,50845547-e55c-41c1-a849-7aeea3a61de6,,Dawn,,Smith,,,Unknown or N/A,,,,,,,,,Unknown,,,,1140
+1420,7bb05279-01e6-4014-af02-f09ca33193cb,,Mark,,Thomas,,,Unknown or N/A,,,,,,,,,Unknown,,,,819
+1421,564bf750-8236-43c0-8708-18c2e412e37b,,Jackie,,Thomas,,,Unknown or N/A,,,,,,,,,Unknown,,,,1150
+1424,f6274ecf-1054-42bb-9bc4-3e8e428f6054,,Maria,,Triplett,,,Unknown or N/A,,,,,,,,,Unknown,,,,835
+1425,c7643472-0d60-462b-ba3f-f0924871af2e,,Steve,,Triplett,,,Unknown or N/A,,,,,,,,,Unknown,,,,1152
+1426,3ac24a35-c566-4944-b483-b5c273c411ed,,MaryAnn,,Tucker,,,Unknown or N/A,,,,,,,,,Unknown,,,,836
+1427,89e9f8aa-a1ce-4980-9545-99738c3091ab,,William,,Tucker,,,Unknown or N/A,,,,,,,,,Unknown,,,,1153
+1432,369a805b-b6fa-4361-904b-197d33f9eebf,,Dan,,Walton,,,Unknown or N/A,,,,,,,,,Unknown,,,,865
+1433,e6876a68-149a-4529-8a01-0aecca43ae1c,,Carol,,Walton,,,Unknown or N/A,,,,,,,,,Unknown,,,,1157
+1452,6b30ce6b-60b2-40a2-8cf5-38bd9434f834,,Yolanda,,Yoder,,,Unknown or N/A,,,,,,,,,Unknown,,,,919
+1453,cec134bc-d1aa-418c-9676-07e414f473d8,,Curtis,,Yoder,,,Unknown or N/A,,,,,,,,,Unknown,,,,1167
+1456,f0029bc6-9a34-40b5-8335-6be4d2ea1864,,Cody,,Ring-Rissler,,1989-01-11,Male,646 NW 85th St,APT B,Seattle,WA,King,98117,3161,cody.ring.rissler@gmail.com,Opt In,,,,
+1458,609b4385-098d-419d-98d9-1dee3f779f5a,,Sonia,,Marshall,,,Unknown or N/A,502 Autumn Grove Cir,,New Albany,IN,Floyd,47150,6404,soniapmarshall@gmail.com,Opt In,,,,

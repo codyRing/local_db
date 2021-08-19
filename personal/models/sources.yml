@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: mint
+    schema: mint
+    tables:
+      - name: transactions
+      - name: budget
+      - name: transactions_history
+      - name: transactions_history_snapshot
+      - name: d_date
+  - name: breakaway
+    schema: breakaway
+    tables:
+      - name: breakaway_customers

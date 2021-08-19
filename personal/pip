@@ -1,0 +1,8 @@
+Collecting personal
+  Downloading personal-0.1.1-py3-none-any.whl (6.1 kB)
+Collecting install
+  Downloading install-1.3.4-py3-none-any.whl (3.1 kB)
+Collecting pycrypto
+  Downloading pycrypto-2.6.1.tar.gz (446 kB)
+Collecting twilio
+  Downloading twilio-6.48.0.tar.gz (460 kB)

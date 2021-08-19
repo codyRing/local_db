@@ -1,0 +1,86 @@
+category,fixed,discretionary,invest,income,other_two
+Advertising,0,1,0,0,0
+"Air Travel",0,1,0,0,0
+"Alcohol & Bars",0,1,0,0,0
+Amusement,0,1,0,0,0
+Arts,0,1,0,0,0
+"ATM Fee",0,1,0,0,0
+"Auto & Transport",0,1,0,0,0
+"Auto Insurance",1,0,0,0,0
+"Auto Payment",1,0,0,0,0
+"Bank Fee",0,1,0,0,0
+"Bills & Utilities",0,1,0,0,0
+Books,0,1,0,0,0
+"Business Services",0,1,0,0,0
+"Cash & ATM",0,1,0,0,0
+Charity,0,1,0,0,0
+Clothing,0,1,0,0,0
+"Coffee Shops",0,1,0,0,0
+Doctor,0,1,0,0,0
+Education,1,0,0,0,0
+"Electronics & Software",0,1,0,0,0
+Entertainment,0,1,0,0,0
+Eyecare,0,1,0,0,0
+"Fast Food",0,1,0,0,0
+"Federal Tax",0,0,0,1,0
+"Fees & Charges",0,1,0,0,0
+"Finance Charge",0,0,0,1,0
+Financial,0,0,1,0,0
+"Financial Advisor",0,0,1,0,0
+"Food & Dining",0,1,0,0,0
+Furnishings,0,1,0,0,0
+"Gas & Fuel",0,1,0,0,0
+Gift,0,1,0,0,0
+"Gifts & Donations",0,1,0,0,0
+Groceries,0,1,0,0,0
+"Guitar Stuff",0,1,0,0,0
+Gym,0,1,0,0,0
+Hair,0,1,0,0,0
+"Health & Fitness",0,1,0,0,0
+"Health Insurance",1,0,0,0,0
+Hobbies,0,1,0,0,0
+Home,0,1,0,0,0
+"Home Improvement",0,1,0,0,0
+"Home Insurance",1,0,0,0,0
+"Home Phone",0,1,0,0,0
+"Home Services",0,1,0,0,0
+"Home Supplies",0,1,0,0,0
+Hotel,0,1,0,0,0
+Income,0,0,0,1,0
+"Interest Income",0,0,0,1,0
+Internet,1,0,0,0,0
+Kids,0,1,0,0,0
+"Kids Activities",0,1,0,0,0
+"Lawn & Garden",0,1,0,0,0
+"Loan Payment",1,0,0,0,0
+"Mobile Phone",1,0,0,0,0
+"Mortgage & Rent",1,0,0,0,0
+"Movies & DVDs",0,1,0,0,0
+Music,0,1,0,0,0
+"Newspapers & Magazines",0,1,0,0,0
+Parking,0,1,0,0,0
+Paycheck,0,0,0,1,0
+"Personal Care",0,1,0,0,0
+Pharmacy,0,1,0,0,0
+Printing,0,1,0,0,0
+"Public Transportation",0,1,0,0,0
+Reimbursement,0,0,0,1,0
+"Rental Car & Taxi",0,1,0,0,0
+"Rental Income",0,0,0,1,0
+Restaurants,0,1,0,0,0
+"Returned Purchase",0,0,0,1,0
+"Service & Parts",0,1,0,0,0
+"Service Fee",0,1,0,0,0
+Shipping,0,1,0,0,0
+Shopping,0,1,0,0,0
+"Spa & Massage",0,1,0,0,0
+"Sporting Goods",0,1,0,0,0
+Sports,0,1,0,0,0
+"Student Loan",0,1,0,0,0
+Subscription_Service,1,0,0,0,0
+Taxes,1,0,0,0,0
+Television,0,1,0,0,0
+Travel,0,1,0,0,0
+Tuition,0,1,0,0,0
+Uncategorized,0,1,0,0,0
+Utilities,1,0,0,0,0
