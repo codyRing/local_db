@@ -1,0 +1,10 @@
+
+    
+    create table "postgres"."mint"."BP" (Date text,Sys integer,DIA integer,Weight integer)
+  ;
+    -- dbt seed --
+    
+            insert into "postgres"."mint"."BP" (Date, Sys, DIA, Weight) values
+            (%s,%s,%s,%s)
+        
+  
